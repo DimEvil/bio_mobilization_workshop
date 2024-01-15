@@ -1,5 +1,5 @@
 ---
-title: "GBIF Discussion & Croment BioBlitz"
+title: "GBIF Discussion"
 start: true
 discussion: 30
 questions:
