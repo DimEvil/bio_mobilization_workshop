@@ -1,5 +1,5 @@
 ---
-title: "Openrefine"
+title: "BioBlitz & Openrefine continued"
 start: true
 teaching: 0
 exercises: 90
