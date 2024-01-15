@@ -21,5 +21,4 @@ keypoints:
   </a>
 
 
-# 2: Presentation on the Croatian node
 
