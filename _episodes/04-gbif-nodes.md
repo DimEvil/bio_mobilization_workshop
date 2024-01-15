@@ -1,5 +1,5 @@
 ---
-title: "The GBIF nodes, the Croatian Node and network"
+title: "The GBIF nodes and network"
 start: true
 teaching: 75
 exercises: 0
@@ -21,5 +21,4 @@ keypoints:
   </a>
 
 
-# 2: Presentation on the Croatian node
 
