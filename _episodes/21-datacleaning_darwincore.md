@@ -4,7 +4,7 @@ teaching: 0
 exercises: 120
 questions:
 - "How to convert dates to ISO?"
-- "How to match scientific names to WoRMS?"
+- "How to match scientific names to GBIF?"
 - "How to convert latitudes and longitudes to decimal degrees?"
 objectives:
 - "Aligning dates to the ISO 8601 standard."
@@ -13,7 +13,6 @@ objectives:
 keypoints:
 - "When doing conversions it's best to break out your data into it's component pieces."
 - "Dates are messy to deal with. Some packages have easy solutions, otherwise use regular expressions to align date strings to ISO 8601."
-- "WoRMS LSIDs are a requirement for OBIS."
 - "Latitude and longitudes are like dates, they can be messy to deal with. Take a similar approach."
 ---
 
@@ -21,7 +20,7 @@ Now that you know what the mapping is between your raw data and the Darwin Core 
 the data to align with the conventions described in the standard. The following activities are the three most common 
 conversions a dataset will undergo to align to the Darwin Core standard:
 1. [Ensuring dates follow the ISO 8601 standard](#getting-your-dates-in-order)
-2. [Matching scientific names to an authoritative resource](#matching-your-scientific-names-to-worms)
+2. [Matching scientific names to an authoritative resource](#matching-your-scientific-names-to-gbif)
 3. [Ensuring latitude and longitude values are in decimal degrees](#getting-latlon-to-decimal-degrees)
 
 Below is a short summary of each of those conversions as well as some example conversion scripts. The exercises are 
@@ -54,6 +53,37 @@ ISO 8601 dates can represent moments in time at different resolutions, as well a
 | Darwin Core Term | Description | Example   |
 |------------------|-------------|-----------|
 | [eventDate](https://dwc.tdwg.org/list/#dwc_eventDate) | The date-time or interval during which an Event occurred. For occurrences, this is the date-time when the event was recorded. Not suitable for a time in a geological context. | `1963-03-08T14:07-0600` (8 Mar 1963 at 2:07pm in the time zone six hours earlier than UTC).<br/>`2009-02-20T08:40Z` (20 February 2009 8:40am UTC).<br/>`2018-08-29T15:19` (3:19pm local time on 29 August 2018).<br/>`1809-02-12` (some time during 12 February 1809).<br/>`1906-06` (some time in June 1906).<br/>`1971` (some time in the year 1971).<br/>`2007-03-01T13:00:00Z/2008-05-11T15:30:00Z` (some time during the interval between 1 March 2007 1pm UTC and 11 May 2008 3:30pm UTC).<br/>`1900/1909` (some time during the interval between the beginning of the year 1900 and the end of the year 1909).<br/>`2007-11-13/15` (some time in the interval between 13 November 2007 and 15 November 2007). |
+
+>  > ## Examples in Openrefine
+>
+> When dealing with dates using Openrefine, there are a few base tricks that are useful to wrangle your dates in the correct format. 
+>
+> The examples below show how to use the `Openrefine` and format your data to the ISO-8601 standard.
+> <br/>
+> 1.  `01/31/2021 17:00 GMT`
+> 
+>   
+> 2. `31/01/2021 12:00 EST`
+> 
+>    
+>
+> 3. `January, 01 2021 5:00 PM GMT`
+>
+>   
+>    
+> 4. `1612112400` in seconds since 1970
+>
+>        
+> 5. `44227.708333333333`
+>    
+>    This is the numerical value for dates in Excel because Excel stores dates as sequential serial numbers so that they 
+>    can be used in calculations. In some cases, when you export an Excel spreadsheet to CSV, the 
+>    dates are preserved as a floating point number.
+>
+>   
+>   
+{: .solution}
+
 
 > ## Examples in Python
 > 
@@ -154,7 +184,10 @@ ISO 8601 dates can represent moments in time at different resolutions, as well a
 >
 {: .solution}
 
-> ## Examples in R
+
+>    ```output
+>    [1] "2021-01-31T17:00:00Z"
+>  > ## Examples in R
 >
 > When dealing with dates using R, there are a few base functions that are useful to wrangle your dates in the correct format. An R package that is useful is [lubridate](https://cran.r-project.org/web/packages/lubridate/lubridate.pdf), which is part of the `tidyverse`. It is recommended to bookmark this [lubridate cheatsheet](https://evoldyn.gitlab.io/evomics-2018/ref-sheets/R_lubridate.pdf).
 >
@@ -181,10 +214,7 @@ ISO 8601 dates can represent moments in time at different resolutions, as well a
 >    lubridate::with_tz(date,tz="UTC")
 >    date <- lubridate::format_ISO8601(date)
 >    date <- paste0(date, "Z")
->    ```
->    ```output
->    [1] "2021-01-31T17:00:00Z"
->    ```
+>    ```  ```
 >
 > 3. `January, 01 2021 5:00 PM GMT`
 >
