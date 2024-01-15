@@ -18,6 +18,12 @@ keypoints:
 - "Implementing Darwin Core makes data FAIR-er and means becoming part of a community of people working together to understand species no matter where they work or are based."
 ---
 
+# Bioblitz
+
+<a href="https://docs.google.com/presentation/d/1OXJqo9St33sQrnIabYccXA9ItN7KLARsxHwPywNcOA4/edit?usp=sharing">
+    <img src="{{ '/assets/img/bioblitz.PNG' | relative_url }}">
+  </a>
+
 # Openrefine
 
 1. Presentation [here](https://docs.google.com/presentation/d/1wtvqjm8XxbfYOzmkE03yTux42KmN2c-sDyK-EgH_q5M/edit?usp=sharing)
