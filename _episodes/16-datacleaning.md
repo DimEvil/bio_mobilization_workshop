@@ -1,4 +1,4 @@
----
+![image](https://github.com/DimEvil/croment/assets/3965195/97e6dda1-cadc-457d-af1f-9e488543d995)---
 title: "BioBlitz & Openrefine continued"
 start: true
 teaching: 0
@@ -23,6 +23,14 @@ keypoints:
 <a href="https://docs.google.com/presentation/d/1OXJqo9St33sQrnIabYccXA9ItN7KLARsxHwPywNcOA4/edit?usp=sharing">
     <img src="{{ '/assets/img/bioblitz.PNG' | relative_url }}">
   </a>
+
+
+<a href="https://www.inaturalist.org/projects/croment-bioblitz">
+   <img src="{{ '/assets/img/bioblitz_croment.PNG' | relative_url }}">
+ </a>
+
+
+  
 
 # Openrefine
 
