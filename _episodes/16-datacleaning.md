@@ -1,4 +1,4 @@
-![image](https://github.com/DimEvil/croment/assets/3965195/97e6dda1-cadc-457d-af1f-9e488543d995)---
+---
 title: "BioBlitz & Openrefine continued"
 start: true
 teaching: 0
