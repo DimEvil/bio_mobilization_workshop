@@ -3,12 +3,12 @@ layout: workshop      # DON'T CHANGE THIS.
 # More detailed instructions (including how to fill these variables for an
 # online workshop) are available at
 # https://carpentries.github.io/workshop-template/customization/index.html
-venue: "GBIF Croatia"        # brief name of the institution that hosts the workshop without address (e.g., "Euphoric State University")
-address: "under construction"     # full street address of workshop (e.g., "Room A, 123 Forth Street, Blimingen, Euphoria"), videoconferencing URL, or 'online'
+venue: "Ministry of Economy and Sustainable Development (Ministarstvo gospodarstva i održivog razvoja), Institute for Environment and Nature (Zavod za zaštitu okoliša i prirode)"        # brief name of the institution that hosts the workshop without address (e.g., "Euphoric State University")
+address: "ZG Tower Annex, Big conference hall (Velika dvorana), 3rd floor, Radnička cesta 80, Zagreb"     # full street address of workshop (e.g., "Room A, 123 Forth Street, Blimingen, Euphoria"), videoconferencing URL, or 'online'
 country: "HR"           # lowercase two-letter ISO country code such as "fr" (see https://en.wikipedia.org/wiki/ISO_3166-1#Current_codes) for the institution that hosts the workshop
 language: "en"        # lowercase two-letter ISO language code such as "fr" (see https://en.wikipedia.org/wiki/List_of_ISO_639-1_codes) for the workshop
-latitude: 0          # decimal latitude of workshop venue (use https://www.latlong.net/)
-longitude: 0         # decimal longitude of the workshop venue (use https://www.latlong.net)
+latitude: 45.800610   # decimal latitude of workshop venue (use https://www.latlong.net/)
+longitude: 16.007450  # decimal longitude of the workshop venue (use https://www.latlong.net)
 humandate: "February 19-23, 2024"    # human-readable dates for the workshop (e.g., "Feb 17-18, 2020")
 humantime: "9:00 - 17:00 UTC +1"    # human-readable times for the workshop e.g., "9:00 am - 4:30 pm CEST (7:00 am - 2:30 pm UTC)"
 startdate: 2024-02-19      # machine-readable start date for the workshop in YYYY-MM-DD format like 2015-01-01
