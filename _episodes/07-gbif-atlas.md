@@ -15,9 +15,13 @@ keypoints:
 
 ### Presentation Living Atlas Croatia
 
+GBIF Croatia structure and work plan will be presented including current state and future plan of developing national biodiversity database.
+
 <a href="https://docs.google.com/presentation/d/1Peq6kIChDaUrnAyfV4rvD4pKZMWmisbaFZilZfPCbk4/edit?usp=sharing">
     <img src="{{ '/assets/img/gbif_ipbes.PNG' | relative_url }}">
   </a>
+
+
 
 ### Presentation Living Atlas Flanders (Belgium)
 
