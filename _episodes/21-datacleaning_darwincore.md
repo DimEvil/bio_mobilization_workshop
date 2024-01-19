@@ -340,10 +340,10 @@ Working with different partners/institutes/researchers results in a diversity of
 >    ![screenshot]({{ page.root }}/fig/species_file_screenshot.png){: .image-with-shadow }
 >
 > 3. Place this Python file [gbif_species_name_match.py](https://github.com/inbo/inbo-pyutils/blob/master/gbif/gbif_name_match/gbif_species_name_match.py) in your name matching folder
->    ![screenshot]({{ page.root }}/fig/python_name_match_screenshot.png){: .image-with-shadow }
+>    ![screenshot]({{ page.root }}/fig/python_name_match_file_download.png){: .image-with-shadow }
 > 
 > 4. Navigate in the Python terminal to the correct folder. 
->    ![screenshot]({{ page.root }}/fig/python_name_match_folder_screenshot.png){: .image-with-shadow }
+>    ![screenshot]({{ page.root }}/fig/python_name_match_screenshot.png){: .image-with-shadow }
 >
 >   
 > 5. Run the command > python gbif_species_name_match.py **yourfilename_input.csv** **yourfilename_output**
