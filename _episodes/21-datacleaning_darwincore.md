@@ -340,22 +340,13 @@ Working with different partners/institutes/researchers results in a diversity of
 >    ![screenshot]({{ page.root }}/fig/species_file_screenshot.png){: .image-with-shadow }
 >
 > 3. Place this Python file [gbif_species_name_match.py](https://github.com/inbo/inbo-pyutils/blob/master/gbif/gbif_name_match/gbif_species_name_match.py) in your name matching folder
+>    ![screenshot]({{ page.root }}/fig/python_name_match_download_screenshot.png){: .image-with-shadow }
 > 
-> 4. Identify which columns to match to which WoRMS term.
->  ![screenshot]({{ page.root }}/fig/WoRMS_TaxonMatch_Preview.PNG){: .image-with-shadow }
-> 
-> 4. Click `Match` 
+> 4. Navigate in the Python terminal to the correct folder. 
+>    ![screenshot]({{ page.root }}/fig/python_name_match_folder_screenshot.png){: .image-with-shadow }
 >
-> 5. Hopefully, a WoRMS exact match will return
->
->    1. In some cases you will have ambiguous matches. Resolve these rows by using the pull down menu to select the appropriate match.
->    2. Non-matched taxa will appear in red. You will have to go back to your source file and determine what the appropriate text should be.      
->    ![screenshot]({{ page.root }}/fig/WoRMS_TaxonMatch_MatchOutput.PNG){: .image-with-shadow }
->    
-> 6. Download the response as an XLS, XLSX, or text file and use the information when building the Darwin Core file(s).
->    The response from the example linked above can be found [here]({{ page.root }}/data/species_matched.xlsx). A screenshot of the file
->    can be seen below:
->    ![screenshot]({{ page.root }}/fig/matched_species_screenshot.png){: .image-with-shadow }
+>   
+> 5. Run the command > python gbif_species_name_match.py **yourfilename_input.csv** **yourfilename_output**
 {: .solution}
 
 
