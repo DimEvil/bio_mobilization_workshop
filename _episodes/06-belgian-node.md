@@ -1,5 +1,5 @@
 ---
-title: "Introduction Day 2 and Belgian Node & Node opportunities"
+title: "Belgian Node & Node opportunities"
 start: true
 teaching: 45
 questions:
