@@ -23,6 +23,10 @@ conversions a dataset will undergo to align to the Darwin Core standard:
 2. [Matching scientific names to an authoritative resource](#matching-your-scientific-names-to-gbif)
 3. [Ensuring latitude and longitude values are in decimal degrees](#getting-latlon-to-decimal-degrees)
 
+Python is a high-level, general-purpose programming language. Its design philosophy emphasizes code readability with the use of significant indentation. Make sure that Python is installed on your machine.
+You can download Python here: [https://www.anaconda.com/](https://www.anaconda.com/)
+R is a language and environment for statistical computing and graphics. The core R language is augmented by a large number of extension packages, containing reusable code, documentation, and sample data. You can download R & Rstudio (visual interface) here: [https://posit.co/download/rstudio-desktop/](https://posit.co/download/rstudio-desktop/)
+
 Below is a short summary of each of those conversions as well as some example conversion scripts. The exercises are 
 intended to give you a sense of the variability we've seen in datasets and how we went about converting them. While the
 examples use the [pandas package for Python](https://pandas.pydata.org/) and the [tidyverse collection of packages for R](https://www.tidyverse.org/)
@@ -324,8 +328,8 @@ Working with different partners/institutes/researchers results in a diversity of
 
 
 > ## Using the commandline using Python
-> Python is a high-level, general-purpose programming language. Its design philosophy emphasizes code readability with the use of significant indentation. Make sure that Python is installed on your machine.
-> You can download Python here: [https://www.anaconda.com/](https://www.anaconda.com/) This small utility provides the functionality to add the species information from the GBIF backbone to any data table (CSV-style or a > Pandas dataframe) by requesting this information via the GBIF API. For each match, the corresponding accepted name is looked for. Nevertheless there will always be errors and control is still essential, the
+> This small utility provides the functionality to add the species information from the GBIF backbone to any data table (CSV-style or a > Pandas dataframe)
+> by requesting this information via the GBIF API. For each match, the corresponding accepted name is looked for. Nevertheless there will always be errors and control is still essential, the
 > acceptedkeys provide the ability to compare species names from different data sources.
 > The functionality can be loaded within Python itself by importing the function `extract_species_information` or by running the script from the command line.
 >
