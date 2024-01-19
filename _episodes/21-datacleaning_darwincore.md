@@ -311,12 +311,54 @@ ISO 8601 dates can represent moments in time at different resolutions, as well a
 
 # Matching your scientific names to a taxonomic backbone (optional)
 
+## Introduction
+
+Working with different partners/institutes/researchers results in a diversity of taxonomic names to define species. This hardens comparison amongst datasets, as in many occasions, aggrgeation is aimed for or filtering on specific species. By translating all species names to a common taxonomic backbone (ensuring unique ID's for each species name), this can be done. 
+
 
 | Darwin Core Term         | Description                                                                       | Example                                               |
 |--------------------------|-----------------------------------------------------------------------------------|-------------------------------------------------------|
 | [scientificNameID](https://dwc.tdwg.org/list/#dwc_scientificNameID) | An identifier for the nomenclatural (not taxonomic) details of a scientific name. | `urn:lsid:ipni.org:names:37829-1:1.3` |                
 | [kingdom](https://dwc.tdwg.org/list/#dwc_kingdom) | The full scientific name of the kingdom in which the taxon is classified.         |   `Animalia`, `Archaea`, `Bacteria`, `Chromista`, `Fungi`, `Plantae`, `Protozoa`, `Viruses` |
 | [taxonRank](https://dwc.tdwg.org/list/#dwc_taxonRank) | The taxonomic rank of the most specific name in the scientificName.               | `subspecies`, `varietas`, `forma`, `species`, `genus` |
+
+
+> ## Using the commandline using Python
+> Python is a high-level, general-purpose programming language. Its design philosophy emphasizes code readability with the use of significant indentation. Make sure that Python is installed on your machine.
+> You can download Python here: [https://www.anaconda.com/](https://www.anaconda.com/) This small utility provides the functionality to add the species information from the GBIF backbone to any data table (CSV-style or a > Pandas dataframe) by requesting this information via the GBIF API. For each match, the corresponding accepted name is looked for. Nevertheless there will always be errors and control is still essential, the
+> acceptedkeys provide the ability to compare species names from different data sources.
+> The functionality can be loaded within Python itself by importing the function `extract_species_information` or by running the script from the command line.
+>
+> 
+>
+> 1. Create a folder which will be used for name matching. Place this gbif/gbif_name_match/gbif_species_name_match.py
+>
+> 2. Place your CSV (comma separated value) file with the scientific names of the species of interest in that folder. Here we are showing 
+>    some of the contents of the file [`species.csv`]({{ page.root }}/data/species.csv).
+>    ![screenshot]({{ page.root }}/fig/species_file_screenshot.png){: .image-with-shadow }
+>
+> 3. Upload that file to the [WoRMS Taxon match service](https://www.marinespecies.org/aphia.php?p=match)
+>    * **make sure the option LSID is checked**   
+>  ![screenshot]({{ page.root }}/fig/WoRMS_upload.png){: .image-with-shadow }
+> 
+> 4. Identify which columns to match to which WoRMS term.
+>  ![screenshot]({{ page.root }}/fig/WoRMS_TaxonMatch_Preview.PNG){: .image-with-shadow }
+> 
+> 4. Click `Match` 
+>
+> 5. Hopefully, a WoRMS exact match will return
+>
+>    1. In some cases you will have ambiguous matches. Resolve these rows by using the pull down menu to select the appropriate match.
+>    2. Non-matched taxa will appear in red. You will have to go back to your source file and determine what the appropriate text should be.      
+>    ![screenshot]({{ page.root }}/fig/WoRMS_TaxonMatch_MatchOutput.PNG){: .image-with-shadow }
+>    
+> 6. Download the response as an XLS, XLSX, or text file and use the information when building the Darwin Core file(s).
+>    The response from the example linked above can be found [here]({{ page.root }}/data/species_matched.xlsx). A screenshot of the file
+>    can be seen below:
+>    ![screenshot]({{ page.root }}/fig/matched_species_screenshot.png){: .image-with-shadow }
+{: .solution}
+
+
 
 > ## Using the WoRMS Taxon Match Tool
 > 1. Create a CSV (comma separated value) file with the scientific name of the species of interest. Here we are showing 
