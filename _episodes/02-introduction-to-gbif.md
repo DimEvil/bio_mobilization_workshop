@@ -47,23 +47,41 @@ GBIF updates a set of [overview slides](https://www.gbif.org/document/81771/gbif
     <img src="{{ '/assets/img/gbif_introduction.PNG' | relative_url }}">
   </a>
 
-### Excercises
+
+> ## Exercises
+> 
+> Challenge: Investigate how your country/organization is represented in GBIF
+> The [GBIF website](https://www.gbif.org/) has pages dedicated to countries/economies, including for countries/economies that do not yet participate in GBIF. You can use the search box on the homepage to look up a country/organization.
+> - The tabs on these pages provide a general description of: 
+>	- data available about the biodiversity of the country
+>	- data published by your country/organization, 
+>	- the participation of the country/organization
+>	- other relevant information on the use of data by researchers in the country/organization.
+>
+> - Look up your country on the GBIF website.
+> - Does your country participate in GBIF?
+> - How many institutions are publishing data?
+> - Is a list of introduced and invasive alien species available for your country?
+> - How well does the information available on GBIF reflect what you know about the biodiversity of your country?
+> - Do you see publications from/about your country?
+> 
+> > ## Solution
+> > ```Folder
+> >  dwca-tpwd_harc_texasaransasbay_bagseine-v2.3
+> >  |-- eml.xml
+> >  |-- event.txt
+> >  |-- extendedmeasurementorfact.txt
+> >  |-- meta.xml
+> >  |-- occurrence.txt
+> > ```
+> {: .solution}
+{: .challenge}
 
 > Investigate how your country/organization is represented in GBIF
 
-- The [GBIF website](https://www.gbif.org/) has pages dedicated to countries/economies, including for countries/economies that do not yet participate in GBIF. You can use the search box on the homepage to look up a country/organization.
-- The tabs on these pages provide a general description of: 
-	- data available about the biodiversity of the country
-	- data published by your country/organization, 
-	- the participation of the country/organization
-	- other relevant information on the use of data by researchers in the country/organization.
 
 
-- Look up your country on the GBIF website.
-- Does your country participate in GBIF?
-- How many institutions are publishing data?
-- Is a list of introduced and invasive alien species available for your country?
-- How well does the information available on GBIF reflect what you know about the biodiversity of your country?
-- Do you see publications from/about your country?
+
+
 
 
