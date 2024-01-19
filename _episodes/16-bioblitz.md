@@ -32,8 +32,3 @@ keypoints:
 
   
 
-# Openrefine
-
-1. Presentation [here](https://docs.google.com/presentation/d/1wtvqjm8XxbfYOzmkE03yTux42KmN2c-sDyK-EgH_q5M/edit?usp=sharing)
-2. Follow the tutorial [here](https://docs.google.com/presentation/d/1wtvqjm8XxbfYOzmkE03yTux42KmN2c-sDyK-EgH_q5M/edit?usp=sharing)
-
