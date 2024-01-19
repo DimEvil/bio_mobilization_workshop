@@ -313,7 +313,7 @@ ISO 8601 dates can represent moments in time at different resolutions, as well a
 > into ISO 8601. 
 {: .callout}
 
-# Matching your scientific names to a taxonomic backbone (optional)
+# Matching your scientific names to a taxonomic backbone
 
 ## Introduction
 
@@ -331,19 +331,15 @@ Working with different partners/institutes/researchers results in a diversity of
 > This small utility provides the functionality to add the species information from the GBIF backbone to any data table (CSV-style or a > Pandas dataframe)
 > by requesting this information via the GBIF API. For each match, the corresponding accepted name is looked for. Nevertheless there will always be errors and control is still essential, the
 > acceptedkeys provide the ability to compare species names from different data sources.
-> The functionality can be loaded within Python itself by importing the function `extract_species_information` or by running the script from the command line.
+> The functionality can be loaded within Python itself by importing the function `extract_species_information` or by running the script from the command line. We will show you on how to use the command line
 >
-> 
->
-> 1. Create a folder which will be used for name matching. Place this gbif/gbif_name_match/gbif_species_name_match.py
+> 1. Create a folder which will be used for name matching. 
 >
 > 2. Place your CSV (comma separated value) file with the scientific names of the species of interest in that folder. Here we are showing 
 >    some of the contents of the file [`species.csv`]({{ page.root }}/data/species.csv).
 >    ![screenshot]({{ page.root }}/fig/species_file_screenshot.png){: .image-with-shadow }
 >
-> 3. Upload that file to the [WoRMS Taxon match service](https://www.marinespecies.org/aphia.php?p=match)
->    * **make sure the option LSID is checked**   
->  ![screenshot]({{ page.root }}/fig/WoRMS_upload.png){: .image-with-shadow }
+> 3. Place this Python file [gbif_species_name_match.py](https://github.com/inbo/inbo-pyutils/blob/master/gbif/gbif_name_match/gbif_species_name_match.py) in your name matching folder
 > 
 > 4. Identify which columns to match to which WoRMS term.
 >  ![screenshot]({{ page.root }}/fig/WoRMS_TaxonMatch_Preview.PNG){: .image-with-shadow }
