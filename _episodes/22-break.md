@@ -1,10 +1,7 @@
 ---
 layout: break
-title: "Lunch"
+title: "Lunch Break"
 break: 60
 ---
 
-![xkcd 1179 (iso 8601)](https://imgs.xkcd.com/comics/iso_8601_2x.png)
-*Image credit: [xkcd](https://xkcd.com/)*
-
-{% include links.md %}
+![lunch](https://img.freepik.com/premium-vector/lunch-time-lettering-with-cartoon-food-characters_74102-2122.jpg?w=2000)
