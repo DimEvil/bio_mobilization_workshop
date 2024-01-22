@@ -14,7 +14,7 @@ keypoints:
 
 # Thank you for attending the workshop!
 Our hope is that you were already able to submit your data to GBIF but often work needs to continue beyond the workshop.
-This page lists some resources to help get your data the rest of the way into OBIS.
+This page lists some resources to help get your data the rest of the way into GBIF.
 
 ## Post-Workshop Survey
 If you wish to provide feedback please use [this post-workshop survey](https://forms.gle/B5SGBLDePFWfbVCj9){:target="_blank"}.
