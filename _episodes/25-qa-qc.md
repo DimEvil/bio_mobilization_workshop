@@ -1,18 +1,18 @@
 ---
-title: "QA/QC"
+title: "Data validation & Quality control"
 teaching: 0
-exercises: 120
+exercises: 30
 questions:
-- "How can I QC my data?"
+- "How can I validate my data?"
 objectives:
 - "Data enhancement and quality control"
 keypoints:
-- "Several packages (e.g. obistools, Hmisc, pandas) can be used to QA/QC data." 
+- "GBIF validator" 
 ---
 
 # Data enhancement and quality control
 
-OBIS performs a number of quality checks on the data it receives. Red quality flags are attached to occurrence records if errors are encountered, and records may also be rejected if they do not meet minimum requirements. The checks that OBIS performs are documented [here](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4309024/pdf/bau125.pdf) and a python implementation is available [here](https://github.com/iobis/obis-qc). Therefore, prior to publishing your data to OBIS and/or GBIF, it is important to perform quality control on your standardized data. This can help identify any outliers or "faulty" data. It will also help with ensuring that your data is compatible and interoperable with other datasets published to OBIS. There are numerous functions within the [obistools](https://github.com/iobis/obistools) R packages that can serve to identify outliers, inspect quality or ensure that the dataset structure fits the required format for both the Event and Occurrence tables. 
+Data validation with GBIF data validation tool
 
 > ## Recommended initial checks on your data
 > * Check that all the [required Darwin Core terms]({{ site.baseurl }}/01-introduction/index.html#what-are-the-required-darwin-core-terms-for-publishing-to-obis) are present and contain the correct information.
