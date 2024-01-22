@@ -1,6 +1,6 @@
 ---
 layout: break
-title: " Break"
+title: "Social Break"
 break: 30
 ---
 
