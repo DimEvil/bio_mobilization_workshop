@@ -1,6 +1,6 @@
 ---
 layout: break
-title: "fun Break"
+title: "Break"
 break: 30
 ---
 
