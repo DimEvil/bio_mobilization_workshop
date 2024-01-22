@@ -1,5 +1,5 @@
 ---
-title: "GBIF Policy & science"
+title: "GBIF Policy & Science"
 start: true
 teaching: 60
 exercises: 0
