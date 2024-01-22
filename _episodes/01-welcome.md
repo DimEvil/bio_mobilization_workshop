@@ -1,5 +1,5 @@
 ---
-layout: intro
+layout: break
 title: "Registration and Welcome"
 Time: 15 
 ---
