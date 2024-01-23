@@ -4,4 +4,4 @@ title: "Break"
 break: 30
 ---
 
-![lunch](https://img.freepik.com/premium-vector/lunch-time-lettering-with-cartoon-food-characters_74102-2122.jpg?w=2000)
+![lunch](https://img.freepik.com/premium-vector/coffee-break-cartoon-mug-with-coffee-cookies_312580-185.jpg?w=740)
