@@ -22,3 +22,7 @@ keypoints:
 
 
 # 2: Presentation on the ECA network
+
+<a href="https://docs.google.com/presentation/d/1LpvVyCKgghbAvn8yIMoCCYEr7E2nF0-53eSBjr-ckV4/edit?usp=sharing">
+    <img src="{{ '/assets/img/eca_network.PNG' | relative_url }}">
+  </a>
