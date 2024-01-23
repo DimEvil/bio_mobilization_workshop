@@ -1,16 +1,7 @@
 ---
-title: "Break"
-start: true
-teaching: 30
-exercises: 30
-questions:
-- "What is GBIF?"
-- "How is GBIF organized"
-- "The GBIF portal"
-objectives:
-- "Understand how GBIF works."
-- "Understand how GBIF is organized."
-- "Basic understanding of the GBIF portal"
-keypoints:
-- "The GBIF portal is the place to find biodiversity data"
+layout: break
+title: "Lunch break"
+break: 60
 ---
+
+![ ](https://png.pngtree.com/png-clipart/20190516/original/pngtree-aromatic-fragrant-aromatic-coffee-coffee-png-image_3921443.jpg)

@@ -1,16 +1,7 @@
 ---
-title: "BREAK"
-start: true
-teaching: 60
-exercises: 0
-questions:
-- "GBIF nodes and ECA network"
-- "strategic Framework"
-- "GBIF implementation plans"
-- "work programmes"
-objectives:
-- "Understand how GBIF works."
-- "Understand how GBIF is organized."
-keypoints:
-- "How GBIF works"
+layout: break
+title: "Coffee break"
+break: 30
 ---
+
+![ ](https://png.pngtree.com/png-clipart/20190516/original/pngtree-aromatic-fragrant-aromatic-coffee-coffee-png-image_3921443.jpg)
