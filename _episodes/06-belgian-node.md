@@ -1,7 +1,7 @@
 ---
 title: "Belgian Node & Node opportunities"
 start: true
-teaching: 45
+teaching: 30
 questions:
 - "What is GBIF?"
 
