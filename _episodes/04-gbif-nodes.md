@@ -1,7 +1,7 @@
 ---
 title: "The GBIF nodes and network"
 start: true
-teaching: 75
+teaching: 45
 exercises: 0
 questions:
 - "GBIF nodes and ECA network"
