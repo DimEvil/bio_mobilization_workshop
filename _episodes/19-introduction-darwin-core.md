@@ -1,8 +1,8 @@
 ---
 title: "Introduction to Darwin Core"
 start: true
-teaching: 20
-exercises: 90
+teaching: 30
+exercises: 40
 questions:
 - "What is Darwin Core?"
 - "What is a Darwin Core Archive?"
