@@ -1,14 +1,17 @@
 ---
 title: "Data management & best practices"
 start: true
-teaching: 45
-exercises: 0
+teaching: 30
+exercises: 15
 questions:
-- "What is GBIF?"
-- "How is GBIF organized"
-- "The GBIF portal"
+- "How to deal with data"
+- "Tips & tricks for good data mmanagement"
+- "What is Biodiversity informatics"
+- "What is a Biodiversity dataset"
 objectives:
 - "Introduction to data management & best practices"
+- "Feel familiar with open data types"
+- "understand the importance of Tidy data"
 
 keypoints:
 - "Understand some best data management practices"
