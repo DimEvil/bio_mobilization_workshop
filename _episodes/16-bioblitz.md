@@ -1,21 +1,15 @@
 ---
 title: "BioBlitz & Openrefine continued"
 start: true
-teaching: 0
-exercises: 90
+teaching: 10
+exercises: 5
 questions:
-- "What is Openrefine? an introduction"
-- "Data cleaning with open refine?"
-- "Name matching with Openrefine"
+- "As a citizen scientist, how to share your observations with GBIF."
 objectives:
-- "Understand the purpose of Openrefine"
-- "Understand how to map data with Openrefine."
-- "Plan for mapping to Darwin Core."
+- "Initiate Croment Bioblitz."
 keypoints:
-- "Openrefine saves time"
-- "Using Darwin Core allows datasets from across projects, organizations, and countries to be integrated together."
-- "Applying certain general principles to the data will make it easier to map to Darwin Core."
-- "Implementing Darwin Core makes data FAIR-er and means becoming part of a community of people working together to understand species no matter where they work or are based."
+- "Citizen Science & Biodiversity Data"
+- "What data is already available from iNaturalist"
 ---
 
 # Bioblitz
