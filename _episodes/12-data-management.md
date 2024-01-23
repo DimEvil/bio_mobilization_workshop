@@ -43,3 +43,4 @@ keypoints:
 > >
 > > {: .output}
 > {: .solution}
+{: .challenge}
