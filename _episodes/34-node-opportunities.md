@@ -1,5 +1,5 @@
 ---
-title: "Node & GBIF opportunities"
+title: "GBIF opportunities (CESP, BID, Ambassador programme)"
 start: true
 teaching: 0
 exercises: 90
