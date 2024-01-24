@@ -1,5 +1,5 @@
 ---
-title: "Ambassador programme"
+title: "Biodiversity Informatics Network (TDG)"
 start: true
 teaching: 0
 exercises: 90
