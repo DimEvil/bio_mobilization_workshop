@@ -1,13 +1,10 @@
 ---
-title: "Data validation & Quality control"
+title: "Metadata & data publication"
 teaching: 0
 exercises: 30
 questions:
-- "How can I validate my data?"
 objectives:
-- "Data enhancement and quality control"
 keypoints:
-- "GBIF validator" 
 ---
 
 # Data enhancement and quality control
