@@ -2,7 +2,7 @@
 title: "Introduction to GBIF"
 start: true
 teaching: 45
-exercises: 45
+exercises: 30
 questions:
 - "What is GBIF?"
 - "How is GBIF organized"
