@@ -1,17 +1,12 @@
 ---
-title: "Introduction to GITHUB"
+title: "Data publication workflow"
 start: true
 teaching: 30
 exercises: 30
 questions:
-- "What is IPT?"
-- "How is IPT organized"
-- "The GBIF portal"
 objectives:
-- "Understand how IPT works."
-- "Understand how GBIF is organized."
-- "Basic understanding of the GBIF portal"
+- "Understand the data publication workflow"
 keypoints:
-- "The GBIF portal is the place to find biodiversity data"
+- "Following the data publication workflow is the way to go!"
 ---
 
