@@ -1,5 +1,5 @@
 ---
-title: "Introduction to IPT"
+title: "How to publish biodiversity data through GBIF.org"
 start: true
 teaching: 30
 exercises: 30
