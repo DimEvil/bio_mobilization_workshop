@@ -20,16 +20,16 @@ keypoints:
 
 
 ### Presentation GBIF Science
-![/assets/img/gbif_science.PNG](https://docs.google.com/presentation/d/1JpGe0ZPnt8i2Mdw7un1MgdO8_JhSl6WOQwAClvK5KYE/edit?usp=sharing)
+![../assets/img/gbif_science.PNG](https://docs.google.com/presentation/d/1JpGe0ZPnt8i2Mdw7un1MgdO8_JhSl6WOQwAClvK5KYE/edit?usp=sharing)
 
 ### Presentation GBIF & CBD
-![/assests/img/CBD-COP15.png](https://docs.google.com/presentation/d/1aoCRFsrTxIEztXYll_jqpyHY_wcysyTKAwDaa4XcrCI/edit?usp=sharing)
+![../assests/img/CBD-COP15.png](https://docs.google.com/presentation/d/1aoCRFsrTxIEztXYll_jqpyHY_wcysyTKAwDaa4XcrCI/edit?usp=sharing)
 
 ### Presnetation GBIF & IPBES
-![/assests/img/gbif_ipbes.PNG](https://docs.google.com/presentation/d/1aoCRFsrTxIEztXYll_jqpyHY_wcysyTKAwDaa4XcrCI/edit?usp=sharing)
+![../assests/img/gbif_ipbes.PNG](https://docs.google.com/presentation/d/1aoCRFsrTxIEztXYll_jqpyHY_wcysyTKAwDaa4XcrCI/edit?usp=sharing)
 
 ### Presnetation GBIF supporting SPI
-![/assests/img/gbif_ipbes.PNG](https://docs.google.com/presentation/d/1LJPFOVeUz8H1EEZaYfE4sqwpIDHQIx7V_-HYH6hubLk/edit?usp=sharing)
+![../assests/img/gbif_ipbes.PNG](https://docs.google.com/presentation/d/1LJPFOVeUz8H1EEZaYfE4sqwpIDHQIx7V_-HYH6hubLk/edit?usp=sharing)
 
 
   
