@@ -9,13 +9,8 @@ questions:
 - "Name matching with Openrefine"
 objectives:
 - "Understand the purpose of Openrefine"
-- "Understand how to map data with Openrefine."
-- "Plan for mapping to Darwin Core."
 keypoints:
 - "Openrefine saves time"
-- "Using Darwin Core allows datasets from across projects, organizations, and countries to be integrated together."
-- "Applying certain general principles to the data will make it easier to map to Darwin Core."
-- "Implementing Darwin Core makes data FAIR-er and means becoming part of a community of people working together to understand species no matter where they work or are based."
 ---
 
 # Openrefine
@@ -30,7 +25,7 @@ keypoints:
 
 ### Tutorial
 
-<a href="https://docs.google.com/presentation/d/1wtvqjm8XxbfYOzmkE03yTux42KmN2c-sDyK-EgH_q5M/edit?usp=sharing">
+<a href="https://drive.google.com/file/d/1KKkqfjAtkaV80Xs1vd0ycTeaJwztxU3b/view?usp=drive_link">
     <img src="{{ '/assets/img/openrefine_tutorial.PNG' | relative_url }}">
   </a>
 
