@@ -30,14 +30,14 @@ keypoints:
   </a>
 
 
-### Presnetation GBIF & IPBES
+### Presentation GBIF & IPBES
 <a href="https://docs.google.com/presentation/d/1aoCRFsrTxIEztXYll_jqpyHY_wcysyTKAwDaa4XcrCI/edit?usp=sharing">
-    <img src="{{ '/assets/img/gbif_ipbes.PNG' | relative_url }}">
+    <img src="{{ '/assets/img/gbif_ipbes.jpg' | relative_url }}">
   </a>
 
-### Presnetation GBIF supporting SPI
+### Presentation GBIF supporting SPI
 <a href="https://docs.google.com/presentation/d/1LJPFOVeUz8H1EEZaYfE4sqwpIDHQIx7V_-HYH6hubLk/edit?usp=sharing">
-    <img src="{{ '/assets/img/gbif_ipbes.PNG' | relative_url }}">
+    <img src="{{ '/assets/img/ACBmeetings.png' | relative_url }}">
   </a>
 
 
