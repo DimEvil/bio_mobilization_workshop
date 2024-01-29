@@ -1,17 +1,14 @@
 ---
-title: "The GBIF nodes and network"
+title: "The GBIF nodes, governance and network"
 start: true
 teaching: 45
 exercises: 0
 questions:
-- "GBIF nodes and ECA network"
-- "The Croatian GBIF node expectations and plans"
+- "How is GBIF organized"
 objectives:
 - "Understanding the GBIF nodes network"
-- "The Croatian perspective on GBIF"
 keypoints:
 - "The GBIF node network"
-- "What do we expect from the Croatian node"
 ---
 
 # 1: Presentation on the GBIF network & nodes
