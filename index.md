@@ -3,14 +3,14 @@ layout: workshop      # DON'T CHANGE THIS.
 # More detailed instructions (including how to fill these variables for an
 # online workshop) are available at
 # https://carpentries.github.io/workshop-template/customization/index.html
-venue: "GBIF Croatia"        # brief name of the institution that hosts the workshop without address (e.g., "Euphoric State University")
-address: "under construction"     # full street address of workshop (e.g., "Room A, 123 Forth Street, Blimingen, Euphoria"), videoconferencing URL, or 'online'
+venue: "Institute for Environment and Nature (Zavod za zaštitu okoliša i prirode)"        # brief name of the institution that hosts the workshop without address (e.g., "Euphoric State University")
+address: "ZG Tower Annex, Big conference hall (Velika dvorana), 3rd floor, Radnička cesta 80, Zagreb"     # full street address of workshop (e.g., "Room A, 123 Forth Street, Blimingen, Euphoria"), videoconferencing URL, or 'online'
 country: "HR"           # lowercase two-letter ISO country code such as "fr" (see https://en.wikipedia.org/wiki/ISO_3166-1#Current_codes) for the institution that hosts the workshop
 language: "en"        # lowercase two-letter ISO language code such as "fr" (see https://en.wikipedia.org/wiki/List_of_ISO_639-1_codes) for the workshop
-latitude: 0          # decimal latitude of workshop venue (use https://www.latlong.net/)
-longitude: 0         # decimal longitude of the workshop venue (use https://www.latlong.net)
+latitude: 45.800610   # decimal latitude of workshop venue (use https://www.latlong.net/)
+longitude: 16.007450  # decimal longitude of the workshop venue (use https://www.latlong.net)
 humandate: "February 19-23, 2024"    # human-readable dates for the workshop (e.g., "Feb 17-18, 2020")
-humantime: "9:00 - 17:00 UTC +1"    # human-readable times for the workshop e.g., "9:00 am - 4:30 pm CEST (7:00 am - 2:30 pm UTC)"
+humantime: "9:00 - 17:00 CET"    # human-readable times for the workshop e.g., "9:00 am - 4:30 pm CEST (7:00 am - 2:30 pm UTC)"
 startdate: 2024-02-19      # machine-readable start date for the workshop in YYYY-MM-DD format like 2015-01-01
 enddate: 2024-02-23        # machine-readable end date for the workshop in YYYY-MM-DD format like 2015-01-02
 # instructor list : a boxed, comma-separated list of instructors' names as strings, like ["Abby Benson", "Mathew Biddle"]
@@ -97,7 +97,7 @@ the pitch.
 {% endcomment %}
 
 In February, a full week of GBIF immersion will be organized in Croatia. Next to a GBIF community workshop, where we will learn on how GBIF works, we will also organize 2 full days on data cleaning and publication.
-These 2 days (February 21 and 22th) are intended to be a hands-on workshop focused on mobilizing biological observation datasets to the <a href="https://gbif.org/">Global Biodiversity Information Facility (GBIF)</a> by helping data providers standardize their data using Darwin Core including species observations from any type of sampling methodologies (e.g. visual surveys, microscopy, imaging, telemetry). The other 3 days are dedicated to setting op the GBIF node in Croatia in the framework of the GBIF CESP CROMENT (Mentoring Croatia) project. 
+These 2 days (February 21 and 22th) are intended to be a hands-on workshop focused on mobilizing biological observation datasets to the <a href="https://gbif.org/">Global Biodiversity Information Facility (GBIF)</a> by helping data providers standardize their data using Darwin Core including species observations from any type of sampling methodologies (e.g. visual surveys, microscopy, imaging, telemetry). The other 3 days are dedicated to setting op the GBIF node in Croatia in the framework of the GBIF CESP CROMENT (Mentoring Croatia) project. This workshop is organized by a The Belgian Biodiversity Platform & the Croatian Institute for Environment and Nature & The Habitat Foundation. For more information on the Croment procject, [visit](https://www.gbif.org/project/CESP2023-006/croment) this website
 
 #### Hands on Data Workshop
 What the data workshop will cover:
@@ -150,7 +150,7 @@ What the technical workshop will cover
 
 ## Audience
 
-The hands-on workshop is open for researchers, data curaters, data managers who have an interest in the publication of data on [GBIF](www.gbif.org) 
+The hands-on workshop is open for researchers, data curaters, data managers who have an interest in the publication of data on <a href="https://gbif.org/"> the Global Biodiversity Information Facility (GBIF)</a> 
 The GBIF community workshop is on invitation only. However the material available on this website could be of interest for anyone who is developping a GBIF Node and community.
 
 The workshop is organized in the CESP project CROMET, a GBIF funded project on capacity building.
@@ -413,7 +413,7 @@ of code below the Schedule `<h2>` header below with
 {% endcomment %}
 
 <h2 id="schedule">Schedule</h2>
-__Times are in EDT.__
+__Times are in CET.__
 
 Overview recordings of each lesson can be found in [this playlist](https://youtube.com/playlist?list=PLlgUwSvpCFS7zytaWbZ6f4Szm3PnpFj_J).
 

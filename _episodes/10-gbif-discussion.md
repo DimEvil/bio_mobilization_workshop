@@ -1,7 +1,7 @@
 ---
 title: "GBIF Discussion"
 start: true
-discussion: 30
+teaching: 30
 questions:
 - "GBIF nodes and ECA network"
 - "strategic Framework"

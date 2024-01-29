@@ -1,5 +1,5 @@
 ---
-title: "Metadata and publishing"
+title: "Data Validation & GBIF Validator"
 teaching: 0
 exercises: 120
 questions:
