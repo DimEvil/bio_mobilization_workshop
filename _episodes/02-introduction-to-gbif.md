@@ -67,12 +67,7 @@ GBIF updates a set of [overview slides](https://www.gbif.org/document/81771/gbif
 > 
 > > ## Solution
 > > ```Folder
-> >  dwca-tpwd_harc_texasaransasbay_bagseine-v2.3
-> >  |-- eml.xml
-> >  |-- event.txt
-> >  |-- extendedmeasurementorfact.txt
-> >  |-- meta.xml
-> >  |-- occurrence.txt
+> >  * [Croatia](https://www.gbif.org/country/HR/summary)
 > > ```
 > {: .solution}
 {: .challenge}
