@@ -67,7 +67,7 @@ GBIF updates a set of [overview slides](https://www.gbif.org/document/81771/gbif
 > 
 > > ## Solution
 > > ```Folder
-> >  * [Croatia](https://www.gbif.org/country/HR/summary)
+> > [Croatia](https://www.gbif.org/country/HR/summary)
 > > ```
 > {: .solution}
 {: .challenge}
