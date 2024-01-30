@@ -48,10 +48,9 @@ GBIF updates a set of [overview slides](https://www.gbif.org/document/81771/gbif
   </a>
 
 
-> ## Exercises
+> ## Exercises 1: Investigate how your country/organization is represented in GBIF
 > 
-> Challenge: Investigate how your country/organization is represented in GBIF
-> The [GBIF website](https://www.gbif.org/) has pages dedicated to countries/economies, including for countries/economies that do not yet participate in GBIF. You can use the search box on the homepage to look up a country/organization.
+> The [GBIF website](https://www.gbif.org/) has pages dedicated to countries/economies, including for countries/economies that do not yet participate in GBIF. You can use the search box on the homepage to look up > a country/organization.
 > - The tabs on these pages provide a general description of: 
 >	- data available about the biodiversity of the country
 >	- data published by your country/organization, 
@@ -59,25 +58,55 @@ GBIF updates a set of [overview slides](https://www.gbif.org/document/81771/gbif
 >	- other relevant information on the use of data by researchers in the country/organization.
 >
 > - Look up your country on the GBIF website.
-> - Does your country participate in GBIF?
-> - How many institutions are publishing data?
+> - Since when is Croatia a Voting participant
+> - How many datasets are published by Croatia in GBIF?
+> - How many Croatian institutions/organisations are publishing data? and globally?
 > - Is a list of introduced and invasive alien species available for your country?
 > - How well does the information available on GBIF reflect what you know about the biodiversity of your country?
 > - Do you see publications from/about your country?
+> - Download the Croatia Activity report
 > 
 > > ## Solution
-> > ```Folder
-> >  dwca-tpwd_harc_texasaransasbay_bagseine-v2.3
-> >  |-- eml.xml
-> >  |-- event.txt
-> >  |-- extendedmeasurementorfact.txt
-> >  |-- meta.xml
-> >  |-- occurrence.txt
-> > ```
+> > 1. [Find Croatia on this map](https://www.gbif.org/the-gbif-network)
+> > 2. [Since 2022](https://www.gbif.org/country/HR/summary)
+> > 3. [2](https://www.gbif.org/dataset/search?publishing_country=HR)
+> > 4. [2](https://www.gbif.org/dataset/search?publishing_country=HR) & [gloablly](https://www.gbif.org/publisher/search)
+> > 5. [Global Register of Introduced and Invasive Species- Croatia] (https://www.gbif.org/dataset/f82a4f7f-6f84-4b58-82e6-6b41ec9a1f49)
+> > 6. Note your idea about this
+> > 7. [publications](https://www.gbif.org/country/HR/publications/about)
+> > 8. [activity report](https://www.gbif.org/sites/default/files/gbif_analytics/country/HR/GBIF_CountryReport_HR.pdf)
 > {: .solution}
 {: .challenge}
 
-> Investigate how your country/organization is represented in GBIF
+
+> ## Exercises 2: Downloading data from GBIF
+> 
+> The [GBIF website](https://www.gbif.org/) has pages dedicated to data retrieval and downloading. 
+> 1. Find and download this occurrence only dataset from GBIF: "Tipuloidea of Martinique - 2016-2018"
+> 2. Find and download this sampling event dataset from GBIF: "Meetnetten.be - Chorus counts for Amphibia in Flanders, Belgium'
+> 3. Find and investigate this checklist on GBIF: https://www.gbif.org/dataset/fd004d9a-2ea4-4244-bb60-0df508d20a15
+> > How many times is this dataset cited
+> > 
+> > How many occurrences are in this dataset?
+> > 
+> > Are all the occurrences georeferenced?
+> > 
+> > What is the licence on the dataset?
+> > 
+> > Which sampling method was used to collect the specimen?
+> > 
+> > Is there any media vailable about this dataset?
+> > 
+> > How should you cite this dataset?
+> > 
+> > What is the DOI of this dataset?
+> 
+> 
+> > ## Solution
+> > answer to make
+> {: .solution}
+{: .challenge}
+
 
 
 
