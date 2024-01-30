@@ -6,7 +6,9 @@ break: 15
 
 # Registration
 
-You can find the registration desk at the 3rd floor of ZG Tower Annex, Big conference hall (Velika dvorana)
+You can find the registration desk at the 3rd floor of ZG Tower Annex, Big conference hall (Velika dvorana))
+
+![Zagreb Tower](https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Zagrebtower_2011-may.jpg/800px-Zagrebtower_2011-may.jpg)
 
 
 # Welcome
