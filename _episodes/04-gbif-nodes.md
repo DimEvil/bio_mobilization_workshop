@@ -22,15 +22,16 @@ keypoints:
 
 > ## Exercises 1: Investigate how your country/organization is represented in GBIF
 > 
-> The [GBIF website](https://www.gbif.org/) has pages dedicated to countries/economies, including for countries/economies that do not yet participate in GBIF. You can use the search box on the homepage to look up a country/organization.
-> - The tabs on these pages provide a general description of: 
->
-> - Look up your country on the GBIF website.
+> Blabla
 > 
 > > ## Solution
-> > 1. [Find Croatia on this map](https://www.gbif.org/the-gbif-network)
+> > 1. Find Croatian Particpation to GBIF
 > {: .solution}
-{: .challenge}
+> 
+> > ## Challenge
+> > 1. Understand how to add exercise in this template
+> {: .challenge}
+>
 
 # 2: Presentation on the ECA Nodes
 
