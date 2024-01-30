@@ -16,14 +16,14 @@ keypoints:
 # 1: Presentation on the GBIF participation
 
 <a href="https://docs.google.com/presentation/d/1LpvVyCKgghbAvn8yIMoCCYEr7E2nF0-53eSBjr-ckV4/edit?usp=sharing">
-    <img src="{{ '/assets/img/GBIF_Network.PNG' | relative_url }}">
+    <img src="{{ '/assets/img/GBIF_Network.png' | relative_url }}">
   </a>
 
 
 # 2: Presentation on the ECA Nodes
 
 <a href="https://docs.google.com/presentation/d/1w-JcMmh6PTuum81Qr0q3SeHBgy7yF0FjjbVX_9bSgH0/edit?usp=sharing">
-    <img src="{{ '/assets/img/ECA2023_Warshaw.PNG' | relative_url }}">
+    <img src="{{ '/assets/img/ECA2023_Warshaw.png' | relative_url }}">
   </a>
 
 # 3: Presentation on GBIF Governance
