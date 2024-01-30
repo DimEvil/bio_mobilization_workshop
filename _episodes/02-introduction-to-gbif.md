@@ -75,6 +75,7 @@ GBIF updates a set of [overview slides](https://www.gbif.org/document/81771/gbif
 > > 5. [Global Register of Introduced and Invasive Species- Croatia] (https://www.gbif.org/dataset/f82a4f7f-6f84-4b58-82e6-6b41ec9a1f49)
 > > 6. Note your idea about this
 > > 7. [publications](https://www.gbif.org/country/HR/publications/about)
+> > 8. [activity report](https://www.gbif.org/sites/default/files/gbif_analytics/country/HR/GBIF_CountryReport_HR.pdf)
 > {: .solution}
 {: .challenge}
 
