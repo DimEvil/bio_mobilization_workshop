@@ -83,7 +83,7 @@ GBIF updates a set of [overview slides](https://www.gbif.org/document/81771/gbif
 > 
 > The [GBIF website](https://www.gbif.org/) has pages dedicated to data retrieval and downloading. 
 > 1. Find and download this occurrence only dataset from GBIF: "Tipuloidea of Martinique - 2016-2018"
-> > How many times is this dataset cited
+> > How many times is this dataset cited </br>
 > > How many occurrences are in this dataset?
 > > Are all the occurrences georeferenced?
 > > What is the licence on the dataset?
