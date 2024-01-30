@@ -48,10 +48,9 @@ GBIF updates a set of [overview slides](https://www.gbif.org/document/81771/gbif
   </a>
 
 
-> ## Exercises
+> ## Exercises 1: Investigate how your country/organization is represented in GBIF
 > 
-> Challenge: Investigate how your country/organization is represented in GBIF
-> The [GBIF website](https://www.gbif.org/) has pages dedicated to countries/economies, including for countries/economies that do not yet participate in GBIF. You can use the search box on the homepage to look up a country/organization.
+> The [GBIF website](https://www.gbif.org/) has pages dedicated to countries/economies, including for countries/economies that do not yet participate in GBIF. You can use the search box on the homepage to look up > a country/organization.
 > - The tabs on these pages provide a general description of: 
 >	- data available about the biodiversity of the country
 >	- data published by your country/organization, 
@@ -79,7 +78,7 @@ GBIF updates a set of [overview slides](https://www.gbif.org/document/81771/gbif
 > {: .solution}
 {: .challenge}
 
-> Investigate how your country/organization is represented in GBIF
+
 
 
 
