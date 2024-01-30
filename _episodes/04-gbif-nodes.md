@@ -19,6 +19,18 @@ keypoints:
     <img src="{{ '/assets/img/GBIF_MoU.png' | relative_url }}">
   </a>
 
+> ## Exercises 1: Participation
+> 
+> The EXERCISE
+> 
+> > ## Solution
+> > THE SOLUTION
+> 
+> {: .solution}
+> > ## Challenge
+> > THE CHALLENGE
+> 
+> {: .challenge}
 
 # 2: Presentation on the ECA Nodes
 
@@ -31,3 +43,5 @@ keypoints:
 <a href="https://docs.google.com/presentation/d/1Sce89pOXwkPOCp6oTE9GgQaYyey0KHs8db0DlI2dWd0/edit?usp=sharing">
     <img src="{{ '/assets/img/GB29Brussels.JPG' | relative_url }}">
   </a>
+
+
