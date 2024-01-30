@@ -19,25 +19,18 @@ keypoints:
     <img src="{{ '/assets/img/GBIF_MoU.png' | relative_url }}">
   </a>
 
+
 > ## Exercises 1: Investigate how your country/organization is represented in GBIF
 > 
 > The [GBIF website](https://www.gbif.org/) has pages dedicated to countries/economies, including for countries/economies that do not yet participate in GBIF. You can use the search box on the homepage to look up a country/organization.
 > - The tabs on these pages provide a general description of: 
->	- data available about the biodiversity of the country
->	- data published by your country/organization, 
->	- the participation of the country/organization
->	- other relevant information on the use of data by researchers in the country/organization.
 >
 > - Look up your country on the GBIF website.
 > 
 > > ## Solution
-> > THE SOLUTION
-> 
+> > 1. [Find Croatia on this map](https://www.gbif.org/the-gbif-network)
 > {: .solution}
-> > ## Challenge
-> > THE CHALLENGE
-> 
-> {: .challenge}
+{: .challenge}
 
 # 2: Presentation on the ECA Nodes
 
