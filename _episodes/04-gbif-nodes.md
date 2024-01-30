@@ -16,7 +16,7 @@ keypoints:
 # 1: Presentation on the GBIF participation
 
 <a href="https://docs.google.com/presentation/d/1LpvVyCKgghbAvn8yIMoCCYEr7E2nF0-53eSBjr-ckV4/edit?usp=sharing">
-    <img src="{{ '/assets/img/GBIF_Network.png' | relative_url }}">
+    <img src="{{ '/assets/img/GBIF_MoU.png' | relative_url }}">
   </a>
 
 
