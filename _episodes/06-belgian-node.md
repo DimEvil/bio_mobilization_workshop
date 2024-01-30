@@ -1,5 +1,5 @@
 ---
-title: "Belgian Node & Node opportunities"
+title: "Belgian Node"
 start: true
 teaching: 30
 questions:
