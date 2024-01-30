@@ -92,7 +92,7 @@ GBIF updates a set of [overview slides](https://www.gbif.org/document/81771/gbif
 > > Are all the occurrences georeferenced?
 > > 
 > > What is the licence on the dataset?
-> > </br>
+> > 
 > > Which sampling method was used to collect the specimen?
 > > 
 > > Is there any media vailable about this dataset?
