@@ -40,7 +40,7 @@ keypoints:
 ![GBIF & CBD](../assets/img/CBD-COP15.png)
 
 
-## 3: [GBIF & IPBES]https://docs.google.com/presentation/d/1aoCRFsrTxIEztXYll_jqpyHY_wcysyTKAwDaa4XcrCI/edit?usp=sharing)
+## 3: [GBIF & IPBES](https://docs.google.com/presentation/d/1aoCRFsrTxIEztXYll_jqpyHY_wcysyTKAwDaa4XcrCI/edit?usp=sharing)
 
 ![GBIF & IPBES](../assets/img/gbif_ipbes.jpg)
 
