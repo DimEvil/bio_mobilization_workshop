@@ -13,25 +13,14 @@ keypoints:
 - "The GBIF Governance"
 ---
 
-# 1: Presentation on the GBIF participation
+# 1: [GBIF participation](https://docs.google.com/presentation/d/1LpvVyCKgghbAvn8yIMoCCYEr7E2nF0-53eSBjr-ckV4/edit?usp=sharing)
 
-<a href="https://docs.google.com/presentation/d/1LpvVyCKgghbAvn8yIMoCCYEr7E2nF0-53eSBjr-ckV4/edit?usp=sharing">
-    <img src="{{ '/assets/img/GBIF_MoU.png' | relative_url }}">
-  </a>
+![GBIF participation](/assets/img/GBIF_MoU.png)
 
-
-> ## Exercises 1: Investigate how your country/organization is represented in GBIF
-> 
-> Blabla
-> 
-> > ## Solution
-> > 1. Find Croatian Particpation to GBIF
-> {: .solution}
-> 
-> > ## Challenge
-> > 1. Understand how to add exercise in this template
-> {: .challenge}
->
+> [!NOTE]
+> Find out information on Croatia on GBIF.org
+> In which regional network is Croatia?
+> Explore [Croatia Country page](https://www.gbif.org/country/HR/summary)
 
 # 2: Presentation on the ECA Nodes
 
