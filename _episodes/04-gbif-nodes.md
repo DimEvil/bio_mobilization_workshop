@@ -22,6 +22,13 @@ keypoints:
 > - Find out information on Croatia on GBIF.org
 > - In which regional network is Croatia?
 > - Explore [Croatia Country page](https://www.gbif.org/country/HR/summary)
+> 
+> > ## Solution
+> > 1. THE SOLUTION
+> > 2. THE SOLUTION
+> > 3. THE SOLUTION
+> {: .solution}
+{: .challenge}
 
 # 2: [The Nodes](https://docs.google.com/presentation/d/1w-JcMmh6PTuum81Qr0q3SeHBgy7yF0FjjbVX_9bSgH0/edit?usp=sharing)
 
