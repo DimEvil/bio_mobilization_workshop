@@ -25,11 +25,13 @@ keypoints:
 > 1. How many data publishers are active in Belgium?
 > 2. How many datasets do contain records about Belgium?
 > 3. How many datasets are published by Belgium?
+> 4. Navigate to the INBO (Research Institute for Nature and Forest) IPT and check how many publishers are making use of this IPT instance
 >    
 > > ## SOLUTION
 > > 1. 27
 > > 2. 1274
 > > 3. 536
+> > 4. 8 (Check [here](https://ipt.inbo.be/?sort=organisation&order=asc&page=13)
 > > 
 > {: .solution}
 {: .challenge}
