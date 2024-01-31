@@ -19,20 +19,25 @@ keypoints:
 
 > ## Exercise 1: Investigate Croatia participation in GBIF
 > 
-> Find out information on Croatia on GBIF.org
-> In which regional network is Croatia?
-> Explore [Croatia Country page](https://www.gbif.org/country/HR/summary)
+> - Find out information on Croatia on GBIF.org
+> - In which regional network is Croatia?
+> - Explore [Croatia Country page](https://www.gbif.org/country/HR/summary)
 
 # 2: [The Nodes](https://docs.google.com/presentation/d/1w-JcMmh6PTuum81Qr0q3SeHBgy7yF0FjjbVX_9bSgH0/edit?usp=sharing)
+
+> [!NOTE]
+> A [node](https://www.gbif.org/nodes) is a team designated by a Participant to coordinate a network of people and institutions that produce, manage and use biodiversity data, collectively building an infrastructure for delivering biodiversity information.
+>
+> Nodes meets every year either globally or regionlly. 
 
 ![ECA Nodes meeting](../assets/img/ECA2023_Warshaw.png)
 
 
-> ## Exercise 2: Investigate the Croatian Node
+> ## Exercise 2: Seek information on the Croatian Node
 > 
-> When did Croatia joined the GBIF network?
-> Who is the contact person for the Croatian Node?
-> How much data publishers from Croatia?
+> - When did Croatia joined the GBIF network?
+> - Who is the contact person for the Croatian Node?
+> - How much data publishers from Croatia?
 
 # 3: [GBIF Governance](https://docs.google.com/presentation/d/1Sce89pOXwkPOCp6oTE9GgQaYyey0KHs8db0DlI2dWd0/edit?usp=sharing)
 
@@ -40,6 +45,6 @@ keypoints:
 
 > ## Exercise 3: Governing Board and Standing Committee
 > 
-> Which country did host the two last Governing Bards?
-> Who are the Vice-Chairs of the Science Committee?
+> - Which country did host the two last Governing Bards?
+> - Who are the Vice-Chairs of the Science Committee?
 
