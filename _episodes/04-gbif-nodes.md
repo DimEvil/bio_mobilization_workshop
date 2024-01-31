@@ -24,9 +24,7 @@ keypoints:
 > - Explore [Croatia Country page](https://www.gbif.org/country/HR/summary)
 > 
 > > ## Solution
-> > 1. THE SOLUTION
-> > 2. THE SOLUTION
-> > 3. THE SOLUTION
+> > -  Europe and Central Asia
 > {: .solution}
 {: .challenge}
 
@@ -58,10 +56,10 @@ Nodes meets every year either globally or regionlly.
 > ## Exercise 3: Governing Board and Standing Committee
 > 
 > - Which country did host the two last Governing Bards?
-> - Who are the Vice-Chairs of the Science Committee?
+> - Who is the Chair of the Science Committee?
 > 
 > > ## Solution
 > > 1. Australia in 2023 & Belgium in 2022
-> > 2. ...
+> > 2. Birgit Gemeinholzer is Science Committee Chair
 > {: .solution}
 {: .challenge}
