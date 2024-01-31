@@ -145,6 +145,9 @@ What the technical workshop will cover
 
 * How to admin an IPT
 * How to customize IPT
+* Hosted Portals, a simple portal solution based on GBIF services
+* GRSCiColl (Global Registry of Scientific Collections)
+* GBIF Registry
 
 
 
