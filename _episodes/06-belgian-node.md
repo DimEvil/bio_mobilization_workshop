@@ -3,7 +3,8 @@ title: "Belgian Node"
 start: true
 teaching: 30
 questions:
-- "What is GBIF?"
+- "How is the Belgian node organized?"
+- "Belgium in the world of Biodiversity data"
 
 objectives:
 - "History of the Belgian Node"
@@ -21,16 +22,14 @@ keypoints:
 
 > ## Excercise : The Belgian GBIF Node
 > 
-> How many data publishers are active in Belgium
+> 1. How many data publishers are active in Belgium?
+> 2. How many datasets do contain records about Belgium?
+> 3. How many datasets are published by Belgium?
 >    
-> > ## TASK
-> > 1. Go out in nature
-> > 2. Add observations to INaturalist
-> > 3. Check the competition
-> >
 > > ## SOLUTION
-> > 5. Check [INaturalist](https://www.inaturalist.org/observations?nelat=46.5550204&nelng=19.4473767&place_id=any&subview=map&swlat=42.3385087&swlng=13.3649)
-> > 6. Check [GBIF](https://www.gbif.org/occurrence/search?country=HR&publishing_org=28eb1a3f-1c15-4a95-931a-4af90ecb574d&occurrence_status=present)
-> {: .solution}
+> > 1. 27
+> > 2. 1274
+> > 3. 536
+> > 
 > {: .solution}
 {: .challenge}
