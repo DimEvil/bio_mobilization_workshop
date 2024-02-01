@@ -351,30 +351,22 @@ Working with different partners/institutes/researchers results in a diversity of
 
 
 
-> ## Using the WoRMS Taxon Match Tool
+> ## Using the Global Names Verifier
+> Verify a list of scientific names against biodiversity data-sources. This service parses incoming names, executes exact or fuzzy matching as required, and returns the best-scored result. Optionally, it can also return matches from data-sources selected by a user.
 > 1. Create a CSV (comma separated value) file with the scientific name of the species of interest. Here we are showing 
 >    some of the contents of the file [`species.csv`]({{ page.root }}/data/species.csv).
 >    ![screenshot]({{ page.root }}/fig/species_file_screenshot.png){: .image-with-shadow }
 >
-> 2. Upload that file to the [WoRMS Taxon match service](https://www.marinespecies.org/aphia.php?p=match)
->    * **make sure the option LSID is checked**   
->  ![screenshot]({{ page.root }}/fig/WoRMS_upload.png){: .image-with-shadow }
-> 
-> 3. Identify which columns to match to which WoRMS term.
->  ![screenshot]({{ page.root }}/fig/WoRMS_TaxonMatch_Preview.PNG){: .image-with-shadow }
-> 
-> 4. Click `Match` 
+> 2. Copy your scientific names to the [Global Names Verifier](https://verifier.globalnames.org/)
+> ![screenshot]({{ page.root }}/fig/globalnamesverifier.PNG){: .image-with-shadow }
+>  
+> 3. Click on Search Names. Don't forget to choose your output format (here choose .csv)
+>  
+> 4. Hopefully, your names will be matched
 >
-> 5. Hopefully, a WoRMS exact match will return
->
->    1. In some cases you will have ambiguous matches. Resolve these rows by using the pull down menu to select the appropriate match.
->    2. Non-matched taxa will appear in red. You will have to go back to your source file and determine what the appropriate text should be.      
->    ![screenshot]({{ page.root }}/fig/WoRMS_TaxonMatch_MatchOutput.PNG){: .image-with-shadow }
->    
-> 6. Download the response as an XLS, XLSX, or text file and use the information when building the Darwin Core file(s).
->    The response from the example linked above can be found [here]({{ page.root }}/data/species_matched.xlsx). A screenshot of the file
->    can be seen below:
->    ![screenshot]({{ page.root }}/fig/matched_species_screenshot.png){: .image-with-shadow }
+>    1. In some cases you will have ambiguous matches.
+>    2. Capy you response and use it building your Darwin Core file
+>  
 {: .solution}
 
 # Getting lat/lon to decimal degrees
