@@ -11,7 +11,6 @@ objectives:
 - "Understand the purpose of Openrefine"
 keypoints:
 - "Openrefine saves time"
-- "
 ---
 
 # Openrefine
