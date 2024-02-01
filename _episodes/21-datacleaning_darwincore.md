@@ -60,31 +60,19 @@ ISO 8601 dates can represent moments in time at different resolutions, as well a
 
 > ## Examples in Openrefine
 >
-> When dealing with dates using Openrefine, there are a few base tricks that are useful to wrangle your dates in the correct format. [Here](https://openrefine.org/docs/manual/grelfunctions#date-functions) is an overview of the Openrefine data functions
+> When dealing with dates using Openrefine, there are a few base tricks that are useful to wrangle your dates in the correct format. 
 >
 > The examples below show how to use the `Openrefine` and format your data to the ISO-8601 standard.
 > <br/>
 > 1.  `01/31/2021 17:00 GMT`
-> 
->   
-> 2. `31/01/2021 12:00 EST`
-> 
->    
+> Choose edit cells, --> common transforms --> toDate
+> Choose add column based on this column
+> Code: value.toDate('yyyy/mm/dd').toString('yyyy-MM-dd')
+> If you have multiple date formats in one column. Code: value.toDate('MM/yy','MMM-yy').toString('yyyy-MM')
+> If parsing a date with text components in a language other than your system language you can specify a language code as the format1 argument. For example, a French language date such as "10 janvier 2023" could be parsed with value.toDate('fr','dd MMM yyyy').
 >
-> 3. `January, 01 2021 5:00 PM GMT`
+> 2. Another option is to split your date columns in 3 separate columns using the split function. After splitting join the columbs in a data format code: cells["year"].value + "-" +cells["month"].value + "-" + cells["day"].value
 >
->   
->    
-> 4. `1612112400` in seconds since 1970
->
->        
-> 5. `44227.708333333333`
->    
->    This is the numerical value for dates in Excel because Excel stores dates as sequential serial numbers so that they 
->    can be used in calculations. In some cases, when you export an Excel spreadsheet to CSV, the 
->    dates are preserved as a floating point number.
->
->   
 >   
 {: .solution}
 
