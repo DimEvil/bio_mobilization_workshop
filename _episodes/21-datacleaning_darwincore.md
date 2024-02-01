@@ -60,7 +60,7 @@ ISO 8601 dates can represent moments in time at different resolutions, as well a
 
 > ## Examples in Openrefine
 >
-> When dealing with dates using Openrefine, there are a few base tricks that are useful to wrangle your dates in the correct format. 
+> When dealing with dates using Openrefine, there are a few base tricks that are useful to wrangle your dates in the correct format. [Here](https://openrefine.org/docs/manual/grelfunctions#date-functions) is an overview of the Openrefine data functions
 >
 > The examples below show how to use the `Openrefine` and format your data to the ISO-8601 standard.
 > <br/>
