@@ -21,6 +21,7 @@ keypoints:
     <img src="{{ '/assets/img/openrefine.PNG' | relative_url }}">
   </a>
 
+You can find the complete user manual [here](https://openrefine.org/docs/manual/starting)
 
 > ## Excercise : Openrefine
 > 
@@ -28,7 +29,7 @@ keypoints:
 > 
 >    
 > > ## SOLUTION
-> > 1. follow the guidelines in the document
+> > 1. follow the guidelines in the tutorial document
 > > 
 > {: .solution}
 {: .challenge}
