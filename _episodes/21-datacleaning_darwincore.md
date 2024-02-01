@@ -62,7 +62,7 @@ ISO 8601 dates can represent moments in time at different resolutions, as well a
 >
 > When dealing with dates using Openrefine, there are a few base tricks that are useful to wrangle your dates in the correct format. 
 >
-> The examples below show how to use the `Openrefine` and format your data to the ISO-8601 standard.
+> The examples below show how to use the `Openrefine` and format your data to the ISO-8601 standard.  [Here](https://openrefine.org/docs/manual/grelfunctions#date-functions) is an overview of the Openrefine data functions
 > <br/>
 > 1.  `01/31/2021 17:00 GMT`
 > Choose edit cells, --> common transforms --> toDate
