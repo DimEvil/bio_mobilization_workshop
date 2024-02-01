@@ -3,7 +3,8 @@ title: "Belgian Node"
 start: true
 teaching: 30
 questions:
-- "What is GBIF?"
+- "How is the Belgian node organized?"
+- "Belgium in the world of Biodiversity data"
 
 objectives:
 - "History of the Belgian Node"
@@ -19,3 +20,18 @@ keypoints:
     <img src="{{ '/assets/img/gbif_belgium.PNG' | relative_url }}">
   </a>
 
+> ## Excercise : The Belgian GBIF Node
+> 
+> 1. How many data publishers are active in Belgium?
+> 2. How many datasets do contain records about Belgium?
+> 3. How many datasets are published by Belgium?
+> 4. Navigate to the INBO (Research Institute for Nature and Forest) IPT and check how many publishers are making use of this IPT instance
+>    
+> > ## SOLUTION
+> > 1. 27
+> > 2. 1274
+> > 3. 536
+> > 4. 8 (Check [here](https://ipt.inbo.be/?sort=organisation&order=asc&page=13)
+> > 
+> {: .solution}
+{: .challenge}

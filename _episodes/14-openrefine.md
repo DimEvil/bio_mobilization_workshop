@@ -21,9 +21,17 @@ keypoints:
     <img src="{{ '/assets/img/openrefine.PNG' | relative_url }}">
   </a>
 
-## Excercise
 
-### Tutorial
+> ## Excercise : Openrefine
+> 
+> 1. Complete [this](https://drive.google.com/file/d/1KKkqfjAtkaV80Xs1vd0ycTeaJwztxU3b/view?usp=drive_link) exercise
+> 
+>    
+> > ## SOLUTION
+> > 1. follow the guidelines in the document
+> > 
+> {: .solution}
+{: .challenge}
 
 <a href="https://drive.google.com/file/d/1KKkqfjAtkaV80Xs1vd0ycTeaJwztxU3b/view?usp=drive_link">
     <img src="{{ '/assets/img/openrefine_tutorial.PNG' | relative_url }}">
