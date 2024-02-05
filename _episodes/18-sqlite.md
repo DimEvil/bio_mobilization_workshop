@@ -21,9 +21,17 @@ keypoints:
 > ## Exercise 1 : Download from GBIF.org
 > 
 > Blabla
-> > ## Solution
-> > ```sql
-> > select * from occ;
-> > ```
-> > {: .solution}
-{: .challenge}
+> ## Solution
+
+```sql
+select * from occ;
+```
+
+> ## Exercise 2 : Import into SQLite
+> 
+> Blabla
+> ## Solution
+
+```sql
+select * from occ;
+```
