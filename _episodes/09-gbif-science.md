@@ -55,7 +55,7 @@ keypoints:
 {: .challenge}
 
 
-## 3: [GBIF & IPBES]https://docs.google.com/presentation/d/1aoCRFsrTxIEztXYll_jqpyHY_wcysyTKAwDaa4XcrCI/edit?usp=sharing)
+## 3: [GBIF & IPBES](https://docs.google.com/presentation/d/1aoCRFsrTxIEztXYll_jqpyHY_wcysyTKAwDaa4XcrCI/edit?usp=sharing)
 
 ![GBIF & IPBES](../assets/img/gbif_ipbes.jpg)
 

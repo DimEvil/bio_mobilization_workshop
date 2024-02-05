@@ -62,29 +62,17 @@ ISO 8601 dates can represent moments in time at different resolutions, as well a
 >
 > When dealing with dates using Openrefine, there are a few base tricks that are useful to wrangle your dates in the correct format. 
 >
-> The examples below show how to use the `Openrefine` and format your data to the ISO-8601 standard.
+> The examples below show how to use the `Openrefine` and format your data to the ISO-8601 standard.  [Here](https://openrefine.org/docs/manual/grelfunctions#date-functions) is an overview of the Openrefine data functions
 > <br/>
 > 1.  `01/31/2021 17:00 GMT`
-> 
->   
-> 2. `31/01/2021 12:00 EST`
-> 
->    
+> Choose edit cells, --> common transforms --> toDate
+> Choose add column based on this column
+> Code: value.toDate('yyyy/mm/dd').toString('yyyy-MM-dd')
+> If you have multiple date formats in one column. Code: value.toDate('MM/yy','MMM-yy').toString('yyyy-MM')
+> If parsing a date with text components in a language other than your system language you can specify a language code as the format1 argument. For example, a French language date such as "10 janvier 2023" could be parsed with value.toDate('fr','dd MMM yyyy').
 >
-> 3. `January, 01 2021 5:00 PM GMT`
+> 2. Another option is to split your date columns in 3 separate columns using the split function. After splitting join the columbs in a data format code: cells["year"].value + "-" +cells["month"].value + "-" + cells["day"].value
 >
->   
->    
-> 4. `1612112400` in seconds since 1970
->
->        
-> 5. `44227.708333333333`
->    
->    This is the numerical value for dates in Excel because Excel stores dates as sequential serial numbers so that they 
->    can be used in calculations. In some cases, when you export an Excel spreadsheet to CSV, the 
->    dates are preserved as a floating point number.
->
->   
 >   
 {: .solution}
 
@@ -351,30 +339,22 @@ Working with different partners/institutes/researchers results in a diversity of
 
 
 
-> ## Using the WoRMS Taxon Match Tool
+> ## Using the Global Names Verifier
+> Verify a list of scientific names against biodiversity data-sources. This service parses incoming names, executes exact or fuzzy matching as required, and returns the best-scored result. Optionally, it can also return matches from data-sources selected by a user.
 > 1. Create a CSV (comma separated value) file with the scientific name of the species of interest. Here we are showing 
 >    some of the contents of the file [`species.csv`]({{ page.root }}/data/species.csv).
 >    ![screenshot]({{ page.root }}/fig/species_file_screenshot.png){: .image-with-shadow }
 >
-> 2. Upload that file to the [WoRMS Taxon match service](https://www.marinespecies.org/aphia.php?p=match)
->    * **make sure the option LSID is checked**   
->  ![screenshot]({{ page.root }}/fig/WoRMS_upload.png){: .image-with-shadow }
-> 
-> 3. Identify which columns to match to which WoRMS term.
->  ![screenshot]({{ page.root }}/fig/WoRMS_TaxonMatch_Preview.PNG){: .image-with-shadow }
-> 
-> 4. Click `Match` 
+> 2. Copy your scientific names to the [Global Names Verifier](https://verifier.globalnames.org/)
+> ![screenshot]({{ page.root }}/fig/globalnamesverifier.PNG){: .image-with-shadow }
+>  
+> 3. Click on Search Names. Don't forget to choose your output format (here choose .csv)
+>  
+> 4. Hopefully, your names will be matched
 >
-> 5. Hopefully, a WoRMS exact match will return
->
->    1. In some cases you will have ambiguous matches. Resolve these rows by using the pull down menu to select the appropriate match.
->    2. Non-matched taxa will appear in red. You will have to go back to your source file and determine what the appropriate text should be.      
->    ![screenshot]({{ page.root }}/fig/WoRMS_TaxonMatch_MatchOutput.PNG){: .image-with-shadow }
->    
-> 6. Download the response as an XLS, XLSX, or text file and use the information when building the Darwin Core file(s).
->    The response from the example linked above can be found [here]({{ page.root }}/data/species_matched.xlsx). A screenshot of the file
->    can be seen below:
->    ![screenshot]({{ page.root }}/fig/matched_species_screenshot.png){: .image-with-shadow }
+>    1. In some cases you will have ambiguous matches.
+>    2. Capy you response and use it building your Darwin Core file
+>  
 {: .solution}
 
 # Getting lat/lon to decimal degrees
