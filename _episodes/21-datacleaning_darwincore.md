@@ -83,7 +83,7 @@ ISO 8601 dates can represent moments in time at different resolutions, as well a
 >     value.toDate('fr','dd MMM yyyy') 
 >     ```
 > 2. Another option is to split your date columns in 3 separate columns using the split function. After splitting join the columns in a data format code:
->    ![openrefineSplit](../assets/code/refine2 .PNG)
+>    ![openrefineSplit](../assets/code/refine2.PNG)
 >    
 >    ```
 >       cells["year"].value + "-" +cells["month"].value + "-" + cells["day"].value
