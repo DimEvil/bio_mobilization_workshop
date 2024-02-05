@@ -109,7 +109,10 @@ These 2 days (February 21 and 22th) are intended to be a hands-on workshop focus
     <img src="{{ '/assets/img/belspo.png' | relative_url }}" alt="Belspo" width="180">
   </a>
   <a href="https://https://mingor.gov.hr/">
-    <img src="{{ '/assets/logos/croatia.png' | relative_url }}" alt="Croatia" width="180">
+    <img src="{{ '/assets/img/croatia.png' | relative_url }}" alt="Croatia" width="180">
+  </a>
+   <a href="https://https://gbif.org/">
+    <img src="{{ '/assets/img/gbif.png' | relative_url }}" alt="GBIF" width="180">
   </a>
 </p>
 
