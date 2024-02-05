@@ -65,15 +65,21 @@ ISO 8601 dates can represent moments in time at different resolutions, as well a
 > The examples below show how to use the `Openrefine` and format your data to the ISO-8601 standard.  [Here](https://openrefine.org/docs/manual/grelfunctions#date-functions) is an overview of the Openrefine data functions
 > <br/>
 > 1.  `01/31/2021 17:00 GMT` <br/>
-> Choose edit cells, --> common transforms --> toDate
-> Choose add column based on this column
-
+> Choose `edit cells`, --> `common transforms` --> `toDate`
+> Choose `add column based on this column`
+>
 >     ```GREL
 >      value.toDate('yyyy/mm/dd').toString('yyyy-MM-dd')
->      value.toDate('MM/yy','MMM-yy').toString('yyyy-MM') "If you have multiple date formats in one column."
->      value.toDate('fr','dd MMM yyyy') "If parsing a date with text components in a language other than your system language you can specify a language code as the format1 argument. For example, a French language date such as "10 janvier 2023".
 >     ```
-> 3. Another option is to split your date columns in 3 separate columns using the split function. After splitting join the columbs in a data format code:
+>     If you have multiple date formats in one column.
+>     ```Openrefine
+>      value.toDate('MM/yy','MMM-yy').toString('yyyy-MM')
+>     ```
+>     "If parsing a date with text components in a language other than your system language you can specify a language code as the format1 argument. For example, a French language date such as "10 janvier 2023".
+>     ```
+>     value.toDate('fr','dd MMM yyyy') 
+>     ```
+> 2. Another option is to split your date columns in 3 separate columns using the split function. After splitting join the columbs in a data format code:
 >    
 >    ```GREL
 >       cells["year"].value + "-" +cells["month"].value + "-" + cells["day"].value
