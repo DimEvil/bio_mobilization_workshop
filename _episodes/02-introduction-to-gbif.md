@@ -57,24 +57,18 @@ GBIF updates a set of [overview slides](https://www.gbif.org/document/81771/gbif
 >	- the participation of the country/organization
 >	- other relevant information on the use of data by researchers in the country/organization.
 >
-> - Look up your country on the GBIF website.
-> - Since when is Croatia a Voting participant
-> - How many datasets are published by Croatia in GBIF?
-> - How many Croatian institutions/organisations are publishing data? and globally?
-> - Is a list of introduced and invasive alien species available for your country?
-> - How well does the information available on GBIF reflect what you know about the biodiversity of your country?
-> - Do you see publications from/about your country?
-> - Download the Croatia Activity report
+> 1. Look up your country on the GBIF website.
+> 2. Is a list of introduced and invasive alien species available for your country?
+> 3. How well does the information available on GBIF reflect what you know about the biodiversity of your country?
+> 4. Do you see publications from/about your country?
+> 5. Download the Croatia Activity report
 > 
 > > ## Solution
 > > 1. [Find Croatia on this map](https://www.gbif.org/the-gbif-network)
-> > 2. [Since 2022](https://www.gbif.org/country/HR/summary)
-> > 3. [2](https://www.gbif.org/dataset/search?publishing_country=HR)
-> > 4. [2](https://www.gbif.org/dataset/search?publishing_country=HR) & [gloablly](https://www.gbif.org/publisher/search)
-> > 5. [Global Register of Introduced and Invasive Species- Croatia] (https://www.gbif.org/dataset/f82a4f7f-6f84-4b58-82e6-6b41ec9a1f49)
-> > 6. Note your idea about this
-> > 7. [publications](https://www.gbif.org/country/HR/publications/about)
-> > 8. [activity report](https://www.gbif.org/sites/default/files/gbif_analytics/country/HR/GBIF_CountryReport_HR.pdf)
+> > 2. [Global Register of Introduced and Invasive Species- Croatia] (https://www.gbif.org/dataset/f82a4f7f-6f84-4b58-82e6-6b41ec9a1f49)
+> > 3. Note your idea about this
+> > 4. [publications](https://www.gbif.org/country/HR/publications/about)
+> > 5. [activity report](https://www.gbif.org/sites/default/files/gbif_analytics/country/HR/GBIF_CountryReport_HR.pdf)
 > {: .solution}
 {: .challenge}
 
