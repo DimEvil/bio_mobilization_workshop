@@ -104,7 +104,7 @@ the pitch.
     <img src="{{ '/assets/img/belspo.png' | relative_url }}" alt="Belspo" width="180">
   </a>
   <a href="https://https://mingor.gov.hr/">
-    <img src="{{ '/assets/logos/croatia.jpg' | relative_url }}" alt="Croatia" width="180">
+    <img src="{{ '/assets/logos/croatia.png' | relative_url }}" alt="Croatia" width="180">
   </a>
 </p>
 
