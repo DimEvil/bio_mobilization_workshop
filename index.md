@@ -102,7 +102,7 @@ In February, a full week of GBIF immersion will be organized in Croatia. Next to
 These 2 days (February 21 and 22th) are intended to be a hands-on workshop focused on mobilizing biological observation datasets to the <a href="https://gbif.org/">Global Biodiversity Information Facility (GBIF)</a> by helping data providers standardize their data using Darwin Core including species observations from any type of sampling methodologies (e.g. visual surveys, microscopy, imaging, telemetry). The other 3 days are dedicated to setting op the GBIF node in Croatia in the framework of the GBIF CESP CROMENT (Mentoring Croatia) project. This workshop is organized by a The Belgian Biodiversity Platform & the Croatian Institute for Environment and Nature & The Habitat Foundation. For more information on the Croment procject, [visit](https://www.gbif.org/project/CESP2023-006/croment) this website
 
 <p class="d-flex justify-content-around align-items-center">
-  <a href="http://biodiversity.be/">
+  <a href="https://biodiversity.be/">
     <img src="{{ '/assets/img/bbpf.jpg' | relative_url }}" alt="Belgian GBIF node" width="180">
   </a>
   <a href="https://www.belspo.be">
@@ -111,7 +111,7 @@ These 2 days (February 21 and 22th) are intended to be a hands-on workshop focus
   <a href="https://https://mingor.gov.hr/">
     <img src="{{ '/assets/img/croatia.png' | relative_url }}" alt="Croatia" width="180">
   </a>
-   <a href="https://https://gbif.org/">
+   <a href="https://https://www.gbif.org/">
     <img src="{{ '/assets/img/gbif.png' | relative_url }}" alt="GBIF" width="180">
   </a>
 </p>
