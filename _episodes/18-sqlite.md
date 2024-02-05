@@ -28,7 +28,7 @@ keypoints:
 > > - B. [GBIF Download](https://doi.org/10.15468/dl.6gfwt3) (15,077 occurrences)
 > > - C. [GBIF Download](https://doi.org/10.15468/dl.qy93m6) (13,668 occurrences)
 > > - D. [GBIF Download](https://doi.org/10.15468/dl.6mf27m) (9,723 occurrences)
-> > {: .solution}
+> {: .solution}
 {: .challenge}
 
 > ## Exercise 2 : Import into SQLite
@@ -38,5 +38,10 @@ keypoints:
 > > ```sql
 > > select * from occ; 
 > > ```
-> > {: .solution}
+> {: .solution}
 {: .challenge}
+
+
+```sql
+select * from occ; 
+```
