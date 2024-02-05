@@ -68,11 +68,11 @@ ISO 8601 dates can represent moments in time at different resolutions, as well a
 > Choose `edit cells`, --> `common transforms` --> `toDate`
 > Choose `add column based on this column`
 >
->     ```GREL
+>     ```CODE=GREL
 >      value.toDate('yyyy/mm/dd').toString('yyyy-MM-dd')
 >     ```
 >     If you have multiple date formats in one column.
->     ```Openrefine
+>     ```
 >      value.toDate('MM/yy','MMM-yy').toString('yyyy-MM')
 >     ```
 >     "If parsing a date with text components in a language other than your system language you can specify a language code as the format1 argument. For example, a French language date such as "10 janvier 2023".
