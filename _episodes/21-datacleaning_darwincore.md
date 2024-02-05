@@ -68,7 +68,7 @@ ISO 8601 dates can represent moments in time at different resolutions, as well a
 > Choose `edit cells`, --> `common transforms` --> `toDate`
 > Choose `add column based on this column`
 >
->     ```CODE=GREL
+>     ```
 >      value.toDate('yyyy/mm/dd').toString('yyyy-MM-dd')
 >     ```
 >     If you have multiple date formats in one column.
@@ -81,7 +81,7 @@ ISO 8601 dates can represent moments in time at different resolutions, as well a
 >     ```
 > 2. Another option is to split your date columns in 3 separate columns using the split function. After splitting join the columbs in a data format code:
 >    
->    ```GREL
+>    ```
 >       cells["year"].value + "-" +cells["month"].value + "-" + cells["day"].value
 >    ```
 >   
