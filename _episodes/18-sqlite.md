@@ -38,7 +38,7 @@ keypoints:
 > > ```sql
 > > select * from occ; 
 > > ```
-> > {: .solution}
+> {: .solution}
 {: .challenge}
 
 
