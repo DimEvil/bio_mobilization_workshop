@@ -22,7 +22,8 @@ keypoints:
 > 
 > Blabla
 >
-> > ## Solution 1
+>
+> > ## Solution
 > > The use cases download should look like this:
 > > * A/ [GBIF Download](https://doi.org/10.15468/dl.t2hj6v) (116,575 occurrences)
 > > * B/ [GBIF Download](https://doi.org/10.15468/dl.6gfwt3) (15,077 occurrences)
@@ -34,10 +35,11 @@ keypoints:
 > ## Exercise 2 : Import into SQLite
 > 
 > Blabla
-> > ## Solution 2
+> > ## Solution
 > > (here is the solution)
-> > ```sql
-> > select * from occ;
 > > ```
+> > sql select * from occ; 
+> > ```
+> > (here is the solution)
 > > {: .solution}
 {: .challenge}
