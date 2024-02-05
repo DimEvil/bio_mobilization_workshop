@@ -21,17 +21,23 @@ keypoints:
 > ## Exercise 1 : Download from GBIF.org
 > 
 > Blabla
-> ## Solution
-
-```sql
-select * from occ;
-```
+>
+> > ## Solution 1
+> > The use cases download should look like this:
+> > * A/ [GBIF Download](https://doi.org/10.15468/dl.t2hj6v) (116,575 occurrences)
+> > * B/ [GBIF Download](https://doi.org/10.15468/dl.6gfwt3) (15,077 occurrences)
+> > * C/ [GBIF Download](https://doi.org/10.15468/dl.qy93m6) (13,668 occurrences)
+> > * D/ [GBIF Download](https://doi.org/10.15468/dl.6mf27m) (9,723 occurrences)
+> > {: .solution}
+{: .challenge}
 
 > ## Exercise 2 : Import into SQLite
 > 
 > Blabla
-> ## Solution
-
-```sql
-select * from occ;
-```
+> > ## Solution 2
+> > (here is the solution)
+> > ```sql
+> > select * from occ;
+> > ```
+> > {: .solution}
+{: .challenge}
