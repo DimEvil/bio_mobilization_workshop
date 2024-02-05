@@ -115,7 +115,7 @@ These 2 days (February 21 and 22th) are intended to be a hands-on workshop focus
     <img src="{{ '/assets/img/gbif.png' | relative_url }}" alt="GBIF" width="200">
   </a>
   <a href="https://www.thehabitatfoundation.org/">
-    <img src="{{ '/assets/img/thf.PNG' | relative_url }}" alt="THF" width="200">
+    <img src="{{ '/assets/img/thf.PNG' | relative_url }}" alt="THF" width="160">
   </a>
   <a href="https://www.belspo.be">
     <img src="{{ '/assets/img/belspo.png' | relative_url }}" alt="Belspo" width="200">
