@@ -79,7 +79,7 @@ select count(*) from occ where occurrenceStatus='ABSENT';
 
 create view trusted as select * from occ where occurrenceStatus='PRESENT' and taxonRank='SPECIES';
 select count(*) from trusted;
-``
+```
 
 ---
 ## Exercice 5 : Filter data
