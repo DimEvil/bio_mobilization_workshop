@@ -10,10 +10,13 @@ objectives:
 - "Understand how SQLite can help cleaning data"
 
 keypoints:
-- "How explore GBIF downloaded data?"
+- SQL can be very useful to clean your data
+- Views are great to filter the records and fields you want to keep without changing your original data
+- Store your SQL statements under Git
+- SQL statements are easy to understand, sustainable and reusable
 ---
 
-## 1: [SQLite](https://docs.google.com/presentation/d/1oMPNqm4tU9BwnUo1zJxI0nlXMPfIljYeAqh4vEdJZ_0/edit?usp=sharing)
+## Presentation: [SQLite](https://docs.google.com/presentation/d/1oMPNqm4tU9BwnUo1zJxI0nlXMPfIljYeAqh4vEdJZ_0/edit?usp=sharing)
 
 ![SQLite](../assets/img/SQLite.png)
 
@@ -71,7 +74,7 @@ select license, count(*) from occ group by license;
 - Do you have absence data? (see **occurrenceStatus**)
 - Discard absence data
 - Create a **trusted** view that eliminates absence data and taxonRank different from SPECIES
-- How many records do you now?
+- How many records do you have now?
 
 ### Solution 4
 ```sql
