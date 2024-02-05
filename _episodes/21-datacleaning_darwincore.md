@@ -109,7 +109,7 @@ ISO 8601 dates can represent moments in time at different resolutions, as well a
 > 
 >    This date is similar to the first date but switches the `month` and `day` and identifies a different `time-zone`.
 >    The construct looks like `day`**/**`month`**/**`year` `24-hour`**:**`minute` `time-zone`
->    ```GRELL
+>    ```python
 >    import pandas as pd
 >    df = pd.DataFrame({'date':['31/01/2021 12:00 EST']})
 >    df['eventDate'] = pd.to_datetime(df['date'], format="%d/%m/%Y %H:%M %Z")
