@@ -16,12 +16,11 @@ keypoints:
 
 ## 1: [SQLite](https://docs.google.com/presentation/d/1oMPNqm4tU9BwnUo1zJxI0nlXMPfIljYeAqh4vEdJZ_0/edit?usp=sharing)
 
-![SQLite](../assets/img/sqlite.png)
+![SQLite](../assets/img/SQLite.png)
 
 > ## Exercise 1 : Download from GBIF.org
 > 
 > Blabla
->
 >
 > > ## Solution
 > > The use cases download should look like this:
@@ -36,10 +35,8 @@ keypoints:
 > 
 > Blabla
 > > ## Solution
-> > (here is the solution)
+> > ```sql
+> > select * from occ; 
 > > ```
-> > sql select * from occ; 
-> > ```
-> > (here is the solution)
 > > {: .solution}
 {: .challenge}
