@@ -40,3 +40,8 @@ keypoints:
 > > ```
 > > {: .solution}
 {: .challenge}
+
+
+```sql
+select * from occ; 
+```
