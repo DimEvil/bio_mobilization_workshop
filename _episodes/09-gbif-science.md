@@ -27,12 +27,12 @@ keypoints:
 > 
 > 1. How many citations for the **Meditera3** dataset published by the University of Zagreb Faculty of Science?
 > 2. This dataset have been reused in one thesis. Which one?
-> 3. Which of the Science Review is in your field of research?
+> 3. In the Science Review topics, which ones are of interest for you?
 >
 > > ## Solution
 > > 1. 11 citations
 > > 2. [Decreases over time in shannon diversity of land snails by Hmming J.](https://hdl.handle.net/2077/74972)
-> > 3. Topics covered are : AGRICULTURE, BIODIVERSITY SCIENCE , BIOGEOGRAPHY , CITIZEN SCIENCE , CLIMATE CHANGE , CONSERVATION, DATA MANAGEMENT, DNA , ECOLOGY, ECOSYSTEM SERVICES,  EVOLUTION, FRESHWATER, HUMAN HEALTH, MARINE, PHYLOGENETICS, SPECIES DISTRIBUTION, TAXONOMY & INVASIVES.
+> > 3. The covered topics of the Science Review are : AGRICULTURE, BIODIVERSITY SCIENCE , BIOGEOGRAPHY , CITIZEN SCIENCE , CLIMATE CHANGE , CONSERVATION, DATA MANAGEMENT, DNA , ECOLOGY, ECOSYSTEM SERVICES,  EVOLUTION, FRESHWATER, HUMAN HEALTH, MARINE, PHYLOGENETICS, SPECIES DISTRIBUTION, TAXONOMY & INVASIVES.
 > {: .solution}
 {: .challenge}
 
