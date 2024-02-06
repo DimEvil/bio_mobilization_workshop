@@ -74,7 +74,7 @@ Simply use the IPT’s built-in metadata editor to populate the metadata.
 
 # Datapapers
 
-![datapaper](assets/img/datapaper.PNG)
+![datapaper](../assets/img/datapaper.PNG)
 
 ![datapaper]({{ '/assets/img/datapaper.PNG' | relative_url }})
 
