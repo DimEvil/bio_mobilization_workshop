@@ -76,6 +76,8 @@ Simply use the IPT’s built-in metadata editor to populate the metadata.
 
 ![datapaper](assets/img/datapaper.PNG)
 
+![datapaper]({{ '/assets/img/datapaper.PNG' | relative_url }})
+
 > ## Tip
 > * In some cases you'll want to ensure the values are representative of the entity you are reporting.
 > * For example, [`individualCount`](https://dwc.tdwg.org/terms/#dwc:individualCount) should be an integer. So, checking that column for integer values would be good.
