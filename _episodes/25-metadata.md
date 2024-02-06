@@ -26,6 +26,12 @@ The requirements for publishing via an OBIS node IPT are that:
 2. the data follows Darwin Core (DwC) and Ecological Metadata Language (EML)
 3. includes the required Darwin Core and EML metadata elements
 
+# Presentation
+
+<a href="https://docs.google.com/presentation/d/1s3BFq3_kE4P2XtnNklXaVo2G2jxj6sSpYq09GphixxA/edit?usp=sharing">
+    <img src="{{ '/assets/img/ipt.PNG' | relative_url }}">
+  </a>
+
 # Ecological Metadata Language (EML) 
 
 Both OBIS and GBIF use [Ecological Metadata Language (EML)](https://eml.ecoinformatics.org/) as the metadata standard associated with the data. For the purposes of this workshop we will not dive into the world of EML. However, we should note that when publishing your data through the IPT, the IPT helps you create an EML file as part of the Darwin Core Archive (DwC-A). As such, if you publish your own data through the IPT, there is no need for innate knowledge on the EML format. But there are a minimum required number of fields that would need to be filled out in the IPT: `title`, `abstract`, `citation`, and several `contacts`. 
