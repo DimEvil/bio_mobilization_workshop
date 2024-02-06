@@ -72,6 +72,10 @@ Simply use the IPT’s built-in metadata editor to populate the metadata.
 
 {% include links.md %}
 
+# Datapapers
+
+![datapaper](assets/img/datapaper.PNG)
+
 > ## Tip
 > * In some cases you'll want to ensure the values are representative of the entity you are reporting.
 > * For example, [`individualCount`](https://dwc.tdwg.org/terms/#dwc:individualCount) should be an integer. So, checking that column for integer values would be good.
