@@ -43,7 +43,7 @@ GBIF updates a set of [overview slides](https://www.gbif.org/document/81771/gbif
 
 ### Presentation
 
-<a href="https://docs.google.com/presentation/d/13o6PLmh8zFNT7hR8XtMCorazx--KJxPXiykG8xB4TDc/edit?usp=sharing">
+<a href="https://docs.google.com/presentation/d/1YsztuD-W4nIcDx0bOOdGFyVjskGxsXQ7hfBZseuIdyo/edit?usp=sharing">
     <img src="{{ '/assets/img/gbif_introduction.PNG' | relative_url }}">
   </a>
 
