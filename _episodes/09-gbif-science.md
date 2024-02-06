@@ -33,7 +33,7 @@ keypoints:
 > > 1. 11 citations
 > > 2. [Decreases over time in shannon diversity of land snails by Hmming J.](https://hdl.handle.net/2077/74972)
 > > 3. Topics covered are : AGRICULTURE, BIODIVERSITY SCIENCE , BIOGEOGRAPHY , CITIZEN SCIENCE , CLIMATE CHANGE , CONSERVATION, DATA MANAGEMENT, DNA , ECOLOGY, ECOSYSTEM SERVICES,  EVOLUTION, FRESHWATER, HUMAN HEALTH, MARINE, PHYLOGENETICS, SPECIES DISTRIBUTION, TAXONOMY & INVASIVES.
-> > {: .solution}
+> {: .solution}
 {: .challenge}
 
 
@@ -51,7 +51,7 @@ keypoints:
 > > 1. Yes, GBIF is observer as Inter-Governmental Organization
 > > 2. Yes, definitely
 > > 3. AHTEG on Indicators
-> > {: .solution}
+> {: .solution}
 {: .challenge}
 
 
@@ -67,7 +67,7 @@ keypoints:
 > > ## Solution
 > > 1. Yes! see Science Review
 > > 2. Yes! eg CBD, IPBES and Impact Assessments
-> > {: .solution}
+> {: .solution}
 {: .challenge}
 
 ## 4: [Science Policy Interface](https://docs.google.com/presentation/d/1LJPFOVeUz8H1EEZaYfE4sqwpIDHQIx7V_-HYH6hubLk/edit?usp=sharing)
@@ -76,13 +76,14 @@ keypoints:
 
 > ## Exercise 4 : Science Policy Interface
 > 
-> 1. Does GBIF supports national biodiversity Commitments?
+> 1. Does GBIF supports national biodiversity commitments?
 > 2. Does GBIF supports Science Policy Interface?
+> 3. Is this done by the nodes and/or the Secretariat?
 >
 > > ## Solution
-> > 1. Yes!
-> > 2. Yes!
-> > {: .solution}
+1. Yes
+2. Yes
+3. Both
+> {: .solution}
 {: .challenge}
-
   
