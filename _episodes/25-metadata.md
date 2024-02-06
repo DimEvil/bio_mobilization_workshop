@@ -43,23 +43,24 @@ More information on EML can be found at the [EML standard page](https://eml.ecoi
 > significantly reduce the amount of time it takes to load the data into the IPT.
 {: .callout}
 
-## Required EML metadata fields for sharing to OBIS
+## Required EML metadata fields for sharing to GBIF
 
-_Best practices for these fields are explained in detail in the [OBIS manual](https://manual.obis.org/eml)_
+_Best practices for these fields are explained in detail in the [GBIF IPT user manual_Resource metadata](https://ipt.gbif.org/manual/en/ipt/latest/resource-metadata)_
+Simply use the IPT’s built-in metadata editor to populate the metadata.
 
-| EML Fields | Definition | Comment |
+| IPT/EML Fields | Definition | Comment |
 | ---------- | ---------- | ------- |
-| `Title` | A good descriptive title is indispensable and can provide the user with valuable information, making the discovery of data easier. | The IPT also requires you to provide a Shortname. Shortnames serve as an identifier for the resource within the IPT installation and should be unique, descriptive and short (max. 100 characters). Spell out acronyms in Title but they are ok to use in the shortname. |
-| `Abstract` | The abstract or description of a dataset provides basic information on the content of the dataset. The information in the abstract should improve understanding and interpretation of the data.| |
-| `Data License` | The licence that you apply to the resource. The license provides a standardized way to define appropriate uses of your work. | Must use CC-0, CC-BY, or CC-BY-NC. Description of the licenses can be found [here](https://manual.obis.org/policy.html#data-sharing-agreement). |
-| `Resource Contact(s)` | The list of people and organizations that should be contacted to get more information about the resource, that curate the resource or to whom putative problems with the resource or its data should be addressed. | Last name, Postition, and Organization are required, helpful to include an ORCID and a contact method like email or phone number. |
-| `Resource Creator(s)` | The people and organizations who created the resource, in priority order. The list will be used to auto-generate the resource citation (if auto-generation is turned on). | |
-| `Metadata Provider(s)` | the people and organizations responsible for producing the resource metadata. | |
-| `Citation` | The dataset citation allows users to properly cite the datasets in further publications or other uses of the data. The OBIS download function provides a list of the dataset citations packaged with the data in a zipped file. | |
+| `title` | A good descriptive title is indispensable and can provide the user with valuable information, making the discovery of data easier. | The IPT also requires you to provide a Shortname. Shortnames serve as an identifier for the resource within the IPT installation and should be unique, descriptive and short (max. 100 characters). Spell out acronyms in Title but they are ok to use in the shortname. |
+| `description` | The abstract or description of a dataset provides basic information on the content of the dataset. The information in the abstract should improve understanding and interpretation of the data.| |
+| `license` | The licence that you apply to the resource. The license provides a standardized way to define appropriate uses of your work. | Must use CC-0, CC-BY, or CC-BY-NC. Description of the licenses can be found [here](https://manual.obis.org/policy.html#data-sharing-agreement). |
+| `resource Contact(s)` | The list of people and organizations that should be contacted to get more information about the resource, that curate the resource or to whom putative problems with the resource or its data should be addressed. | Last name, Postition, and Organization are required, helpful to include an ORCID and a contact method like email or phone number. |
+| `resource Creator(s)` | The people and organizations who created the resource, in priority order. The list will be used to auto-generate the resource citation (if auto-generation is turned on). | |
+| `metadata Provider(s)` | The people and organizations responsible for producing the resource metadata. | |
+| `publishing organisation` | The organization who publishes the data i.e. the data publisher | |
 
 ## Other EML fields to consider
 
-| EML Fields               | Definition | Comment |
+| IPT/EML Fields               | Definition | Comment |
 |--------------------------|------------|---------|
 | `Bounding Box`           | Farthest North, South, East, and West coordinate. |  |
 | `Geographic Description` | A textual description of the geographic coverage.  |  |
@@ -67,6 +68,7 @@ _Best practices for these fields are explained in detail in the [OBIS manual](ht
 | `Study Extent`           | This field represents both a specific sampling area and the sampling frequency (temporal boundaries, frequency of occurrence) of the project. |  |
 | `Sampling Description`   | This field allows for a text-based/human readable description of the sampling procedures used in the research project. | The content of this element would be similar to a description of sampling procedures found in the methods section of a journal article.  |
 | `Step Description`       | This field allows for repeated sets of elements that document a series of methods and procedures used in the study, and the processing steps leading to the production of the data files. These include e.g. text descriptions of the procedures, relevant literature, software, instrumentation and any quality control measurements taken. | Each method should be described in enough detail to allow other researchers to interpret and repeat the study, if required. |
+| ´citation´               | To ensure your dataset gets cited the way you want | |
 
 {% include links.md %}
 
