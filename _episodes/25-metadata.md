@@ -1,12 +1,20 @@
 ---
-title: "Metadata & data publication"
+title: "Metadata"
 teaching: 0
 exercises: 30
 questions:
+- "How are my data published?"
+- "What metadata are required for publishing?"
 objectives:
-keypoints:
----
+- "Showing data publishing pipeline"
+- "Introducing the IPT"
+- "Introduction to EML"
 
+keypoints:
+- "The IPT is a well-documented and flexible system for publishing data to GBIF (and OBIS)"
+- "Some Darwin Core and Ecological Metadata Language fields are required for publishing to GBIF (and OBIS)."
+- "Strive to write more than the minimal metadata"
+---
 
 
 # Integrated Publishing Toolkit
@@ -71,6 +79,10 @@ Simply use the IPT’s built-in metadata editor to populate the metadata.
 | `citation`               | To ensure your dataset gets cited the way you want | |
 
 {% include links.md %}
+
+# Datapapers
+
+![datapaper]({{ '/assets/img/datapaper.PNG' | relative_url }})
 
 > ## Tip
 > * In some cases you'll want to ensure the values are representative of the entity you are reporting.

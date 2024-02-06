@@ -1,19 +1,13 @@
 ---
 title: "Data Validation & GBIF Validator"
 teaching: 0
-exercises: 120
+exercises: 30
 questions:
-- "How are my data published?"
-- "What metadata are required for publishing?"
+- "How to quality check my data before publication?"
 objectives:
-- "Showing data publishing pipeline"
-- "Introducing the IPT"
-- "Introduction to EML"
-
+- "Showing GBIF data validator"
 keypoints:
-- "The IPT is a well-documented and flexible system for publishing data to OBIS"
-- "Some Darwin Core and Ecological Metadata Language fields are required for publishing to OBIS."
-- "Strive to write more than the minimal metadata"
+- "Use at least the GBIF data validator before you publish data on the network"
 ---
 
 
