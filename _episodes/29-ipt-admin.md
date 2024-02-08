@@ -14,3 +14,13 @@ objectives:
 keypoints:
 - "The GBIF portal is the place to find biodiversity data"
 ---
+# presentation IPT admin
+
+<a href="https://docs.google.com/presentation/d/13o6PLmh8zFNT7hR8XtMCorazx--KJxPXiykG8xB4TDc/edit?usp=sharing">
+    <img src="{{ '/assets/img/iptadmin.PNG' | relative_url }}">
+  </a>
+
+
+# presentation IPT resource management
+
+

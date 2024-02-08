@@ -1,19 +1,13 @@
 ---
 title: "Data Validation & GBIF Validator"
 teaching: 0
-exercises: 120
+exercises: 30
 questions:
-- "How are my data published?"
-- "What metadata are required for publishing?"
+- "How to quality check my data before publication?"
 objectives:
-- "Showing data publishing pipeline"
-- "Introducing the IPT"
-- "Introduction to EML"
-
+- "Showing GBIF data validator"
 keypoints:
-- "The IPT is a well-documented and flexible system for publishing data to OBIS"
-- "Some Darwin Core and Ecological Metadata Language fields are required for publishing to OBIS."
-- "Strive to write more than the minimal metadata"
+- "Use at least the GBIF data validator before you publish data on the network"
 ---
 
 
@@ -22,17 +16,57 @@ keypoints:
 Data validation with GBIF data validation tool
 
 > ## Recommended initial checks on your data
-> * Check that all the [required Darwin Core terms]({{ site.baseurl }}/01-introduction/index.html#what-are-the-required-darwin-core-terms-for-publishing-to-obis) are present and contain the correct information.
+> * Check that all the [required Darwin Core terms](https://www.biodiversity.be/croment/25-metadata/index.html) are present and contain the correct information.
 > * Make a map from your data to ensure the coordinates are valid and within your expected range.
-> * Run basic statistics on each column of numeric data (min, max, mean, std. dev., etc.) to identify potential issues.
 > * Look at unique values of columns containing string entries to identify potential issues (eg. spelling). 
-> * Check for uniqueness of `occurrenceID` field.
-> * Check for uniqueness of `eventID` for each event, if applicable. 
-> * Check that dates are following [ISO-8601](https://en.wikipedia.org/wiki/ISO_8601).
-> * Check that the `scientificNameID` is/are valid. 
+> * Check for uniqueness of `occurrenceID` field. [dwc:occurrenceID](http://rs.tdwg.org/dwc/terms/occurrenceID)
+> * Check for uniqueness of `eventID` for each event, if applicable. [dwc:eventID](http://rs.tdwg.org/dwc/terms/eventID)
+> * Check that dates are following [ISO-8601](https://en.wikipedia.org/wiki/ISO_8601). [dwc:eventDate](https://en.wikipedia.org/wiki/ISO_8601)
 {: .callout}
 
-One method for reviewing your data is to use the r package [Hmisc](https://cran.r-project.org/web/packages/Hmisc/index.html) and the function [describe](https://rdrr.io/cran/Hmisc/man/describe.html). Expand the example below using output from [this notebook](https://github.com/ioos/bio_data_guide/blob/main/datasets/TPWD_HARC_BagSeine/TPWD_HARC_BagSeine_OBISENV.md) to see how it works.
+## GBIF data validator
+
+![GBIF Data validator](../assets/img/validator.PNG)
+
+One method for data validation is fairly simple. The GBIF data validator
+
+### What is the GBIF data validator?
+The GBIF data validator is a service that allows anyone with a GBIF-relevant dataset to receive a report on the syntactical correctness and the validity of the content contained within the dataset. By submitting a dataset to the validator, you can go through the validation and interpretation procedures usually associated with publishing in GBIF and quickly determine potential issues in data - without having to publish it.
+
+### How does it work?
+You start by uploading the dataset file to the validator, either by 
+1) clicking SELECT FILE and selecting it on your local computer or 2) dragging the file from a local folder and dropping it on the Drop here icon. You can also enter the URL of a dataset file accessible from the internet. This is particularly useful for larger datasets. Once you hit the Submit button, the validator starts processing your dataset file. You will be taken straight to a page showing the status of the validation.
+
+Depending on the size of your dataset, processing might take a while. You don't have to keep the browser window open, as a unique job ID is issued every time a new validation process is started. If your dataset is taking too long to process, just save the ID (bookmark the URL) and use it to return at a later time to view the report. We'll keep the report for a month, during which you can come back whenever you like.
+
+### Which file types are accepted?
+ZIP-compressed Darwin Core Archives (DwC-A) (containing cores Occurrence, Taxon, or Event).
+Integrated Publishing Toolkit (IPT) Excel templates containing Checklist, Occurrence, or Sampling-event data
+Simple CSV files containing Darwin Core terms in the first row
+
+### What information will I get from the validation report?
+Once processing is done, you will be able to see the validation report containing the following information:
+
+* a summary of the dataset type and a simple indicator of whether it can be indexed by GBIF or not
+* a summary of issues found during the GBIF interpretation of the dataset
+* detailed break-down of issues found in metadata, dataset core, and extensions (if any), respectively
+* number of records successfully interpreted
+* frequency of terms used in dataset
+
+You will also be able to view the metadata as a draft version of the dataset page as it would appear when the dataset is published and registered with GBIF.
+
+I've got the validation report - now what?
+If the validator finds that your dataset cannot be indexed by GBIF, you should address the issues raised by the validation report before you consider publishing it to GBIF. On the other hand, if you get the green light and your dataset is indexable by GBIF, you should still carefully review any issues that may be the result of e.g. conversion errors, etc. which could affect the quality of the data. If you find and correct any error - from a single typo to large systematic problems - feel free to resubmit your dataset as many times you like.
+
+Technical details
+As with all GBIF tools and software, the data validator is an open source project. For more information, source code and documentation is available in a [GitHub](https://github.com/gbif/gbif-data-validator) repository.
+
+
+
+## Hmisc Describe (optional)
+
+Another method for reviewing your data is to use the r package [Hmisc](https://cran.r-project.org/web/packages/Hmisc/index.html) and the function [describe](https://rdrr.io/cran/Hmisc/man/describe.html). Expand the example below using output from [this notebook](https://github.com/ioos/bio_data_guide/blob/main/datasets/TPWD_HARC_BagSeine/TPWD_HARC_BagSeine_OBISENV.md) to see how it works.
+
 
 > ## Hmisc::describe
 > ```r
