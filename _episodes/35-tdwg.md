@@ -19,7 +19,11 @@ keypoints:
 
 ## TDWG
 Biodiversity Information Standards (TDWG) is a non-profit organization and a community dedicated to developing biodiversity information standards.
-see [TDWG website](https://www.tdwg.org/about/) for more information.
+To achieve its goals, TDWG:
+- Develops, ratifies and promotes standards and guidelines for the recording and exchange of data about organisms
+- Acts as a forum for discussing all aspects of biodiversity information management through meetings, online discussions, and publications
+
+see [TDWG website](https://www.tdwg.org/about/) for more.
 
 ![TDWG 2023 Hobart](../assets/img/TDWG2023Hobart.jpg)
 
@@ -31,9 +35,10 @@ As an example, let's see the [**How we developed a Data Exchange Format: Lessons
 Presented by Peter Desmet as part of the TDWG 2023 Hybrid Annual Conference in Hobart, Tasmania.
 
 ### Standards
-To achieve its goals, TDWG:
-- Develops, ratifies and promotes standards and guidelines for the recording and exchange of data about organisms
-- Acts as a forum for discussing all aspects of biodiversity information management through meetings, online discussions, and publications
+[Darwin Core](https://dwc.tdwg.org/) is a standard maintained by the Darwin Core Maintenance Interest Group. 
+
+[What is Darwin Core, and why does it matter?](https://www.gbif.org/darwin-core)
+>The Darwin Core Standard (DwC) offers a stable, straightforward and flexible framework for compiling biodiversity data from varied and variable sources.
 
 ### Conferences
 TDWG annual conferences provide a showcase for state of the art biodiversity informatics, much of which relies on the standards created by TDWG and other organizations. Our conferences also provide a forum for developing, refining, and extending our standards in response to new challenges and opportunities.
