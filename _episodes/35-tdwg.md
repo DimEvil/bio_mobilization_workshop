@@ -1,21 +1,21 @@
 ---
-title: "Biodiversity Informatics Network (TDG)"
+title: "Biodiversity Informatics Network (TDWG)"
 start: true
-teaching: 20
+teaching: 30
 exercises: 0
-questions: 10
-- ""
-- ""
-- "..."
+questions:
+- "Biodiversity Informatics Network (TDWG)"
+
 objectives:
 - "Understand what TDWG is doing and how it proceed?"
 
-- keypoints:
+keypoints:
 - "TDWG community"
 - "TDWG standards"
 - "TDWG conferences"
 
 ---
+
 
 ## TDWG
 Biodiversity Information Standards (TDWG) is a non-profit organization and a community dedicated to developing biodiversity information standards.
