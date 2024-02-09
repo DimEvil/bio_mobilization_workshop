@@ -20,7 +20,7 @@ keypoints:
     <img src="{{ '/assets/img/gbif_belgium.PNG' | relative_url }}">
   </a>
 
-> ## Excercise : The Belgian GBIF Node
+> ## Excercise : Belgium in the world of Biodiversity data 
 > 
 > 1. How many data publishers are active in Belgium?
 > 2. How many datasets do contain records about Belgium?
@@ -35,3 +35,9 @@ keypoints:
 > > 
 > {: .solution}
 {: .challenge}
+
+### Presentation : Engaging research communities for data mobilization and use: The GBIF node in Belgium
+
+<a href="https://docs.google.com/presentation/d/1o6RZPVvMhMwqApIN5UYfCDgqMC-yi33bqMHTXXZNXk0/edit?usp=sharing">
+    <img src="{{ '/assets/img/gbif_belgium2.PNG' | relative_url }}">
+  </a>
