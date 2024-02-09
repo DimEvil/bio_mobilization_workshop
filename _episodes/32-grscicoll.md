@@ -1,14 +1,17 @@
 ---
-title: "GBIF GRSciCol"
+title: "GBIF GRSciColl"
 start: true
 teaching: 60
 exercises: 0
 questions:
-- "GRSCiColl"
+- "Why is GRSCiColl important?"
+- "How can I help?"
 objectives:
-- "Understand GRSCiColl."
+- "Discover GRSCiColl"
+- "Help curation of Scientific Collections"
 keypoints:
-- "The GRSCiColl is important for GBIF"
+- "GRSciColl a central registry maintained by GBIF"
+- "GRSciColl a community effort"
 ---
 
 ## GRSciColl
