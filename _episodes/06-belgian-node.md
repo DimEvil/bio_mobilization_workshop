@@ -14,13 +14,13 @@ keypoints:
 - "The GBIF portal is the place to find biodiversity data"
 ---
 
-### Presentation
+### Presentation  Belgium in the world of Biodiversity data 
 
 <a href="https://docs.google.com/presentation/d/1M9VWVUgmBFdlk7ZQkA-sO3qxkoTTx6fKzV-jZNzEF9Y/edit?usp=sharing">
     <img src="{{ '/assets/img/gbif_belgium.PNG' | relative_url }}">
   </a>
 
-> ## Excercise : Belgium in the world of Biodiversity data 
+> ## Excercise:
 > 
 > 1. How many data publishers are active in Belgium?
 > 2. How many datasets do contain records about Belgium?
