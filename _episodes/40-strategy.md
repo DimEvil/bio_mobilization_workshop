@@ -2,7 +2,7 @@
 title: "Develop GBIF data mobilization Strategy"
 start: true
 teaching: 30
-exercises: 30
+exercises: 60
 questions:
 - "What is a data mobilization strategy"
 objectives:
