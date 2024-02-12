@@ -98,7 +98,7 @@ GBIF updates a set of [overview slides](https://www.gbif.org/document/81771/gbif
 > 
 > 
 > > ## Solution
-> > 1. [url](https://www.gbif.org/dataset/92827b65-9987-4479-b135-7ec1bf9cf3d1)
+> > 1. [url](https://www.gbif.org/dataset/92827b65-9987-4479-b135-7ec1bf9cf3d1) <br>
 > > *5*
 > > *282*
 > > *all georeferenced* Check issues and flags
