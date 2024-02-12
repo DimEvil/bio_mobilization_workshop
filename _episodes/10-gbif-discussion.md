@@ -33,6 +33,8 @@ What challenges are next in relation to:
 
 7. **Monitoring and Assessment:** Discuss how biodiversity data from GBIF can be used for monitoring changes in biodiversity over time and assessing the effectiveness of conservation efforts.
 
+8. **Future Directions:** Consider the future directions of GBIF and the role it can play in addressing global challenges such as climate change, habitat loss, and species extinction.
+
 > ## Discussion challenge
 >
 >  Choose a topic to discuss in your group. 30 minutes for group discussion. 30 minutes for reporting back to the room.
