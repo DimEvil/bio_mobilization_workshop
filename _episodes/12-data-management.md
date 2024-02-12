@@ -4,17 +4,20 @@ start: true
 teaching: 30
 exercises: 15
 questions:
-- "How to deal with data"
-- "Tips & tricks for good data mmanagement"
-- "What is Biodiversity informatics"
-- "What is a Biodiversity dataset"
+- "How to deal with data?"
+- "Tips & tricks for good data management"
+- "What is Biodiversity informatics?"
+- "What is a Biodiversity dataset?"
 objectives:
-- "Introduction to data management & best practices"
+- "Introduction to data management plan"
+- "Introduction to Biodiversity informatics"
 - "Feel familiar with open data types"
-- "understand the importance of Tidy data"
-
+- "Distinction between data quality and fitness for use"
+- "Make sure your data are tidy data"
+- "Learn some best practices"
 keypoints:
-- "Understand some best data management practices"
+- "Best data management practices"
+- "Organize your Data and Metadata"
 ---
 
 

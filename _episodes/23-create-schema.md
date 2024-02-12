@@ -1,22 +1,25 @@
 ---
 title: "Darwin Core and Extension Schemas"
 start: true
-teaching: 0
-exercises: 90
+teaching: 20
+exercises: 70
 questions:
 - "What is a core and what is an extension in Darwin Core?"
-- "What is OBIS-ENV-DATA aka (Event Core with Extended Measurement or Fact)?"
+- "How should I organize my data?"
 - "How do I create Darwin Core files?"
 objectives:
-- "Creating IDs."
-- "Creating event file, occurrence file, eMOF file."
+- "Creating IDs and using them"
+- "Creating core and extensions files."
 keypoints:
 - "Darwin Core uses cores and extensions to model the multitude of biological observation data that exists."
 - "OBIS uses the Event (or Occurrence) Core with the Extended Measurement or Fact extension to make sure no information is lost."
 - "Additional fields are required and put into different files when using a Core with the Extended Measurement or Fact extension."
 - "ID fields are important keys in your data and we recommend building them from the information in your data."
 ---
-### Darwin Core - Cores and Extensions
+## [Darwin Core Extensions](https://docs.google.com/presentation/d/1DtQ16FmA1v4FjwIuGA6UzXHqjvSgVrjiixpIBjnYa9U/edit?usp=sharing)
+
+![DwC Schema](../assets/img/DwCSchema.png)
+
 Now that we have a firm basis for understanding the different terms in Darwin Core the next part to understand is how data tables are organized and the difference between cores and extensions. You will always have a core table (Occurrence core or Event core) with either no extensions or several. What you choose depends on the data you have and how to represent it best. The original Darwin Core core is the [Occurrence core](https://rs.gbif.org/core/dwc_occurrence_2022-02-02.xml). Once people started using that core they began to see that they needed extensions to that core to best represent the data they were trying to share and therefore [several extensions](https://rs.gbif.org/extensions.html) have been developed (and are continuing to be developed). As more monitoring data has been shared over time, another core type called [Event core](https://rs.gbif.org/core/dwc_event_2022-02-02.xml) was added. Without getting too far into the weeds on the cores and extensions, what's most important to understand is that you need to pick your core type and once you do that then you pick the extensions to go with it. For example, if your data took place as part of an event (cruise, transects, etc) you will pick Event core. If there was no sampling event, then you will pick Occurrence core.
 
 ### Different options for sharing the data
