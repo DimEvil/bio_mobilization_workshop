@@ -80,7 +80,7 @@ GBIF updates a set of [overview slides](https://www.gbif.org/document/81771/gbif
 > 2. Find and download this sampling event dataset from GBIF: "Meetnetten.be - Chorus counts for Amphibia in Flanders, Belgium'
 > 3. Find and investigate this checklist on GBIF: https://www.gbif.org/dataset/fd004d9a-2ea4-4244-bb60-0df508d20a15
 >    
-> > How many times is this dataset cited
+> > How many times is this dataset cited?
 > > 
 > > How many occurrences are in this dataset?
 > > 
@@ -107,8 +107,24 @@ GBIF updates a set of [overview slides](https://www.gbif.org/document/81771/gbif
 > > *Mederos J, Pollet M, Oosterbroek P, Brosens D (2023). Tipuloidea of Martinique - 2016-2018. Version 1.10. Research Institute for Nature and Forest (INBO). Occurrence dataset https://doi.org/10.15468/s8h9pg accessed via GBIF.org on 2024-02-12.* <br>
 > > *https://doi.org/10.15468/s8h9pg* <br>
 > > 
-> > 3. [url](https://www.gbif.org/dataset/9bd8310b-0914-411f-a4ba-0cefdd85df80)
-> > 4. [url](https://www.gbif.org/dataset/fd004d9a-2ea4-4244-bb60-0df508d20a15) 
+> > 2. [url](https://www.gbif.org/dataset/9bd8310b-0914-411f-a4ba-0cefdd85df80)
+> > *33* <br>
+> > *710* <br>
+> > *all georeferenced* Check issues and flags <br>
+> > *710 occurrences where 'Licence' equals: CC0 1.0* <br>
+> > [url](https://www.gbif.org/dataset/9bd8310b-0914-411f-a4ba-0cefdd85df80#methodology)
+> > *Piesschaert F, Speybroeck J, Brosens D, Westra T, Desmet P, Ledegen H, Van de Poel S, Pollet M (2023). Meetnetten.be - Chorus counts for Amphibia in Flanders, Belgium. Version 1.17. Research Institute for Nature and Forest (INBO). Sampling event dataset https://doi.org/10.15468/d4bu8j accessed via GBIF.org on 2024-02-12.*
+> > *https://doi.org/10.15468/d4bu8j*
+> >
+> > 3. [url](https://www.gbif.org/dataset/fd004d9a-2ea4-4244-bb60-0df508d20a15)
+> >
+> > *0* <br>
+> > *0* This is a checklist <br>
+> > *nothing georeferenced, but the target area of this checklists is Flanders, Belgium <br>
+> > *CC0 1.0* <br>
+> > *No* <br>
+> > *Branquart E, Adriaens T, Desmet P, Devisscher S, D'hondt B, Denys L, Dumortier A, Latli A, Oldoni D, Packet J, Scheers K, Vanderhoeven S, Vermeersch X, Willeput R (2023). RIPARIAS target species list. Version 1.47. Research Institute for Nature and Forest (INBO). Checklist dataset https://doi.org/10.15468/p4ugqr accessed via GBIF.org on 2024-02-12.*
+> > *https://doi.org/10.15468/p4ugqr*   
 > {: .solution}
 {: .challenge}
 
