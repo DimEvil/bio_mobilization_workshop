@@ -39,8 +39,7 @@ What challenges are next in relation to:
 >
 >  Choose a topic to discuss in your group. 30 minutes for group discussion. 30 minutes for reporting back to the room.
 > > 
-> 
 > > ## Solution
-> > answer to make
+> > Report back to the room on your group discussion
 > {: .solution}
 {: .challenge}
