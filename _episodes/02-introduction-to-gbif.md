@@ -117,7 +117,6 @@ GBIF updates a set of [overview slides](https://www.gbif.org/document/81771/gbif
 > > *https://doi.org/10.15468/d4bu8j*
 > >
 > > 3. [url](https://www.gbif.org/dataset/fd004d9a-2ea4-4244-bb60-0df508d20a15)
-> >
 > > *0* <br>
 > > *0* This is a checklist <br>
 > > *nothing georeferenced, but the target area of this checklists is Flanders, Belgium <br>
