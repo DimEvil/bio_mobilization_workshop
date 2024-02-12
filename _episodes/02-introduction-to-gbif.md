@@ -103,10 +103,9 @@ GBIF updates a set of [overview slides](https://www.gbif.org/document/81771/gbif
 > > *282* <br>
 > > *all georeferenced* Check issues and flags <br>
 > > *282 occurrences where 'Licence' equals: CC0 1.0* <br>
-> > During the 2018 expedition, the main collecting methods were coloured pan traps and sweep nets. In 2016-2017, also Malaise traps were in operation. <br>
-> > Mederos J, Pollet M, Oosterbroek P, Brosens D (2023). Tipuloidea of Martinique - 2016-2018. Version 1.10. Research Institute for Nature and Forest (INBO). Occurrence dataset https://doi.org/10.15468/s8h9pg accessed <br>
-> > via GBIF.org on 2024-02-12. <br>
-> > https://doi.org/10.15468/s8h9pg <br>
+> > *During the 2018 expedition, the main collecting methods were coloured pan traps and sweep nets. In 2016-2017, also Malaise traps were in operation.* <br>
+> > *Mederos J, Pollet M, Oosterbroek P, Brosens D (2023). Tipuloidea of Martinique - 2016-2018. Version 1.10. Research Institute for Nature and Forest (INBO). Occurrence dataset https://doi.org/10.15468/s8h9pg accessed via GBIF.org on 2024-02-12.* <br>
+> > *https://doi.org/10.15468/s8h9pg* <br>
 > > 
 > > 3. [url](https://www.gbif.org/dataset/9bd8310b-0914-411f-a4ba-0cefdd85df80)
 > > 4. [url](https://www.gbif.org/dataset/fd004d9a-2ea4-4244-bb60-0df508d20a15) 
