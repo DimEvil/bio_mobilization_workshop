@@ -17,7 +17,7 @@ keypoints:
 
 ## [Presentation](https://docs.google.com/presentation/d/1ad2hfTNhz2aR4YwYp9AUoJtsff_2rZ4F7j4c3E_i4xU/edit?usp=sharing)
 
-![Stakeholders Landscape](/assets/img/StakeholdersLandscape.png)
+![StakeholdersLandscape](../assets/img/StakeholdersLandscape.png)
 
 ## Exercise
 1. List all your stakeholders
