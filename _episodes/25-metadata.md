@@ -26,11 +26,11 @@ The [Integrated Publishing Toolkit (IPT)](https://www.gbif.org/ipt) is an open-s
 - general metadata about data sources
 - taxon checklists
 
-GBIF maintains a very detailed [IPT manual](https://ipt.gbif.org/manual/en/ipt/latest/) and the [OBIS Manual](https://manual.obis.org/data_publication.html) offers OBIS-specific details on publishing through the IPT. You can choose to download and install your own instance of the IPT but it might be complicated to register it with OBIS. Instead it's recommended to work with one of the OBIS nodes to publish your data through their IPT. [OBIS nodes](https://obis.org/contact/) publish data that are logical for their region or theme. After publishing the data through their IPT the data are harvested by central OBIS.
+GBIF maintains a very detailed [IPT manual](https://ipt.gbif.org/manual/en/ipt/latest/) The Croatian IPT is available [here](ipt.bioportal.hr). 
 
-The requirements for publishing via an OBIS node IPT are that:
+The requirements for publishing data through your node IPT are that:
 
-1. you have contacted the node to ensure the data are a good fit for that node
+1. you have contacted the node to ensure the data are a good fit 
 2. the data follows Darwin Core (DwC) and Ecological Metadata Language (EML)
 3. includes the required Darwin Core and EML metadata elements
 
@@ -79,6 +79,55 @@ Simply use the IPT’s built-in metadata editor to populate the metadata.
 | `citation`               | To ensure your dataset gets cited the way you want | |
 
 {% include links.md %}
+
+> ## Exercises 1: Create an 'imaginary' dataset in the Croatian IPT
+> 
+> 1. Go to the Croatian 'test' IPT instance on ipt.bioportal.hr
+> 2. Login to the 'IPT' instance, you can login with your emailaddress and `WelcomCroMent`
+> 3. Click on  `manage resources`
+> 4. Click on `Create New`and choose your the type of your dataset (here choose `occurrence`)
+> 5. Give a shortname for your resource, `the shortname serves as an identifier for the resource and will be used as a parameter in the url`
+> 6. Click on `Create`
+> 
+> > ## Solution
+> > 1. You have created your first resource on the IPT
+> {: .solution}
+{: .challenge}
+
+> ## Exercises 2: Create 'imaginary' metadata for your dataset
+> 
+> 1. Go to the Croatian 'test' IPT instance
+> 2. Login
+> 3. Click on `Manage resources`
+> 4. Click on your 'imaginary' dataset
+> 5. Click on `edit` in the `Metadata`section
+> 6. Complete the Metadata wizzard, starting with providing a tittle for your dataset
+>  
+> > ## Solution
+> > 1. Congratulations, you did add metadata in your dataset
+> {: .solution}
+{: .challenge}
+
+> ## Exercises 3: Link and map your 'imaginary' dataset in the Croatian IPT
+> 
+> 1. Go to the Croatian 'test' IPT instance
+> 2. Login
+> 3. Click on `Manage resources`
+> 4. Click on your 'imaginary' dataset
+> 5. Click on `add` in the `Source data`section
+> 6. Choose your source data: <br>
+> * A File (Choose [`occurrencememo.csv`]({{ page.root }}/data/occurrencememo.csv) if you don't have an 'imaginary' dataset
+> * An url
+> * An SQL statement
+> 7. Click on `add`in the `Darwin Core Mappings` section
+> 8. CLick again on `add`, make sure Darwin Core Occurrence is selected
+> 9. Select the source 'occurrencememo`and click `save`
+> 10. Your data is automapped to Darwin Core, you can click on `save`
+>     
+> > ## Solution
+> > 1. Congratulations, you or you nodemanager can publish this dataset after validation
+> {: .solution}
+{: .challenge}
 
 # Datapapers
 

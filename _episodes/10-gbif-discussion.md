@@ -37,7 +37,7 @@ What challenges are next in relation to:
 
 > ## Discussion challenge
 >
->  Choose a topic to discuss in your group. 30 minutes for group discussion. 30 minutes for reporting back to the room.
+>  Choose a topic to discuss in your group. 30 minutes for group discussion. 30 minutes for reporting back to the room. 5-6 persons per group.
 > > 
 > > ## Solution
 > > Report back to the room on your group discussion
