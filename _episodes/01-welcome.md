@@ -14,7 +14,7 @@ You can find the registration desk at the 3rd floor of ZG Tower Annex, Big confe
 # Welcome
 
 Welcome by Gabrijela Šestani   
-Načelnica Sektora za prirodu / Head of the Nature sector
+Načelnica Sektora za prirodu / Head of the Nature sector <br>
 Zavod za zaštitu okoliša i prirode / Institute for Environment and Nature
 
 
