@@ -123,7 +123,7 @@ GBIF updates a set of [overview slides](https://www.gbif.org/document/81771/gbif
 > > *CC0 1.0* <br>
 > > *No* <br>
 > > *Branquart E, Adriaens T, Desmet P, Devisscher S, D'hondt B, Denys L, Dumortier A, Latli A, Oldoni D, Packet J, Scheers K, Vanderhoeven S, Vermeersch X, Willeput R (2023). RIPARIAS target species list. Version 1.47. Research Institute for Nature and Forest (INBO). Checklist dataset https://doi.org/10.15468/p4ugqr accessed via GBIF.org on 2024-02-12.*
-> > *https://doi.org/10.15468/p4ugqr*   
+> > *https://doi.org/10.15468/p4ugqr* <br>  
 > {: .solution}
 {: .challenge}
 
