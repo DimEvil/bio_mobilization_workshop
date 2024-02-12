@@ -2,14 +2,8 @@
 title: "GBIF Discussion"
 start: true
 teaching: 30
-questions:
-- "GBIF nodes and ECA network"
-- "strategic Framework"
-- "GBIF implementation plans"
-- "work programmes"
 objectives:
-- "Understand how GBIF works."
-- "Understand how GBIF is organized."
+- "Group discussion"
 keypoints:
 - "How GBIF works"
 ---
