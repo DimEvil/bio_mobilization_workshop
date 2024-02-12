@@ -79,6 +79,7 @@ GBIF updates a set of [overview slides](https://www.gbif.org/document/81771/gbif
 > 1. Find and download this occurrence only dataset from GBIF: "Tipuloidea of Martinique - 2016-2018"
 > 2. Find and download this sampling event dataset from GBIF: "Meetnetten.be - Chorus counts for Amphibia in Flanders, Belgium'
 > 3. Find and investigate this checklist on GBIF: https://www.gbif.org/dataset/fd004d9a-2ea4-4244-bb60-0df508d20a15
+>    
 > > How many times is this dataset cited
 > > 
 > > How many occurrences are in this dataset?
@@ -97,7 +98,13 @@ GBIF updates a set of [overview slides](https://www.gbif.org/document/81771/gbif
 > 
 > 
 > > ## Solution
-> > answer to make
+> > 1. [url](https://www.gbif.org/dataset/92827b65-9987-4479-b135-7ec1bf9cf3d1)
+> > *5*
+> > *282*
+> > *all georeferenced* Check issues and flags
+> > *282 occurrences where 'Licence' equals: CC0 1.0*
+> > 3. [url](https://www.gbif.org/dataset/9bd8310b-0914-411f-a4ba-0cefdd85df80)
+> > 4. [url](https://www.gbif.org/dataset/fd004d9a-2ea4-4244-bb60-0df508d20a15) 
 > {: .solution}
 {: .challenge}
 
