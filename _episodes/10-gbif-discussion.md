@@ -11,6 +11,8 @@ keypoints:
 
 # Discussion
 
+
+
 <a href="www.gbif.org">
     <img src="{{ '/assets/img/gbif_discussion.PNG' | relative_url }}">
   </a>
@@ -31,4 +33,12 @@ What challenges are next in relation to:
 
 7. **Monitoring and Assessment:** Discuss how biodiversity data from GBIF can be used for monitoring changes in biodiversity over time and assessing the effectiveness of conservation efforts.
 
-
+> ## Discussion challenge
+>
+>  Choose a topic to discuss in your group. 30 minutes for group discussion. 30 minutes for reporting back to the room.
+> > 
+> 
+> > ## Solution
+> > answer to make
+> {: .solution}
+{: .challenge}
