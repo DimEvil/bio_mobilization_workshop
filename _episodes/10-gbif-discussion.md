@@ -1,6 +1,7 @@
 ---
 title: "GBIF Discussion"
 start: true
+teaching: 0
 exercises: 60
 objectives:
 - "Group discussion"
