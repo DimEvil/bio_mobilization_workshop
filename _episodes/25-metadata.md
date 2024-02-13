@@ -119,9 +119,13 @@ Simply use the IPT’s built-in metadata editor to populate the metadata.
 > * A File (Choose [`occurrencememo.csv`]({{ page.root }}/data/occurrencememo.csv) if you don't have an 'imaginary' dataset
 > * An url
 > * An SQL statement
->    
+> 7. Click on `add`in the `Darwin Core Mappings` section
+> 8. CLick again on `add`, make sure Darwin Core Occurrence is selected
+> 9. Select the source 'occurrencememo`and click `save`
+> 10. Your data is automapped to Darwin Core, you can click on `save`
+>     
 > > ## Solution
-> > 1. [Find Croatia on this map](https://www.gbif.org/the-gbif-network)
+> > 1. Congratulations, you or you nodemanager can publish this dataset after validation
 > {: .solution}
 {: .challenge}
 
