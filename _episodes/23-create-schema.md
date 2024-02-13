@@ -1,20 +1,20 @@
 ---
-title: "Darwin Core and Extension Schemas"
+title: "Darwin Core+Extensions archive"
 start: true
 teaching: 20
 exercises: 70
 questions:
-- "What is a core and what is an extension in Darwin Core?"
-- "How should I organize my data?"
-- "How do I create Darwin Core files?"
+- "What is a core and what are the extensions in Darwin Core?"
+- "How to organize my data and metadata?"
+- "How to create Darwin Core Archive"
 objectives:
 - "Creating IDs and using them"
 - "Creating core and extensions files."
 keypoints:
-- "Darwin Core uses cores and extensions to model the multitude of biological observation data that exists."
-- "OBIS uses the Event (or Occurrence) Core with the Extended Measurement or Fact extension to make sure no information is lost."
-- "Additional fields are required and put into different files when using a Core with the Extended Measurement or Fact extension."
-- "ID fields are important keys in your data and we recommend building them from the information in your data."
+- "Darwin Core star schema with core and extensions to model the multitude of biological observation data."
+- "Minimum Data fields Requirements for each class."
+- "Linking Core entities with the extensions."
+- "Identifiers fields are important keys in your data and we recommend building them from the information in your data."
 ---
 ## [Darwin Core Extensions](https://docs.google.com/presentation/d/1DtQ16FmA1v4FjwIuGA6UzXHqjvSgVrjiixpIBjnYa9U/edit?usp=sharing)
 
@@ -75,10 +75,10 @@ It is very important that these IDs do not change over time. So if an ID for a m
 
 
 ## Exercise Time!
-A Bird watchers group just send you their data.
+Now, let's try a practical use case where a birds watchers group send you their data.
 see [explanations](https://docs.google.com/document/d/1XBrbPHQFNHnJfbJJ6VFn4OkKKP80OtDg-dzODgsSaiw/edit?usp=sharing)
 
-> ## Solution
+> ## 1. Initial checks
 > 1. yes
 > 2. yes
 > 3. not everything cristal clear
@@ -89,5 +89,22 @@ see [explanations](https://docs.google.com/document/d/1XBrbPHQFNHnJfbJJ6VFn4OkKK
 > 8. Maybe geodeticDatum, coordinatesUncertainty... 
 > 9. Yes into event, occurrence and measurement
 > 10. Occurrence identifiers are missing
+> 
+{: .solution}
+
+> ## 2. Data cleaning
+> ScientificNames shall appear on each row
+> Colors, if meaningful, shall be added as column
+> Missing data should be **null**
+> OccurrenceIDs are missing, we suggest to use spreadsheet rowID
+> Incorrect eventIDs shall be removed or corrected 
+>  
+{: .solution}
+
+> ## 3. DarwinCore mapping
+> Original data shall be organized in event, occurrence and measurements
+> Metadata should be more elaborated : Taxonomic, geographic, time scope...
+> License/waiver should be selected
+> Fields name should correspond to DarwinCore terms
 > 
 {: .solution}
