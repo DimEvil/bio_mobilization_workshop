@@ -23,7 +23,7 @@ keypoints:
 Now that we have a firm basis for understanding the different terms in Darwin Core the next part to understand is how data tables are organized and the difference between cores and extensions. You will always have a core table (Occurrence core or Event core) with either no extensions or several. What you choose depends on the data you have and how to represent it best. The original Darwin Core core is the [Occurrence core](https://rs.gbif.org/core/dwc_occurrence_2022-02-02.xml). Once people started using that core they began to see that they needed extensions to that core to best represent the data they were trying to share and therefore [several extensions](https://rs.gbif.org/extensions.html) have been developed (and are continuing to be developed). As more monitoring data has been shared over time, another core type called [Event core](https://rs.gbif.org/core/dwc_event_2022-02-02.xml) was added. Without getting too far into the weeds on the cores and extensions, what's most important to understand is that you need to pick your core type and once you do that then you pick the extensions to go with it. For example, if your data took place as part of an event (cruise, transects, etc) you will pick Event core. If there was no sampling event, then you will pick Occurrence core.
 
 ### Different options for sharing the data
-#### Occurrence only
+#### Occurrence Core only
 The bare minimum for sharing data to OBIS is to use the [Occurrence Core](https://rs.gbif.org/core/dwc_occurrence_2022-02-02.xml) with no extensions. This core type covers datasets that only include observations and/or specimen records where no information on sampling is available. Occurrence core is also used for eDNA or DNA derived data. 
 
 The Occurrence core allows you to provide all the required Darwin Core terms detailed in the [intro section]({{ page.root }}/01-introduction/index.html). You can produce a fully compliant Darwin Core version of your data using only the Occurrence core ([see this example by Tylar Murray](https://github.com/ioos/bio_data_guide/blob/main/datasets/example_obis_minimum_flair/occurrences.csv)). On the one hand, if the data were collected using some kind of sampling methodology, you will lose much of that information if you use this most simple form of the data. One the other, it is faster and easier to produce.
@@ -31,14 +31,17 @@ The Occurrence core allows you to provide all the required Darwin Core terms det
 > ## Thought Experiment 
 > Look at the [minimum required fields example](https://github.com/ioos/bio_data_guide/blob/main/datasets/example_obis_minimum_flair/occurrences.csv). What is possible
 > to do in future reuse? What would not be possible? For instance, note that there is no information about depth or the uncertainty of the coordinates.
+> For more examples check out the [Datasets folder](https://github.com/ioos/bio_data_guide/tree/main/datasets) in the IOOS Bio Data Guide.
 {: .callout}
 
-For more examples check out the [Datasets folder](https://github.com/ioos/bio_data_guide/tree/main/datasets) in the IOOS Bio Data Guide.
 
 #### Occurrence Core + extensions
 Using the Occurrence core plus [relevant extensions](https://rs.gbif.org/extensions.html) means that you can capture more of the data that's been recorded. As an example, let's consider an environmental DNA dataset. eDNA datasets have information that is unique to that method and will not be represented well using Occurrence core only. To document eDNA using Darwin Core you should follow [this guide](https://doi.org/10.35035/doc-vf1a-nr22); you will need the Occurrence core plus the [DNA derived data extension](https://rs.gbif.org/extension/gbif/1.0/dna_derived_data_2022-02-23.xml). Adding the DNA derived data extension allows you to capture information such as the PCR primer used, DNA sequences, standard operating procedure used in the assembly and other information specific to this type of data.
 
 Let's consider another example: a museum dataset that has biological measurements for each individual specimen (e.g. length). All information about each organism's occurrence (taxonomic information, locality, identification, etc.) will go into the Occurrence core. You can then capture the biotic measurement information (type of measurement, units, accuracy, etc.) by using either the [Measurement or Facts extension](https://rs.gbif.org/extension/dwc/measurements_or_facts_2022-02-02.xml), or the [Extended Measurement or Fact extension](https://rs.gbif.org/extension/obis/extended_measurement_or_fact.xml) (we elaborate on this extension below). Note again here we do not have information on *how* the organisms were sampled. 
+
+#### Checklist Core + extensions
+Suitable for publication of Taxonomic data, still in use but [ColDP](https://github.com/CatalogueOfLife/coldp) standard is about to replace that.
 
 #### Event Core + extensions
 As we have indicated earlier, the Event core is for datasets that include known sampling events - details are known about how, when, and where samples were taken.
@@ -71,7 +74,7 @@ With that in mind what is the best way to create an eventID, occurrenceID, or me
 It is very important that these IDs do not change over time. So if an ID for a museum specimen is built from e.g. the institution the specimen is being held at, but then the specimen changes institutions - its ID should **not** change to reflect the move. If the ID changes then the record will be duplicated in the global database and record information could be lost over time.
 
 
-## Exercise
+## Exercise Time!
 A Bird watchers group just send you their data.
 see [explanations](https://docs.google.com/document/d/1XBrbPHQFNHnJfbJJ6VFn4OkKKP80OtDg-dzODgsSaiw/edit?usp=sharing)
 
