@@ -29,13 +29,13 @@ keypoints:
 - ⬇️ Download in **simple CSV format**
 
 > ### Solution 1
-> The use cases download should look like this:
 > - A. [GBIF Download](https://doi.org/10.15468/dl.t2hj6v) (116,575 occurrences)
 > - B. [GBIF Download](https://doi.org/10.15468/dl.6gfwt3) (15,077 occurrences)
 > - C. [GBIF Download](https://doi.org/10.15468/dl.qy93m6) (13,668 occurrences)
 > - D. [GBIF Download](https://doi.org/10.15468/dl.6mf27m) (9,723 occurrences)
 >  
 {: .solution}
+
 
 ---
 ## Exercise 2 : Import into SQLite
@@ -110,7 +110,7 @@ select count(*) from trusted;
 ## Exercice 6 : Annotate data
 - Set individualCount to 1 when value is null
 - Add a new withMedia field,  set it to True when mediaType is not null
-- Add these two fields  to your **trusted** view
+- Add these two fields to your **trusted** view
 - Export the **trusted** view results in a new CSV file
 
 ### Solution 6
