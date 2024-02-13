@@ -46,12 +46,10 @@ Within DBrowser application
 - How many records do you have?
 - Save your database
 
-> ### Solution 2
-> ```sql
-> select count(*) from occ; 
-> ```
-> 
-{: .solution}
+### Solution 2
+```sql
+select count(*) from occ; 
+```
 
 ---
 ## Exercise 3 : Explore with DBBrowser
