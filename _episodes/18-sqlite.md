@@ -28,12 +28,14 @@ keypoints:
 - Filter occurrences with CountryOrArea= Croatia
 - ⬇️ Download in **simple CSV format**
 
-### Solution 1
-The use cases download should look like this:
-- A. [GBIF Download](https://doi.org/10.15468/dl.t2hj6v) (116,575 occurrences)
-- B. [GBIF Download](https://doi.org/10.15468/dl.6gfwt3) (15,077 occurrences)
-- C. [GBIF Download](https://doi.org/10.15468/dl.qy93m6) (13,668 occurrences)
-- D. [GBIF Download](https://doi.org/10.15468/dl.6mf27m) (9,723 occurrences)
+> ### Solution 1
+> The use cases download should look like this:
+> - A. [GBIF Download](https://doi.org/10.15468/dl.t2hj6v) (116,575 occurrences)
+> - B. [GBIF Download](https://doi.org/10.15468/dl.6gfwt3) (15,077 occurrences)
+> - C. [GBIF Download](https://doi.org/10.15468/dl.qy93m6) (13,668 occurrences)
+> - D. [GBIF Download](https://doi.org/10.15468/dl.6mf27m) (9,723 occurrences)
+>  
+{: .solution}
 
 ---
 ## Exercise 2 : Import into SQLite
@@ -44,10 +46,12 @@ Within DBrowser application
 - How many records do you have?
 - Save your database
 
-### Solution 2
-```sql
-select count(*) from occ; 
-```
+> ### Solution 2
+> ```sql
+> select count(*) from occ; 
+> ```
+> 
+{: .solution}
 
 ---
 ## Exercise 3 : Explore with DBBrowser

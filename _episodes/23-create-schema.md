@@ -12,9 +12,9 @@ objectives:
 - "Creating core and extensions files."
 keypoints:
 - "Darwin Core star schema with core and extensions to model the multitude of biological observation data."
+- "Identifiers fields are important keys in your data and we recommend building them from the information in your data."
 - "Minimum Data fields Requirements for each class."
 - "Linking Core entities with the extensions."
-- "Identifiers fields are important keys in your data and we recommend building them from the information in your data."
 ---
 ## [Darwin Core Extensions](https://docs.google.com/presentation/d/1DtQ16FmA1v4FjwIuGA6UzXHqjvSgVrjiixpIBjnYa9U/edit?usp=sharing)
 
@@ -93,18 +93,18 @@ see [explanations](https://docs.google.com/document/d/1XBrbPHQFNHnJfbJJ6VFn4OkKK
 {: .solution}
 
 > ## 2. Data cleaning
-> ScientificNames shall appear on each row
-> Colors, if meaningful, shall be added as column
-> Missing data should be **null**
-> OccurrenceIDs are missing, we suggest to use spreadsheet rowID
-> Incorrect eventIDs shall be removed or corrected 
+> - ScientificNames shall appear on each row
+> - Colors, if meaningful, shall be added as column
+> - Missing data should be **null**
+> - OccurrenceIDs are missing, we suggest to use spreadsheet rowID
+> - Incorrect eventIDs shall be removed or corrected 
 >  
 {: .solution}
 
 > ## 3. DarwinCore mapping
-> Original data shall be organized in event, occurrence and measurements
-> Metadata should be more elaborated : Taxonomic, geographic, time scope...
-> License/waiver should be selected
-> Fields name should correspond to DarwinCore terms
+> - Original data shall be organized in event, occurrence and measurements
+> - Metadata should be more elaborated : Taxonomic, geographic, time scope...
+> - License/waiver should be selected
+> - Fields name should correspond to DarwinCore terms
 > 
 {: .solution}
