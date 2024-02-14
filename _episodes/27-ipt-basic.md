@@ -98,13 +98,14 @@ To publish your data, follow the 7 steps below.
 >
 > > ## Solution
 > > 1. donwload the dwc-a file [here](https://cloud.gbif.org/eca/archive.do?r=med3)
-> > 2. create a new dataset `Create new dataset`
-> > 3. provide a new shortname
-> > 4. Choose `Import from an archived resource`
-> > 5. Choose the Dwc-a file
-> > 6. Click `save`
-> > 7. If everything went correct, your metadata and data is correctly mapped in the IPT and ready to publih.
-> > 8. Click `publish` to finish this exercise
+> > 2. Go to the tab `manage resources`
+> > 3. create a new dataset `Create new dataset`
+> > 4. provide a new shortname
+> > 5. Choose `Import from an archived resource`
+> > 6. Choose the Dwc-a file
+> > 7. Click `save`
+> > 8. If everything went correct, your metadata and data is correctly mapped in the IPT and ready to publih.
+> > 9. Click `publish` to finish this exercise
 > {: .solution}
 {: .challenge}
 
@@ -114,10 +115,19 @@ To publish your data, follow the 7 steps below.
 > Make sure you are logged in on the IPT instance.
 > You should have recieved a pswdr and a login to the Croatian IPT instance. 
 > You can find an occurrence file [here]({{ page.root }}/data/occurrence_snals.csv) 
-> You can find the metadata [here](https://docs.google.com/document/d/1m5dgtcwsmPxdWpZbbgb9aa2ncWXhI197/edit?usp=sharing&ouid=106540432290122943029&rtpof=true&sd=true)**Copy paste only the minimal set of information on the right place in the IPT**
+> You can find the metadata [here](https://docs.google.com/document/d/1m5dgtcwsmPxdWpZbbgb9aa2ncWXhI197/edit?usp=sharing&ouid=106540432290122943029&rtpof=true&sd=true) **Copy paste only the minimal set of information on the right place in the IPT**
 >
 > > ## Solution
-> > 1. [Find Croatia on this map](https://www.gbif.org/the-gbif-network)
+> > 1. donwload the dwc-a file
+> > 2. go to the tab `manage resources`
+> > 3. create a new dataset `Create new dataset`
+> > 4. provide a new shortname
+> > 5. select type `occurrence` and push `create`
+> > 6. deal with `source data`, `darwin core mappings` and `metadata`  (*tip see session metadata & data validation*)
+> > 7. publish your dataset
+> > 8. change visibility to `public`
+> > 9. register your dataset (not needed in this exercise)
+> > 10. Click `publish` to finish this exercise
 > {: .solution}
 {: .challenge}
 
