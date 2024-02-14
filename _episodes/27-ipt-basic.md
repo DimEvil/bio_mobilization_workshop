@@ -160,7 +160,14 @@ To publish your data, follow the 7 steps below.
 
 > ## Exercises 4: Publish this checklist dataset dataset on the Croatian IPT [ipt.bioportal.hr](https://ipt.bioportal.hr)
 > 
-> The [GBIF website](https://www.gbif.org/) has pages dedicated to countries/economies, including for countries/economies that do not yet participate in GBIF. You can use the search box on the homepage to look up a country/organization.
+> Now, we will publish a checklist data on on the IPT. A checklist is a 3rd type of dataset you can publish on Global Biodiversity Information Facility. A cheklist has no occurrences as the core file, but the species (the taxon) is at the centre of the star scheme.    For this exercise we prepared all the files needed to generate a dwc-a.
+> Make sure you are logged in on the IPT instance. <br>
+> You should have recieved a pswdr and a login to the Croatian IPT instance. <br>
+> You can find all the needed data here: [TrIAS](https://github.com/trias-project/ad-hoc-checklist/tree/master/data/processed) The TrIAS cheklist is a live 'cheklist' which is regurlaly updated through `Github actions` and an automatic update function in the IPT.
+> You can donwload the needed files from Github. If you want to make sure your published datsets is always up to date, you can use the raw online files as a source file [raw Github content](https://raw.githubusercontent.com/trias-project/ad-hoc-checklist/master/data/processed/taxon.csv)
+> You can find the metadata [here](https://www.gbif.org/dataset/1f3505cd-5d98-4e23-bd3b-ffe59d05d7c2) **Copy paste only the minimal set of information on the right place in the IPT**
+>
+> 
 >
 > > ## Solution
 > > 1. [Find Croatia on this map](https://www.gbif.org/the-gbif-network)
