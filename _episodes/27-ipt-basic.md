@@ -90,7 +90,24 @@ To publish your data, follow the 7 steps below.
 
 `Your organization must be registered with GBIF (see prerequisite 2 above) and added to your IPT by the IPT administrator. Otherwise, the organization will not be available to choose from in the IPT.`
 
-> ## Exercises 1: Publish this occurrence dataset on the Croatian IPT [ipt.bioportal.hr](https://ipt.bioportal.hr)
+> ## Exercises 1: Publish this occurrence dataset (dwc-a) on the Croatian IPT [ipt.bioportal.hr](https://ipt.bioportal.hr)
+> 
+> Most of the work on the publication of the data lies in the data cleaning, mapping and the description of the dataset. Once a Darwin Core archive was generated, it is fairly simple to  publish it again, on another IPT for example.
+> Publish [this](https://doi.org/10.15468/5jkd4t) dataset, "already published by the Croatian Faculty of science (which is already a GBIF data publisher) on the GBIF ECA Cloud IPT" again on the Croatian IPT.
+>
+> > ## Solution
+> > 1. donwload the dwc-a file [here](https://cloud.gbif.org/eca/archive.do?r=med3)
+> > 2. create a new dataset `Create new dataset`
+> > 3. provide a new shortname
+> > 4. Choose `Import from an archived resource`
+> > 5. Choose the Dwc-a file
+> > 6. Click `save`
+> > 7. If everything went correct, your metadata and data is correctly mapped in the IPT and ready to publih.
+> > 8. Click `publish` to finish this exercise
+> {: .solution}
+{: .challenge}
+
+> ## Exercises 2: Publish this occurrence dataset on the Croatian IPT [ipt.bioportal.hr](https://ipt.bioportal.hr)
 > 
 > The [GBIF website](https://www.gbif.org/) has pages dedicated to countries/economies, including for countries/economies that do not yet participate in GBIF. You can use the search box on the homepage to look up a country/organization.
 >
@@ -99,7 +116,7 @@ To publish your data, follow the 7 steps below.
 > {: .solution}
 {: .challenge}
 
-> ## Exercises 2: Publish this sample based dataset dataset on the Croatian IPT [ipt.bioportal.hr](https://ipt.bioportal.hr)
+> ## Exercises 3: Publish this sample based dataset dataset on the Croatian IPT [ipt.bioportal.hr](https://ipt.bioportal.hr)
 > 
 > The [GBIF website](https://www.gbif.org/) has pages dedicated to countries/economies, including for countries/economies that do not yet participate in GBIF. You can use the search box on the homepage to look up a country/organization.
 >
@@ -109,7 +126,7 @@ To publish your data, follow the 7 steps below.
 {: .challenge}
 
 
-> ## Exercises 2: Publish this checklist dataset dataset on the Croatian IPT [ipt.bioportal.hr](https://ipt.bioportal.hr)
+> ## Exercises 4: Publish this checklist dataset dataset on the Croatian IPT [ipt.bioportal.hr](https://ipt.bioportal.hr)
 > 
 > The [GBIF website](https://www.gbif.org/) has pages dedicated to countries/economies, including for countries/economies that do not yet participate in GBIF. You can use the search box on the homepage to look up a country/organization.
 >
