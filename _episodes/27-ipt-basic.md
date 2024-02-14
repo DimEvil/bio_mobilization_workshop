@@ -133,10 +133,27 @@ To publish your data, follow the 7 steps below.
 
 > ## Exercises 3: Publish this sample based dataset dataset on the Croatian IPT [ipt.bioportal.hr](https://ipt.bioportal.hr)
 > 
-> The [GBIF website](https://www.gbif.org/) has pages dedicated to countries/economies, including for countries/economies that do not yet participate in GBIF. You can use the search box on the homepage to look up a country/organization.
+> Unfortunately, in most cases you will not have a DwC-a file availble, meaning, that you should, together with the data researcher or person who would like to publish his or her data to GBIF, create a dwc-a. The IPT is a good tool to create dwc-archives.  For this exercise we prepared all the files needed to generate a dwc-a.
+> Make sure you are logged in on the IPT instance.
+> You should have recieved a pswdr and a login to the Croatian IPT instance. 
+> You can find an occurrence file here [occurrence]({{ page.root }}/data/occurrence_odonata.csv)
+> You can find the event file here [event]({{ page.root }}/data/event_odonata.csv)
+> You can find the metadata [here](https://docs.google.com/document/d/1rwI5zFHLyYv0tFx5dxaWrWEy6DFpcEB2nAeyVkzQPF4/edit?usp=sharing) **Copy paste only the minimal set of information on the right place in the IPT**
 >
 > > ## Solution
-> > 1. [Find Croatia on this map](https://www.gbif.org/the-gbif-network)
+> > 1. donwload the dwc-a file
+> > 2. go to the tab `manage resources`
+> > 3. create a new dataset `Create new dataset`
+> > 4. provide a new shortname
+> > 5. select type `sampling event` and push `create`
+> > 6. deal with `source data` add both files to the IPT
+> > 7. deal with `darwin core mappings` for the occurrence file
+> > 8. deal with `darwin core mappings` for the event file
+> > 9. deal with  `metadata`  *also here, only copy paste the minimum needed*
+> > 10. publish your dataset
+> > 11. change visibility to `public`
+> > 12. register your dataset (not needed in this exercise)
+> > 13. Click `publish` to finish this exercise
 > {: .solution}
 {: .challenge}
 
