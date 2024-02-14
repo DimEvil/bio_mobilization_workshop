@@ -1,29 +1,3 @@
----
-title: "Continuing the Conversation"
-teaching: 0
-exercises: 120
-questions:
-- "How do I continue my work after the workshop?"
-- "Where do I go to look for help with DwC alignment?"
-- "How do I provide feedback about this workshop?"
-objectives:
-- "Complete the (optional) post-workshop survey."
-keypoints:
-
----
-
-# Thank you for attending the workshop!
-Our hope that you were able to register to GBIF and submit some of your data.
-If not, this is just the beginning and work needs to continue beyond the workshop.
-The national Node and the entire GBIF community will help you to succeed.
-
-> "Creativity comes from applying things you learn in other fields to the field you work in."
-> Aaron Swartz
-
-## Post-Workshop Survey
-If you wish to provide feedback please use [this post-workshop survey](https://forms.gle/B5SGBLDePFWfbVCj9){:target="_blank"}.
-
----
 ## Further readings
 This section cover some useful links grouped by topics.
 

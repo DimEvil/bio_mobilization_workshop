@@ -14,10 +14,7 @@ keypoints:
 
 GBIF—the Global Biodiversity Information Facility—is an international network and data infrastructure funded by the world's governments and aimed at providing anyone, anywhere, open access to data about all types of life on Earth.
 
-* IPT management
-*  Extensions
 
-https://ipt.gbif.org/manual/en/ipt/latest/
 
 # Presentation: Data Publication workflow 'generic'
 
@@ -26,6 +23,8 @@ https://ipt.gbif.org/manual/en/ipt/latest/
   </a>
 
 # GBIF supports publication, discovery and use of four classes of data:
+
+[IPT manual](https://ipt.gbif.org/manual/en/ipt/latest/)
 
 * *Resource metadata*
 * *Checklist Data*
@@ -64,29 +63,92 @@ To publish your data, follow the 7 steps below.
 
 ![screenshot]({{ page.root }}/fig/flow-all.png){: .image-with-shadow }
 
-### Select the class of biodiversity data you have from this list:
+### 1. Select the class of biodiversity data you have from this list:
 
 * Resource metadata
 * Checklist Data
 * Occurrence Data
 * Sampling Event Data
 
-### Transform your data into a table structure, using Darwin Core (DwC) terms as column names
+### 2. Transform your data into a table structure, using Darwin Core (DwC) terms as column names
 
 *Hint:* try using an Excel template to structure your data, and understand what DwC terms are required and recommended (Excel templates for each dataset class are available in the above links - see the previous point)
 
 *Hint:* it is possible to use data stored in a supported database
 
-### Upload your data to the IPT
+### 3. Upload your data to the IPT
 
 *Hint:* refer to other sections of this manual for additional guidance, such as the Manage Resources Menu section.
 
-### Map the data (e.g. Checklist Data gets mapped to the Taxon Core, Occurrence Data gets mapped to the Occurrence Core, Sampling Event Data gets mapped to the Event Core).
+### 4. Map the data (e.g. Checklist Data gets mapped to the Taxon Core, Occurrence Data gets mapped to the Occurrence Core, Sampling Event Data gets mapped to the Event Core).
 
-### Fill in resource metadata using the IPT’s metadata editor
+### 5. Fill in resource metadata using the IPT’s metadata editor
 
-### Publish the dataset (make it freely and openly available worldwide)
+### 6. Publish the dataset (make it freely and openly available worldwide)
 
-### Register the dataset with GBIF.
+### 7. Register the dataset with GBIF.
 
 `Your organization must be registered with GBIF (see prerequisite 2 above) and added to your IPT by the IPT administrator. Otherwise, the organization will not be available to choose from in the IPT.`
+
+> ## Exercises 1: Publish this occurrence dataset (dwc-a) on the Croatian IPT [ipt.bioportal.hr](https://ipt.bioportal.hr)
+> 
+> Most of the work on the publication of the data lies in the data cleaning, mapping and the description of the dataset. Once a Darwin Core archive was generated, it is fairly simple to  publish it again, on another IPT for example.
+> Publish [this](https://doi.org/10.15468/5jkd4t) dataset, "already published by the Croatian Faculty of science (which is already a GBIF data publisher) on the GBIF ECA Cloud IPT" again on the Croatian IPT. Make sure you are logged in on the IPT instance.
+> You should have recieved a pswdr and a login to the Croatian IPT instance. 
+>
+> > ## Solution
+> > 1. donwload the dwc-a file [here](https://cloud.gbif.org/eca/archive.do?r=med3)
+> > 2. Go to the tab `manage resources`
+> > 3. create a new dataset `Create new dataset`
+> > 4. provide a new shortname
+> > 5. Choose `Import from an archived resource`
+> > 6. Choose the Dwc-a file
+> > 7. Click `save`
+> > 8. If everything went correct, your metadata and data is correctly mapped in the IPT and ready to publih.
+> > 9. Click `publish` to finish this exercise
+> {: .solution}
+{: .challenge}
+
+> ## Exercises 2: Publish this occurrence dataset on the Croatian IPT [ipt.bioportal.hr](https://ipt.bioportal.hr)
+> 
+> Unfortunately, in most cases you will not have a DwC-a file availble, meaning, that you should, together with the data researcher or person who would like to publish his or her data to GBIF, create a dwc-a. The IPT is a good tool to create dwc-archives. (There are also other tools available [here for example](https://ipt.gbif.org/manual/en/ipt/latest/dwca-guide#publishing-dwc-a-manually) but we do not recommend this. For this exercise we prepared all the files needed to generate a dwc-a.
+> Make sure you are logged in on the IPT instance.
+> You should have recieved a pswdr and a login to the Croatian IPT instance. 
+> You can find an occurrence file [here]({{ page.root }}/data/occurrence_snals.csv) 
+> You can find the metadata [here](https://docs.google.com/document/d/1m5dgtcwsmPxdWpZbbgb9aa2ncWXhI197/edit?usp=sharing&ouid=106540432290122943029&rtpof=true&sd=true) **Copy paste only the minimal set of information on the right place in the IPT**
+>
+> > ## Solution
+> > 1. donwload the dwc-a file
+> > 2. go to the tab `manage resources`
+> > 3. create a new dataset `Create new dataset`
+> > 4. provide a new shortname
+> > 5. select type `occurrence` and push `create`
+> > 6. deal with `source data`, `darwin core mappings` and `metadata`  (*tip see session metadata & data validation*)
+> > 7. publish your dataset
+> > 8. change visibility to `public`
+> > 9. register your dataset (not needed in this exercise)
+> > 10. Click `publish` to finish this exercise
+> {: .solution}
+{: .challenge}
+
+> ## Exercises 3: Publish this sample based dataset dataset on the Croatian IPT [ipt.bioportal.hr](https://ipt.bioportal.hr)
+> 
+> The [GBIF website](https://www.gbif.org/) has pages dedicated to countries/economies, including for countries/economies that do not yet participate in GBIF. You can use the search box on the homepage to look up a country/organization.
+>
+> > ## Solution
+> > 1. [Find Croatia on this map](https://www.gbif.org/the-gbif-network)
+> {: .solution}
+{: .challenge}
+
+
+> ## Exercises 4: Publish this checklist dataset dataset on the Croatian IPT [ipt.bioportal.hr](https://ipt.bioportal.hr)
+> 
+> The [GBIF website](https://www.gbif.org/) has pages dedicated to countries/economies, including for countries/economies that do not yet participate in GBIF. You can use the search box on the homepage to look up a country/organization.
+>
+> > ## Solution
+> > 1. [Find Croatia on this map](https://www.gbif.org/the-gbif-network)
+> {: .solution}
+{: .challenge}
+
+
+
