@@ -19,6 +19,12 @@ GBIF—the Global Biodiversity Information Facility—is an international networ
 
 https://ipt.gbif.org/manual/en/ipt/latest/
 
+# Presentation: Data Publication workflow 'generic'
+
+<a href="https://docs.google.com/presentation/d/1FPRafCOs8YUawLi3zIUEJ4HHYULgqVZ1KplxUMT9MLM/edit?usp=sharing">
+    <img src="{{ '/assets/img/genericworkflow.PNG' | relative_url }}">
+  </a>
+
 # GBIF supports publication, discovery and use of four classes of data:
 
 * *Resource metadata*
