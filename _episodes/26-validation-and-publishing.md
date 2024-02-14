@@ -61,6 +61,20 @@ If the validator finds that your dataset cannot be indexed by GBIF, you should a
 Technical details
 As with all GBIF tools and software, the data validator is an open source project. For more information, source code and documentation is available in a [GitHub](https://github.com/gbif/gbif-data-validator) repository.
 
+> ## Exercises 1: Check a Dwc-a (Darwin Core Archive) in the GBIF validator
+> 
+> The [GBIF validator](https://www.gbif.org/tools/data-validator) is simple and easy to use.
+>
+> 1. Go to the GBIF validator website
+> 2. Drop your DwC-a file (you can find an example file here  [dwc-a sample file]({{ page.root }}/data/dwca-depletion-fishing-nete-occurrences-v16.4.zip) or maybe use the dwc-a you published before in the IPT.
+> 3. Check the GBIF report on your dataset.
+> 4. Is your data ready to be published by GBIF?
+> 
+> > ## Solution
+> > 1. ![screenshot]({{ page.root }}/assets/img/validation.PNG){: .image-with-shadow }
+> > 2. Check the validation status of your file
+> {: .solution}
+{: .challenge}
 
 
 ## Hmisc Describe (optional)
