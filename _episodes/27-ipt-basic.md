@@ -93,7 +93,8 @@ To publish your data, follow the 7 steps below.
 > ## Exercises 1: Publish this occurrence dataset (dwc-a) on the Croatian IPT [ipt.bioportal.hr](https://ipt.bioportal.hr)
 > 
 > Most of the work on the publication of the data lies in the data cleaning, mapping and the description of the dataset. Once a Darwin Core archive was generated, it is fairly simple to  publish it again, on another IPT for example.
-> Publish [this](https://doi.org/10.15468/5jkd4t) dataset, "already published by the Croatian Faculty of science (which is already a GBIF data publisher) on the GBIF ECA Cloud IPT" again on the Croatian IPT.
+> Publish [this](https://doi.org/10.15468/5jkd4t) dataset, "already published by the Croatian Faculty of science (which is already a GBIF data publisher) on the GBIF ECA Cloud IPT" again on the Croatian IPT. Make sure you are logged in on the IPT instance.
+> You should have recieved a pswdr and a login to the Croatian IPT instance. 
 >
 > > ## Solution
 > > 1. donwload the dwc-a file [here](https://cloud.gbif.org/eca/archive.do?r=med3)
@@ -109,7 +110,11 @@ To publish your data, follow the 7 steps below.
 
 > ## Exercises 2: Publish this occurrence dataset on the Croatian IPT [ipt.bioportal.hr](https://ipt.bioportal.hr)
 > 
-> The [GBIF website](https://www.gbif.org/) has pages dedicated to countries/economies, including for countries/economies that do not yet participate in GBIF. You can use the search box on the homepage to look up a country/organization.
+> Unfortunately, in most cases you will not have a DwC-a file availble, meaning, that you should, together with the data researcher or person who would like to publish his or her data to GBIF, create a dwc-a. The IPT is a good tool to create dwc-archives. (There are also other tools available [here for example](https://ipt.gbif.org/manual/en/ipt/latest/dwca-guide#publishing-dwc-a-manually) but we do not recommend this. For this exercise we prepared all the files needed to generate a dwc-a.
+> Make sure you are logged in on the IPT instance.
+> You should have recieved a pswdr and a login to the Croatian IPT instance. 
+> You can find an occurrence file [here]({{ page.root }}/data/occurrence_snals.csv) 
+> You can find the metadata [here](https://docs.google.com/document/d/1m5dgtcwsmPxdWpZbbgb9aa2ncWXhI197/edit?usp=sharing&ouid=106540432290122943029&rtpof=true&sd=true)**Copy paste only the minimal set of information on the right place in the IPT**
 >
 > > ## Solution
 > > 1. [Find Croatia on this map](https://www.gbif.org/the-gbif-network)
