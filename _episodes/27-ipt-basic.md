@@ -56,7 +56,7 @@ Assuming that you would like to register your dataset with GBIF and make it glob
 # Instructions
 To publish your data, follow the 7 steps below.
 
-![screenshot]({{ page.root }}/fig/flow-all.png.png){: .image-with-shadow }
+![screenshot]({{ page.root }}/fig/flow-all.png){: .image-with-shadow }
 
 ## Select the class of biodiversity data you have from this list:
 
