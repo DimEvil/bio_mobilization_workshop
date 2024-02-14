@@ -92,8 +92,8 @@ To publish your data, follow the 7 steps below.
 
 > ## Exercises 1: Publish this occurrence dataset (dwc-a) on the Croatian IPT [ipt.bioportal.hr](https://ipt.bioportal.hr)
 > 
-> Most of the work on the publication of the data lies in the data cleaning, mapping and the description of the dataset. Once a Darwin Core archive was generated, it is fairly simple to  publish it again, on another IPT for example.
-> Publish [this](https://doi.org/10.15468/5jkd4t) dataset, "already published by the Croatian Faculty of science (which is already a GBIF data publisher) on the GBIF ECA Cloud IPT" again on the Croatian IPT. Make sure you are logged in on the IPT instance.
+> Most of the work on the publication of the data lies in the data cleaning, mapping and the description of the dataset. Once a Darwin Core archive was generated, it is fairly simple to  publish it again, on another IPT for example. <br>
+> Publish [this](https://doi.org/10.15468/5jkd4t) dataset, "already published by the Croatian Faculty of science (which is already a GBIF data publisher) on the GBIF ECA Cloud IPT" again on the Croatian IPT. Make sure you are logged in on the IPT instance. <br>
 > You should have recieved a pswdr and a login to the Croatian IPT instance. 
 >
 > > ## Solution
@@ -111,10 +111,10 @@ To publish your data, follow the 7 steps below.
 
 > ## Exercises 2: Publish this occurrence dataset on the Croatian IPT [ipt.bioportal.hr](https://ipt.bioportal.hr)
 > 
-> Unfortunately, in most cases you will not have a DwC-a file availble, meaning, that you should, together with the data researcher or person who would like to publish his or her data to GBIF, create a dwc-a. The IPT is a good tool to create dwc-archives. (There are also other tools available [here for example](https://ipt.gbif.org/manual/en/ipt/latest/dwca-guide#publishing-dwc-a-manually) but we do not recommend this. For this exercise we prepared all the files needed to generate a dwc-a.
-> Make sure you are logged in on the IPT instance.
-> You should have recieved a pswdr and a login to the Croatian IPT instance. 
-> You can find an occurrence file [here]({{ page.root }}/data/occurrence_snails.csv) 
+> Unfortunately, in most cases you will not have a DwC-a file availble, meaning, that you should, together with the data researcher or person who would like to publish his or her data to GBIF, create a dwc-a. <br> The IPT is a good tool to create dwc-archives. (There are also other tools available [here for example](https://ipt.gbif.org/manual/en/ipt/latest/dwca-guide#publishing-dwc-a-manually) but we do not recommend this. <br> For this exercise we prepared all the files needed to generate a dwc-a.
+> Make sure you are logged in on the IPT instance. <br>
+> You should have recieved a pswdr and a login to the Croatian IPT instance. <br>
+> You can find an occurrence file [here]({{ page.root }}/data/occurrence_snails.csv) <br>
 > You can find the metadata [here](https://docs.google.com/document/d/1m5dgtcwsmPxdWpZbbgb9aa2ncWXhI197/edit?usp=sharing&ouid=106540432290122943029&rtpof=true&sd=true) **Copy paste only the minimal set of information on the right place in the IPT**
 >
 > > ## Solution
@@ -133,11 +133,11 @@ To publish your data, follow the 7 steps below.
 
 > ## Exercises 3: Publish this sample based dataset dataset on the Croatian IPT [ipt.bioportal.hr](https://ipt.bioportal.hr)
 > 
-> Unfortunately, in most cases you will not have a DwC-a file availble, meaning, that you should, together with the data researcher or person who would like to publish his or her data to GBIF, create a dwc-a. The IPT is a good tool to create dwc-archives.  For this exercise we prepared all the files needed to generate a dwc-a.
-> Make sure you are logged in on the IPT instance.
-> You should have recieved a pswdr and a login to the Croatian IPT instance. 
-> You can find an occurrence file here [occurrence]({{ page.root }}/data/occurrence_odonata.csv)
-> You can find the event file here [event]({{ page.root }}/data/event_odonata.csv)
+> Unfortunately, in most cases you will not have a DwC-a file availble, meaning, that you should, together with the data researcher or person who would like to publish his or her data to GBIF, create a dwc-a. <br> The IPT is a good tool to create dwc-archives.  For this exercise we prepared all the files needed to generate a dwc-a.
+> Make sure you are logged in on the IPT instance. <br>
+> You should have recieved a pswdr and a login to the Croatian IPT instance. <br>
+> You can find an occurrence file here [occurrence]({{ page.root }}/data/occurrence_odonata.csv) <br>
+> You can find the event file here [event]({{ page.root }}/data/event_odonata.csv) <br>
 > You can find the metadata [here](https://docs.google.com/document/d/1rwI5zFHLyYv0tFx5dxaWrWEy6DFpcEB2nAeyVkzQPF4/edit?usp=sharing) **Copy paste only the minimal set of information on the right place in the IPT**
 >
 > > ## Solution
