@@ -14,10 +14,7 @@ keypoints:
 
 GBIF—the Global Biodiversity Information Facility—is an international network and data infrastructure funded by the world's governments and aimed at providing anyone, anywhere, open access to data about all types of life on Earth.
 
-* IPT management
-*  Extensions
 
-https://ipt.gbif.org/manual/en/ipt/latest/
 
 # Presentation: Data Publication workflow 'generic'
 
@@ -26,6 +23,8 @@ https://ipt.gbif.org/manual/en/ipt/latest/
   </a>
 
 # GBIF supports publication, discovery and use of four classes of data:
+
+[IPT manual](https://ipt.gbif.org/manual/en/ipt/latest/)
 
 * *Resource metadata*
 * *Checklist Data*
