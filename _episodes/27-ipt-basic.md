@@ -89,3 +89,34 @@ To publish your data, follow the 7 steps below.
 ### 7. Register the dataset with GBIF.
 
 `Your organization must be registered with GBIF (see prerequisite 2 above) and added to your IPT by the IPT administrator. Otherwise, the organization will not be available to choose from in the IPT.`
+
+> ## Exercises 1: Publish this occurrence dataset on the Croatian IPT [ipt.bioportal.hr](https://ipt.bioportal.hr)
+> 
+> The [GBIF website](https://www.gbif.org/) has pages dedicated to countries/economies, including for countries/economies that do not yet participate in GBIF. You can use the search box on the homepage to look up a country/organization.
+>
+> > ## Solution
+> > 1. [Find Croatia on this map](https://www.gbif.org/the-gbif-network)
+> {: .solution}
+{: .challenge}
+
+> ## Exercises 2: Publish this sample based dataset dataset on the Croatian IPT [ipt.bioportal.hr](https://ipt.bioportal.hr)
+> 
+> The [GBIF website](https://www.gbif.org/) has pages dedicated to countries/economies, including for countries/economies that do not yet participate in GBIF. You can use the search box on the homepage to look up a country/organization.
+>
+> > ## Solution
+> > 1. [Find Croatia on this map](https://www.gbif.org/the-gbif-network)
+> {: .solution}
+{: .challenge}
+
+
+> ## Exercises 2: Publish this checklist dataset dataset on the Croatian IPT [ipt.bioportal.hr](https://ipt.bioportal.hr)
+> 
+> The [GBIF website](https://www.gbif.org/) has pages dedicated to countries/economies, including for countries/economies that do not yet participate in GBIF. You can use the search box on the homepage to look up a country/organization.
+>
+> > ## Solution
+> > 1. [Find Croatia on this map](https://www.gbif.org/the-gbif-network)
+> {: .solution}
+{: .challenge}
+
+
+
