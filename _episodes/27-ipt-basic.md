@@ -141,19 +141,18 @@ To publish your data, follow the 7 steps below.
 > You can find the metadata [here](https://docs.google.com/document/d/1rwI5zFHLyYv0tFx5dxaWrWEy6DFpcEB2nAeyVkzQPF4/edit?usp=sharing) **Copy paste only the minimal set of information on the right place in the IPT**
 >
 > > ## Solution
-> > 1. donwload the dwc-a file
-> > 2. go to the tab `manage resources`
-> > 3. create a new dataset `Create new dataset`
-> > 4. provide a new shortname
-> > 5. select type `sampling event` and push `create`
-> > 6. deal with `source data` add both files to the IPT
-> > 7. deal with `darwin core mappings` for the occurrence file
-> > 8. deal with `darwin core mappings` for the event file
-> > 9. deal with  `metadata`  *also here, only copy paste the minimum needed*
-> > 10. publish your dataset
-> > 11. change visibility to `public`
-> > 12. register your dataset (not needed in this exercise)
-> > 13. Click `publish` to finish this exercise
+> > 1. go to the tab `manage resources`
+> > 2. create a new dataset `Create new dataset`
+> > 3. provide a new shortname
+> > 4. select type `sampling event` and push `create`
+> > 5. deal with `source data` add both files to the IPT
+> > 6. deal with `darwin core mappings` for the occurrence file
+> > 7. deal with `darwin core mappings` for the event file
+> > 8. deal with  `metadata`  *also here, only copy paste the minimum needed*
+> > 9. publish your dataset
+> > 10. change visibility to `public`
+> > 11. register your dataset (not needed in this exercise)
+> > 12. Click `publish` to finish this exercise
 > {: .solution}
 {: .challenge}
 
@@ -163,14 +162,25 @@ To publish your data, follow the 7 steps below.
 > Now, we will publish a checklist data on on the IPT. A checklist is a 3rd type of dataset you can publish on Global Biodiversity Information Facility. A cheklist has no occurrences as the core file, but the species (the taxon) is at the centre of the star scheme.    For this exercise we prepared all the files needed to generate a dwc-a.
 > Make sure you are logged in on the IPT instance. <br>
 > You should have recieved a pswdr and a login to the Croatian IPT instance. <br>
-> You can find all the needed data here: [TrIAS](https://github.com/trias-project/ad-hoc-checklist/tree/master/data/processed) The TrIAS cheklist is a live 'cheklist' which is regurlaly updated through `Github actions` and an automatic update function in the IPT.
+> You can find all the needed data here: [TrIAS](https://github.com/trias-project/ad-hoc-checklist/tree/master/data/processed) The TrIAS cheklist is a live 'cheklist' which is regurlaly updated through `Github actions` and an automatic update function in the IPT. <br>
 > You can donwload the needed files from Github. If you want to make sure your published datsets is always up to date, you can use the raw online files as a source file [raw Github content](https://raw.githubusercontent.com/trias-project/ad-hoc-checklist/master/data/processed/taxon.csv)
+> For this checklist, we have a taxon, description, distribution, speciesprofile and references file. Only use (download) the taxon, description and spieciesprofile file for this exercise.
 > You can find the metadata [here](https://www.gbif.org/dataset/1f3505cd-5d98-4e23-bd3b-ffe59d05d7c2) **Copy paste only the minimal set of information on the right place in the IPT**
 >
-> 
->
 > > ## Solution
-> > 1. [Find Croatia on this map](https://www.gbif.org/the-gbif-network)
+> > 1. go to the tab `manage resources`
+> > 2. create a new dataset `Create new dataset`
+> > 3. provide a new shortname
+> > 4. select type `checklist` and push `create`
+> > 5. deal with the `source data` import all files in the IPT. In the IPT, for taxon choose `source data is url` instead of file and use this url [raw Github content](https://raw.githubusercontent.com/trias-project/ad-hoc-checklist/master/data/processed/taxon.csv)
+> > 6. deal with `darwin core mappings` for the `distribution` file
+> > 7. deal with `darwin core mappings` for the `distribution` file
+> > 8. deal with `darwin core mappings` for the `profile` file
+> > 9. deal with  `metadata`  *also here, only copy paste the minimum needed*
+> > 10. publish your dataset
+> > 11. change visibility to `public`
+> > 12. register your dataset (not needed in this exercise)
+> > 13. Click `publish` to finish this exercise
 > {: .solution}
 {: .challenge}
 
