@@ -15,6 +15,10 @@ keypoints:
 - "keypoints"
 ---
 
+# Living atlasses community
+
+https://living-atlases.gbif.org/
+
 # CESP: Capacity Enhancement Support Programme
 
 https://www.gbif.org/programme/82219/capacity-enhancement-support-programme
