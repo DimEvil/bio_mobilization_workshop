@@ -63,29 +63,29 @@ To publish your data, follow the 7 steps below.
 
 ![screenshot]({{ page.root }}/fig/flow-all.png){: .image-with-shadow }
 
-### Select the class of biodiversity data you have from this list:
+### 1. Select the class of biodiversity data you have from this list:
 
 * Resource metadata
 * Checklist Data
 * Occurrence Data
 * Sampling Event Data
 
-### Transform your data into a table structure, using Darwin Core (DwC) terms as column names
+### 2. Transform your data into a table structure, using Darwin Core (DwC) terms as column names
 
 *Hint:* try using an Excel template to structure your data, and understand what DwC terms are required and recommended (Excel templates for each dataset class are available in the above links - see the previous point)
 
 *Hint:* it is possible to use data stored in a supported database
 
-### Upload your data to the IPT
+### 3. Upload your data to the IPT
 
 *Hint:* refer to other sections of this manual for additional guidance, such as the Manage Resources Menu section.
 
-### Map the data (e.g. Checklist Data gets mapped to the Taxon Core, Occurrence Data gets mapped to the Occurrence Core, Sampling Event Data gets mapped to the Event Core).
+### 4. Map the data (e.g. Checklist Data gets mapped to the Taxon Core, Occurrence Data gets mapped to the Occurrence Core, Sampling Event Data gets mapped to the Event Core).
 
-### Fill in resource metadata using the IPT’s metadata editor
+### 5. Fill in resource metadata using the IPT’s metadata editor
 
-### Publish the dataset (make it freely and openly available worldwide)
+### 6. Publish the dataset (make it freely and openly available worldwide)
 
-### Register the dataset with GBIF.
+### 7. Register the dataset with GBIF.
 
 `Your organization must be registered with GBIF (see prerequisite 2 above) and added to your IPT by the IPT administrator. Otherwise, the organization will not be available to choose from in the IPT.`
