@@ -25,7 +25,6 @@ As GBIF nodes, one of our goals is to highlight our publishers and their data. T
 
 <img src="{{ 'assets/img/laslack.PNG' | relative_url }}" alt="LA" width="550">
 
-![slack-Living atlas]({{ 'assets/img/laslack.PNG' | relative_url }} width="550")
 
 # CESP: Capacity Enhancement Support Programme
 
@@ -33,7 +32,23 @@ As GBIF nodes, one of our goals is to highlight our publishers and their data. T
     <img src="{{ 'assets/img/cesp.PNG' | relative_url }}" alt="cesp" width="550">
 </a>
 
-https://www.gbif.org/programme/82219/capacity-enhancement-support-programme
+This programme aims to address specific capacity needs identified by GBIF Participants by facilitating collaboration at regional and global levels.
+
+The annual calls for proposals under this programme provide co-funding to GBIF Participants for capacity enhancement projects based on combinations of the following types of action:
+
+**Mentoring activities:** Interactions among two or more Participants where the core objective is the transfer of information, technology, experience and best practices in small groups.
+
+**Support for regional events and training workshops:** Courses and workshops with a regional (multi-national) component to enhance the capacity of individuals or networks to contribute to and benefit from GBIF.
+
+**Documentation:** Production of key learning and promotional resources or their adaptation to the national or regional context (e.g. by translation or including local/regional perspectives). The GBIF Secretariat advocates digital-first documentation to provide technical guidance and support training and skills development across GBIF’s communities of practice. The key features of this system include standardized documentation, routine updates, versioning, translations, community input, peer review, and searchable format.
+
+These types of action are part of the suite of capacity enhancement activities provided by GBIF, to enable effective mobilization and use of biodiversity information.
+
+
+<img src="{{ 'assets/img/croment.PNG' | relative_url }}" alt="croment" width="550">
+
+<img src="{{ 'assets/img/cespfunded.PNG' | relative_url }}" alt="funded" width="550">
+
 
 # BID: Biodiversity Information for Development
 
@@ -41,12 +56,30 @@ https://www.gbif.org/programme/82219/capacity-enhancement-support-programme
     <img src="{{ 'assets/img/bid.PNG' | relative_url }}" alt="BID" width="600">
 </a>
 
-https://www.gbif.org/programme/82243/bid-biodiversity-information-for-development
+Biodiversity Information for Development (BID) is a multi-year programme funded by the European Union and led by GBIF with the aim of enhancing capacity for effective mobilization and use of biodiversity data in research and policy in the ‘ACP’ nations of sub-Saharan Africa, the Caribbean and the Pacific.
+
+Funding from the programme's first phase has supported capacity enhancement activities and projects to mobilize biodiversity data and strengthened national and regional biodiversity information facilities in these regions. Its impacts to date have focused on data that support the regions' policy needs, particularly in connection with protected areas, threatened species and invasive alien species.
+
+<img src="{{ 'assets/img/bid2.PNG' | relative_url }}" alt="bid" width="550">
 
 # Data use club
 
 <a href="https://www.gbif.org/data-use-club">
     <img src="{{ 'assets/img/datauseclub.PNG' | relative_url }}" alt="Data Use club" width="600">
+</a>
+
+*The Data Use Club* is a space that promotes the interaction between data users and provides them with tools for developing skills in data use, no matter where they are in the world. In the club, we provide support in the following form:
+
+**Training seminars:** This quarterly webinar series highlights approaches to global problems using GBIF-mediated data. Each seminar provides opportunities for knowledge exchange and inspiration for GBIF users who wih to develop their own solutions to similar challenges.
+
+**Practical sessions:** This quarterly webinar series focuses on developing the informatic and data management skills necessary to fully exploit the potential of GBIF-mediated data. The material for these sessions expands on the biodiversity data use curriculum developed by GBIF.
+
+**DataCamp online training:** GBIF users can receive free access to the full suite of online training offered by DataCamp through DataCamp Donates.
+
+For questions regarding the Data Use Club, please contact [datause@gbif.org](mailto:datause@gbif.org)
+
+<a href="https://www.survey-xact.dk/LinkCollector?key=CM9WQF59S11K">
+    <img src="{{ 'assets/img/datacamp.PNG' | relative_url }}" alt="datacamp" width="600">
 </a>
 
 
