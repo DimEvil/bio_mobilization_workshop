@@ -41,6 +41,10 @@ To give yourself an introduction to how the IPT can be used to publish biodivers
 <img src="{{ '/assets/img/bbpf-ipt.png' | relative_url }}" alt="Alternate Text" />
 </a>
 
+![Announcement](https://github.com/DimEvil/croment/assets/3965195/7bcb145f-fcb9-4970-ba61-0bb49d8ec9e9){: .image-with-shadow }
+
+
+
 # Prerequisites
 
 You require an account on a GBIF Integrated Publishing Toolkit (IPT) to publish your data.
