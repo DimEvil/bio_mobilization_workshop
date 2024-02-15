@@ -53,6 +53,8 @@ keypoints:
 > 4. Is CC-BY-NC an open data license?
 >    
 > > ## SOLUTION
+> > 1. <img src="{{ 'assets/img/extra/creativecommons.PNG' | relative_url }}" alt="cc" width="400">{: .image-with-shadow }
+> > 2. Check the license chooser
 > > 3. The only licenses allowed for GBIF are CC0 ; CC_BY ; and CC_BY_NC
 > > 4. CC-BY-NC is not considered as an open data license 
 > > 
