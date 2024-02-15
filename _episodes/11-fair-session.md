@@ -31,7 +31,7 @@ keypoints:
 >    
 > > ## SOLUTION
 > > 1. FAIR data is not always open, FAIR data is findable and good documented. Open data per definition is not always FAIR. (Just an Excel somewhere on a website is considered as open data)
-> > 2.
+> > 2. <img src="{{ 'assets/img/extra/fair.PNG' | relative_url }}" alt="fair" width="400">{: .image-with-shadow }
 > > 3. Publish your data in GBIF or in another open repository like Zenodo 
 > > 3. YES
 > > 4. No, CC-BY-NC is not considered as open data

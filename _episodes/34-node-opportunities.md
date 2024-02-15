@@ -1,5 +1,5 @@
 ---
-title: "GBIF opportunities (CESP, BID, Ambassador programme, data use club)"
+title: "GBIF opportunities (CESP, BID, Ambassador programme, data use club...)"
 start: true
 teaching: 60
 exercises: 0
