@@ -128,6 +128,7 @@ Simply use the IPT’s built-in metadata editor to populate the metadata.
 > * An url
 > * An SQL statement
 > 7. Click on `add`in the `Darwin Core Mappings` section
+>    <img src="{{ 'assets/img/extra/iptmapping.PNG' | relative_url }}" alt="mapping" width="400">{: .image-with-shadow }
 > 8. CLick again on `add`, make sure Darwin Core Occurrence is selected
 > 9. Select the source 'occurrencememo`and click `save`
 > 10. Your data is automapped to Darwin Core, you can click on `save`
