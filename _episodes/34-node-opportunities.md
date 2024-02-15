@@ -23,7 +23,7 @@ keypoints:
 
 As GBIF nodes, one of our goals is to highlight our publishers and their data. To achieve this, the Atlas of Living Australia (ALA) developed a huge open source platform with several modules re-usable by other organizations. Since 2013, the community around this tool has organized technical workshops to present ALA modules to other institutions that wanted to implement it, to improve already existing national data portals and to learn from each other’s achievements.
 
-
+<img src="{{ 'assets/img/laslack.PNG' | relative_url }}" alt="LA" width="550">
 
 ![slack-Living atlas]({{ 'assets/img/laslack.PNG' | relative_url }} width="550")
 
