@@ -88,7 +88,9 @@ Simply use the IPT’s built-in metadata editor to populate the metadata.
 > 3. Click on  `manage resources`
 >    <img src="{{ 'assets/img/extra/iptmanage.PNG' | relative_url }}" alt="iptmanage" width="300">{: .image-with-shadow }
 > 4. Click on `Create New`and choose your the type of your dataset (here choose `occurrence`)
+>    <img src="{{ 'assets/img/extra/iptcreate.PNG' | relative_url }}" alt="iptcreate" width="300">{: .image-with-shadow }
 > 5. Give a shortname for your resource, `the shortname serves as an identifier for the resource and will be used as a parameter in the url`
+>    <img src="{{ 'assets/img/extra/iptshortname.PNG' | relative_url }}" alt="iptshortname" width="300">{: .image-with-shadow }
 > 6. Click on `Create`
 > 
 > > ## Solution
@@ -102,9 +104,12 @@ Simply use the IPT’s built-in metadata editor to populate the metadata.
 > 2. Login
 > 3. Click on `Manage resources`
 > 4. Click on your 'imaginary' dataset
+>    <img src="{{ 'assets/img/extra/iptimaginary.PNG' | relative_url }}" alt="iptimaginary" width="300">{: .image-with-shadow }
 > 5. Click on `edit` in the `Metadata`section
+>    <img src="{{ 'assets/img/extra/iptmetadata.PNG' | relative_url }}" alt="iptmetadata" width="300">{: .image-with-shadow }
 > 6. Complete the Metadata wizzard, starting with providing a tittle for your dataset
->  
+>    <img src="{{ 'assets/img/extra/iptwizzard.PNG' | relative_url }}" alt="iptwizzard" width="300">{: .image-with-shadow }
+> 
 > > ## Solution
 > > 1. Congratulations, you did add metadata in your dataset
 > {: .solution}
