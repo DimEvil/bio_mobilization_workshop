@@ -149,11 +149,14 @@ Allocations from the annual prize pool of €20,000 will award the first-place t
     <img src="{{ 'assets/img/award.PNG' | relative_url }}" alt="Graduate Researchers Award" width="600">
 </a>
 
-# GBIF science review
+The **Graduate Researchers Award** (previously the Young Researchers Award) is an annual programme aimed at fostering innovative research and discovery in biodiversity informatics. The GRA provides prizes to two graduate students—generally one Master’s candidate and one Ph.D candidate—nominated by GBIF Participant countries.
 
-<a href="https://www.gbif.org/science-review">
-    <img src="{{ 'assets/img/science.PNG' | relative_url }}" alt="Science review" width="600">
-</a>
+Since its inception in 2010, the Award has encouraged innovation in the use and mobilization of biodiversity data shared through the GBIF network.
+
+Calls for nominations go out each spring, and interested students must submit applications to either a national Head of Delegation or node manager from a GBIF Participant country. These national delegations may nominate a maximum of two students each year to the GBIF Secretariat.
+
+Graduate students wishing to be considered for the nominations should consult the websites of their national GBIF Participants or contact the Head of Delegation or node manager directly. The GBIF Secretariat and national Participants whose nominees are selected to receive the award announce the award winners each autumn just before the annual Governing Board meeting.
+
 
 # GBIF data use
 
@@ -161,14 +164,40 @@ Allocations from the annual prize pool of €20,000 will award the first-place t
     <img src="{{ 'assets/img/datause.PNG' | relative_url }}" alt="Data use" width="600">
 </a>
 
+Data from the GBIF network is used in scientific studies published in peer-reviewed journals at a rate of more than four papers every day. Review highlights from the most recent publications drawn from the Secretariat’s ongoing literature tracking programme or check out the comprehensive literature database, which comprises more than 9,000 entries from scientific literature that cite the use of GBIF-mediated data.
+
+Based on their scientific impact, relevance and uniqueness as well as diversity in taxonomy and geography, we select and feature a handful of papers every month. These are later compiled into a printed publication—the Science Review, our annual compilation of scientific articles—partial but instructive—enhanced and supported by free and open data that the GBIF network of members and publishers make available.
+
+The applicability of free and open biodiversity data spans beyond academia, as GBIF-mediated data is also used to inform decision-making and policy—ranging from documents produced by local and national agencies—to extinction risk assessments for thousands of species on the IUCN Red List of Threatened Species— and comprehensive reports by large-scale intergovernmental and convention-based bodies—such as the Intergovernmental Panel on Climate Change **(IPCC)** and the the Intergovernmental Science-Policy Platform on Biodiversity and Ecosystem Services **(IPBES)**.
+
 # GBIF mentors and trianers
 
 <a href="https://www.gbif.org/mentors">
     <img src="{{ 'assets/img/mentors.PNG' | relative_url }}" alt="Mentors" width="600">
 </a>
 
+Mentors and trainers are a pillar of the GBIF community of practice. By sharing their expertise within the community, GBIF mentors contribute to capacity enhancement by providing support to project teams, participating in training events and by interacting with other mentors.
+
+Becoming a volunteer mentor is an opportunity to collaborate with the growing community of scientists, institutions, and networks involved in the mobilization and use of biodiversity data, and to make new connections all around the world. GBIF maintains an open call for volunteers to join this group of mentors and trainers.
+
+**Areas of expertise**
+Mentors typcially have experience in several of the following areas:
+
+* Biodiversity data mobilization
+* Biodiversity data management
+* Biodiversity data publishing
+* Biodiversity data analysis and use
+* Node development
+
+## Become a GBIF mentor
+
+1. [Volunteer](https://www.survey-xact.dk/LinkCollector?key=4JGPQUF1S635)
+2. Complete the mentor certification after your application has been reviewed.
+3. Join the [GBIF Community Forum](https://discourse.gbif.org/) and participate in the )[discussions](https://discourse.gbif.org/c/mentors with other mentors on the community forum.
+4. Answer occasional calls to mentors to participate in capacity support activities as project mentors and/or workshop mentors and trainers.
 
 
+![fiji](https://photos.google.com/search/fiji/photo/AF1QipPSfbyafVETTbx3Ij_GuJCItv7wWW19h32VsPan)
 
 
 
