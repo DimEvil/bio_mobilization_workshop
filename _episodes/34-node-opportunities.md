@@ -23,7 +23,7 @@ keypoints:
 
 As GBIF nodes, one of our goals is to highlight our publishers and their data. To achieve this, the Atlas of Living Australia (ALA) developed a huge open source platform with several modules re-usable by other organizations. Since 2013, the community around this tool has organized technical workshops to present ALA modules to other institutions that wanted to implement it, to improve already existing national data portals and to learn from each other’s achievements.
 
-<img src="{{ 'assets/img/laslack.PNG' | relative_url }}" alt="LA" width="550">
+<img src="{{ 'assets/img/laslack.PNG' | relative_url }}" alt="LA" width="550">{: .image-with-shadow }
 
 
 # CESP: Capacity Enhancement Support Programme
@@ -45,27 +45,27 @@ The annual calls for proposals under this programme provide co-funding to GBIF P
 These types of action are part of the suite of capacity enhancement activities provided by GBIF, to enable effective mobilization and use of biodiversity information.
 
 
-<img src="{{ 'assets/img/croment.PNG' | relative_url }}" alt="croment" width="550">
+<img src="{{ 'assets/img/croment.PNG' | relative_url }}" alt="croment" width="550">{: .image-with-shadow }
 
-<img src="{{ 'assets/img/cespfunded.PNG' | relative_url }}" alt="funded" width="550">
+<img src="{{ 'assets/img/cespfunded.PNG' | relative_url }}" alt="funded" width="550">{: .image-with-shadow }
 
 
 # BID: Biodiversity Information for Development
 
 <a href="https://www.gbif.org/programme/82243/bid-biodiversity-information-for-development">
-    <img src="{{ 'assets/img/bid.PNG' | relative_url }}" alt="BID" width="600">
+    <img src="{{ 'assets/img/bid.PNG' | relative_url }}" alt="BID" width="600">{: .image-with-shadow }
 </a>
 
 Biodiversity Information for Development (BID) is a multi-year programme funded by the European Union and led by GBIF with the aim of enhancing capacity for effective mobilization and use of biodiversity data in research and policy in the ‘ACP’ nations of sub-Saharan Africa, the Caribbean and the Pacific.
 
 Funding from the programme's first phase has supported capacity enhancement activities and projects to mobilize biodiversity data and strengthened national and regional biodiversity information facilities in these regions. Its impacts to date have focused on data that support the regions' policy needs, particularly in connection with protected areas, threatened species and invasive alien species.
 
-<img src="{{ 'assets/img/bid2.PNG' | relative_url }}" alt="bid" width="550">
+<img src="{{ 'assets/img/bid2.PNG' | relative_url }}" alt="bid" width="550">{: .image-with-shadow }
 
 # Data use club
 
 <a href="https://www.gbif.org/data-use-club">
-    <img src="{{ 'assets/img/datauseclub.PNG' | relative_url }}" alt="Data Use club" width="600">
+    <img src="{{ 'assets/img/datauseclub.PNG' | relative_url }}" alt="Data Use club" width="600">{: .image-with-shadow }
 </a>
 
 *The Data Use Club* is a space that promotes the interaction between data users and provides them with tools for developing skills in data use, no matter where they are in the world. In the club, we provide support in the following form:
@@ -79,14 +79,14 @@ Funding from the programme's first phase has supported capacity enhancement acti
 For questions regarding the Data Use Club, please contact [datause@gbif.org](mailto:datause@gbif.org)
 
 <a href="https://www.survey-xact.dk/LinkCollector?key=CM9WQF59S11K">
-    <img src="{{ 'assets/img/datacamp.PNG' | relative_url }}" alt="datacamp" width="600">
+    <img src="{{ 'assets/img/datacamp.PNG' | relative_url }}" alt="datacamp" width="600">{: .image-with-shadow }
 </a>
 
 
 # Ambassador programme
 
 <a href="https://www.gbif.org/ambassadors">
-    <img src="{{ 'assets/img/ambassadors.PNG' | relative_url }}" alt="ambassadors" width="600">
+    <img src="{{ 'assets/img/ambassadors.PNG' | relative_url }}" alt="ambassadors" width="600">{: .image-with-shadow }
 </a>
 
 The success of GBIF depends in part on establishing a good understanding within research and policy communities of the benefits and opportunities provided by free and open access to biodiversity data, as well as the importance of responsible use of such data through proper citation and attribution.
@@ -110,7 +110,7 @@ Are you a potential Biodiversity Open Data Ambassador? We ask for some minimum q
 # GBIF translators
 
 <a href="https://www.gbif.org/translators">
-    <img src="{{ 'assets/img/translators.PNG' | relative_url }}" alt="translators" width="600">
+    <img src="{{ 'assets/img/translators.PNG' | relative_url }}" alt="translators" width="600">{: .image-with-shadow }
 </a>
 
 ## Can I join the GBIF translator community?
@@ -125,7 +125,7 @@ If you already have experience with CrowdIn (which our community first started u
 # Ebbe Nielsen Challenge
 
 <a href="https://www.gbif.org/ebbe">
-    <img src="{{ 'assets/img/ebbe.PNG' | relative_url }}" alt="ebbe" width="600">
+    <img src="{{ 'assets/img/ebbe.PNG' | relative_url }}" alt="ebbe" width="600">{: .image-with-shadow }
 </a>
 
 The **GBIF Ebbe Nielsen Challenge** is an annual incentive prize that seeks to inspire innovative applications of open-access biodiversity data by scientists, informaticians, data modelers, cartographers and other experts.
@@ -139,14 +139,14 @@ Allocations from the annual prize pool of €20,000 will award the first-place t
 
 
 <a href="https://gbif-alert-demo.thebinaryforest.net/">
-    <img src="{{ 'assets/img/ebbewinner.PNG' | relative_url }}" alt="ebbewinner" width="600">
+    <img src="{{ 'assets/img/ebbewinner.PNG' | relative_url }}" alt="ebbewinner" width="600">{: .image-with-shadow }
 </a>
 
 
 # The Graduate Researchers Award
 
 <a href="https://www.gbif.org/graduate-researchers-award">
-    <img src="{{ 'assets/img/award.PNG' | relative_url }}" alt="Graduate Researchers Award" width="600">
+    <img src="{{ 'assets/img/award.PNG' | relative_url }}" alt="Graduate Researchers Award" width="600">{: .image-with-shadow }
 </a>
 
 The **Graduate Researchers Award** (previously the Young Researchers Award) is an annual programme aimed at fostering innovative research and discovery in biodiversity informatics. The GRA provides prizes to two graduate students—generally one Master’s candidate and one Ph.D candidate—nominated by GBIF Participant countries.
@@ -161,7 +161,7 @@ Graduate students wishing to be considered for the nominations should consult th
 # GBIF data use
 
 <a href="https://www.gbif.org/data-use">
-    <img src="{{ 'assets/img/datause.PNG' | relative_url }}" alt="Data use" width="600">
+    <img src="{{ 'assets/img/datause.PNG' | relative_url }}" alt="Data use" width="600">{: .image-with-shadow }
 </a>
 
 Data from the GBIF network is used in scientific studies published in peer-reviewed journals at a rate of more than four papers every day. Review highlights from the most recent publications drawn from the Secretariat’s ongoing literature tracking programme or check out the comprehensive literature database, which comprises more than 9,000 entries from scientific literature that cite the use of GBIF-mediated data.
@@ -173,7 +173,7 @@ The applicability of free and open biodiversity data spans beyond academia, as G
 # GBIF mentors and trianers
 
 <a href="https://www.gbif.org/mentors">
-    <img src="{{ 'assets/img/mentors.PNG' | relative_url }}" alt="Mentors" width="600">
+    <img src="{{ 'assets/img/mentors.PNG' | relative_url }}" alt="Mentors" width="600">{: .image-with-shadow }
 </a>
 
 Mentors and trainers are a pillar of the GBIF community of practice. By sharing their expertise within the community, GBIF mentors contribute to capacity enhancement by providing support to project teams, participating in training events and by interacting with other mentors.
@@ -197,7 +197,7 @@ Mentors typcially have experience in several of the following areas:
 4. Answer occasional calls to mentors to participate in capacity support activities as project mentors and/or workshop mentors and trainers.
 
 
-![image](https://github.com/DimEvil/croment/assets/3965195/6ad69105-3446-411f-a0e5-d85d63ce33fe)
+![image](https://github.com/DimEvil/croment/assets/3965195/6ad69105-3446-411f-a0e5-d85d63ce33fe){: .image-with-shadow }
 
 
 
