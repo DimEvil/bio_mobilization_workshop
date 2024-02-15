@@ -32,7 +32,7 @@ keypoints:
 > > 1. 27
 > > 2. 1274
 > > 3. 536
-> > 4. 8 (Check [here](https://ipt.inbo.be/?sort=organisation&order=asc&page=13)
+> > 4. 8 (Check [here](https://ipt.inbo.be/?sort=organisation&order=asc&page=13))
 > > 
 > {: .solution}
 {: .challenge}
