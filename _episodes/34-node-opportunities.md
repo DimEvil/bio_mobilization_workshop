@@ -25,7 +25,7 @@ As GBIF nodes, one of our goals is to highlight our publishers and their data. T
 
 
 
-![slack-Living atlas]({{ 'assets/img/livingatlas.PNG' | relative_url }})
+![slack-Living atlas]({{ 'assets/img/laslack.PNG' | relative_url }} width="550")
 
 # CESP: Capacity Enhancement Support Programme
 
