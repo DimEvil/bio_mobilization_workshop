@@ -197,7 +197,8 @@ Mentors typcially have experience in several of the following areas:
 4. Answer occasional calls to mentors to participate in capacity support activities as project mentors and/or workshop mentors and trainers.
 
 
-![fiji](https://photos.google.com/search/fiji/photo/AF1QipPSfbyafVETTbx3Ij_GuJCItv7wWW19h32VsPan)
+![image](https://github.com/DimEvil/croment/assets/3965195/6ad69105-3446-411f-a0e5-d85d63ce33fe)
+
 
 
 
