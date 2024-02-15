@@ -20,8 +20,8 @@ keypoints:
 ![image](https://github.com/DimEvil/croment/assets/3965195/4cdd956a-932e-48f6-908c-0731ae392dfc)
 
 <a href="https://living-atlases.gbif.org/">
-    <img src="{{ '/assets/img/livingatlas.PNG| relative_url }}" alt="LA" width="200">
-  </a>
+    <img src="{{ '/assets/img/livingatlas.PNG | relative_url }}" alt="LA" width="200">
+</a>
 
 https://living-atlases.gbif.org/
 
