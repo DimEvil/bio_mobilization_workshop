@@ -84,7 +84,9 @@ Simply use the IPT’s built-in metadata editor to populate the metadata.
 > 
 > 1. Go to the Croatian 'test' IPT instance on ipt.bioportal.hr
 > 2. Login to the 'IPT' instance, you can login with your emailaddress and `WelcomCroMent`
+>    <img src="{{ 'assets/img/extra/iptlogin.PNG' | relative_url }}" alt="iptlogin" width="300">{: .image-with-shadow }
 > 3. Click on  `manage resources`
+>    <img src="{{ 'assets/img/extra/iptmanage.PNG' | relative_url }}" alt="iptmanage" width="300">{: .image-with-shadow }
 > 4. Click on `Create New`and choose your the type of your dataset (here choose `occurrence`)
 > 5. Give a shortname for your resource, `the shortname serves as an identifier for the resource and will be used as a parameter in the url`
 > 6. Click on `Create`
