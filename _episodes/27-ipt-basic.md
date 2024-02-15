@@ -106,6 +106,7 @@ To publish your data, follow the 7 steps below.
 > > 3. create a new dataset `Create new dataset`
 > > 4. provide a new shortname
 > > 5. Choose `Import from an archived resource`
+> >   <img src="{{ 'assets/img/extra/iptimport2.PNG' | relative_url }}" alt="import" width="400">{: .image-with-shadow }
 > > 6. Choose the Dwc-a file
 > > 7. Click `save`
 > > 8. If everything went correct, your metadata and data is correctly mapped in the IPT and ready to publih.
