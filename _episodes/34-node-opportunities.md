@@ -18,7 +18,7 @@ keypoints:
 # Living atlasses community
 
 <a href="https://living-atlases.gbif.org/">
-    <img src="{{ 'assets/img/livingatlas.PNG' | relative_url }}" alt="LA" width="550">
+    <img src="{{ 'assets/img/livingatlas.PNG' | relative_url }}" alt="LA" width="550">{: .image-with-shadow }
 </a>
 
 As GBIF nodes, one of our goals is to highlight our publishers and their data. To achieve this, the Atlas of Living Australia (ALA) developed a huge open source platform with several modules re-usable by other organizations. Since 2013, the community around this tool has organized technical workshops to present ALA modules to other institutions that wanted to implement it, to improve already existing national data portals and to learn from each other’s achievements.
@@ -29,7 +29,7 @@ As GBIF nodes, one of our goals is to highlight our publishers and their data. T
 # CESP: Capacity Enhancement Support Programme
 
 <a href="https://www.gbif.org/programme/82219/capacity-enhancement-support-programme">
-    <img src="{{ 'assets/img/cesp.PNG' | relative_url }}" alt="cesp" width="550">
+    <img src="{{ 'assets/img/cesp.PNG' | relative_url }}" alt="cesp" width="550">{: .image-with-shadow }
 </a>
 
 This programme aims to address specific capacity needs identified by GBIF Participants by facilitating collaboration at regional and global levels.
