@@ -122,6 +122,7 @@ Simply use the IPT’s built-in metadata editor to populate the metadata.
 > 3. Click on `Manage resources`
 > 4. Click on your 'imaginary' dataset
 > 5. Click on `add` in the `Source data`section
+>    <img src="{{ 'assets/img/extra/iptsource.PNG' | relative_url }}" alt="source" width="400">{: .image-with-shadow }
 > 6. Choose your source data: <br>
 > * A File (Choose [`occurrencememo.csv`]({{ page.root }}/data/occurrencememo.csv) if you don't have an 'imaginary' dataset
 > * An url
