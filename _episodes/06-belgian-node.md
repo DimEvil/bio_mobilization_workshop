@@ -26,7 +26,8 @@ keypoints:
 > 2. How many datasets do contain records about Belgium?
 > 3. How many datasets are published by Belgium?
 > 4. Navigate to the INBO (Research Institute for Nature and Forest) IPT and check how many publishers are making use of this IPT instance
->    
+> 5. Navigate to [www.biodiversity.be](www.biodioversity.be) and find GBIF info
+>    <img src="{{ 'assets/img/extra/bbpf.PNG' | relative_url }}" alt="bbpf" width="400">{: .image-with-shadow }
 > > ## SOLUTION
 > > 1. 27
 > > 2. 1274
