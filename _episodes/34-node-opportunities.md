@@ -78,7 +78,7 @@ Funding from the programme's first phase has supported capacity enhancement acti
 
 For questions regarding the Data Use Club, please contact [datause@gbif.org](mailto:datause@gbif.org)
 
-<a href="https://www.survey-xact.dk/servlet/com.pls.morpheus.web.pages.CoreRespondentCollectLinkAnonymous">
+<a href="https://www.survey-xact.dk/LinkCollector?key=CM9WQF59S11K">
     <img src="{{ 'assets/img/datacamp.PNG' | relative_url }}" alt="datacamp" width="600">
 </a>
 
