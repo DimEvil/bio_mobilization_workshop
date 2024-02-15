@@ -89,6 +89,23 @@ For questions regarding the Data Use Club, please contact [datause@gbif.org](mai
     <img src="{{ 'assets/img/ambassadors.PNG' | relative_url }}" alt="ambassadors" width="600">
 </a>
 
+The success of GBIF depends in part on establishing a good understanding within research and policy communities of the benefits and opportunities provided by free and open access to biodiversity data, as well as the importance of responsible use of such data through proper citation and attribution.
+
+The GBIF Secretariat and GBIF participant nodes work to promote this understanding through their communication platforms, at meetings and across networks around of the world. However, this relatively small group can never hope to reach all relevant communities without assistance.
+
+Biodiversity Open Data Ambassadors can fill that gap. If you are a biodiversity professional who promotes the principles and best practices of open data sharing and use, we can equip you with information resources, networking opportunities and recognition to make you an even more effective advocate in your own professional communities.
+
+## How to become a GBIF data ambassador
+
+Are you a potential Biodiversity Open Data Ambassador? We ask for some minimum qualifications and a basic level of commitment, namely that:
+
+* You can provide at least one example in which *you have shared biodiversity data through GBIF, used GBIF-mediated data, and/or advocated open data in your professional capacity*
+* You agree with the ICSU-World Data System Data Sharing Principles: in short, that data should be shared openly in a timely manner, with the fewest restrictions possible and used with proper citation.
+* You consent to have your *contact details openly available on GBIF.org*, and possibly on websites run by GBIF nodes and partners
+* You consent to be contacted by GBIF Secretariat and GBIF nodes with requests to promote open biodiversity data at particular events
+* You undertake to provide details of at least one example each year of an event, publication or process in which you have advocated for open biodiversity data
+
+  If you fit the description above, it's simple—just fill out [this](https://docs.google.com/forms/d/e/1FAIpQLSeIdy8-t98F3ZcXGJv5B6cqx_9mh_XknlCFpywkWe-ehTOZ_g/viewform) form.
 
 # GBIF translators
 
@@ -96,7 +113,13 @@ For questions regarding the Data Use Club, please contact [datause@gbif.org](mai
     <img src="{{ 'assets/img/translators.PNG' | relative_url }}" alt="translators" width="600">
 </a>
 
-https://www.gbif.org/translators
+## Can I join the GBIF translator community?
+The work of translation is never done: we are always creating new content, and we introduce small but incremental additions and adjustments to the user interface on an almost weekly basis. We often have other publications and documentation in need of translations (or updated translations), so we welcome the involvement of newcomers who can help us maintain progress in making free and open data even more widely accessible around the world.
+
+If you are interested in joining our volunteer community, please feel free to email us at communication@gbif.org. We'll discuss current priorities and arrange a time to orient you to the key tools and the most pressing tasks.
+
+If you already have experience with CrowdIn (which our community first started using in 2014 to translate the interface for the GBIF IPT), you can simply request to join the CrowdIn project for your preferred language.
+
 
 
 # Ebbe Nielsen Challenge
@@ -105,17 +128,35 @@ https://www.gbif.org/translators
     <img src="{{ 'assets/img/ebbe.PNG' | relative_url }}" alt="ebbe" width="600">
 </a>
 
+The **GBIF Ebbe Nielsen Challenge** is an annual incentive prize that seeks to inspire innovative applications of open-access biodiversity data by scientists, informaticians, data modelers, cartographers and other experts.
+
+The call for entries for the 2024 Ebbe Nielsen Challenge is now open! DEADLINE: 24 August 2024
+
+Like the Ebbe Nielsen Prize it replaced, the Challenge honours the memory of Dr Ebbe Schmidt Nielsen, an inspirational leader in the fields of biosystematics and biodiversity informatics and one of the principal founders of GBIF, who died unexpectedly just before it came into being.
+
+While the focus of the competition has evolved from year to year, Challenge entries manifest a variety of forms and approaches—new analytical research, richer policy-relevant visualizations, web and mobile applications, or improvements to processes around data digitization, quality and access.
+Allocations from the annual prize pool of €20,000 will award the first-place team with €8,000, €6,000 for second place, and €3,000 each for the third-place winners.
+
+
+<a href="https://gbif-alert-demo.thebinaryforest.net/">
+    <img src="{{ 'assets/img/ebbewinner.PNG' | relative_url }}" alt="ebbewinner" width="600">
+</a>
+
+
 # The Graduate Researchers Award
 
 <a href="https://www.gbif.org/graduate-researchers-award">
     <img src="{{ 'assets/img/award.PNG' | relative_url }}" alt="Graduate Researchers Award" width="600">
 </a>
 
-# GBIF science review
+The **Graduate Researchers Award** (previously the Young Researchers Award) is an annual programme aimed at fostering innovative research and discovery in biodiversity informatics. The GRA provides prizes to two graduate students—generally one Master’s candidate and one Ph.D candidate—nominated by GBIF Participant countries.
 
-<a href="https://www.gbif.org/science-review">
-    <img src="{{ 'assets/img/science.PNG' | relative_url }}" alt="Science review" width="600">
-</a>
+Since its inception in 2010, the Award has encouraged innovation in the use and mobilization of biodiversity data shared through the GBIF network.
+
+Calls for nominations go out each spring, and interested students must submit applications to either a national Head of Delegation or node manager from a GBIF Participant country. These national delegations may nominate a maximum of two students each year to the GBIF Secretariat.
+
+Graduate students wishing to be considered for the nominations should consult the websites of their national GBIF Participants or contact the Head of Delegation or node manager directly. The GBIF Secretariat and national Participants whose nominees are selected to receive the award announce the award winners each autumn just before the annual Governing Board meeting.
+
 
 # GBIF data use
 
@@ -123,13 +164,40 @@ https://www.gbif.org/translators
     <img src="{{ 'assets/img/datause.PNG' | relative_url }}" alt="Data use" width="600">
 </a>
 
+Data from the GBIF network is used in scientific studies published in peer-reviewed journals at a rate of more than four papers every day. Review highlights from the most recent publications drawn from the Secretariat’s ongoing literature tracking programme or check out the comprehensive literature database, which comprises more than 9,000 entries from scientific literature that cite the use of GBIF-mediated data.
+
+Based on their scientific impact, relevance and uniqueness as well as diversity in taxonomy and geography, we select and feature a handful of papers every month. These are later compiled into a printed publication—the Science Review, our annual compilation of scientific articles—partial but instructive—enhanced and supported by free and open data that the GBIF network of members and publishers make available.
+
+The applicability of free and open biodiversity data spans beyond academia, as GBIF-mediated data is also used to inform decision-making and policy—ranging from documents produced by local and national agencies—to extinction risk assessments for thousands of species on the IUCN Red List of Threatened Species— and comprehensive reports by large-scale intergovernmental and convention-based bodies—such as the Intergovernmental Panel on Climate Change **(IPCC)** and the the Intergovernmental Science-Policy Platform on Biodiversity and Ecosystem Services **(IPBES)**.
+
 # GBIF mentors and trianers
 
 <a href="https://www.gbif.org/mentors">
     <img src="{{ 'assets/img/mentors.PNG' | relative_url }}" alt="Mentors" width="600">
 </a>
 
+Mentors and trainers are a pillar of the GBIF community of practice. By sharing their expertise within the community, GBIF mentors contribute to capacity enhancement by providing support to project teams, participating in training events and by interacting with other mentors.
 
+Becoming a volunteer mentor is an opportunity to collaborate with the growing community of scientists, institutions, and networks involved in the mobilization and use of biodiversity data, and to make new connections all around the world. GBIF maintains an open call for volunteers to join this group of mentors and trainers.
+
+**Areas of expertise**
+Mentors typcially have experience in several of the following areas:
+
+* Biodiversity data mobilization
+* Biodiversity data management
+* Biodiversity data publishing
+* Biodiversity data analysis and use
+* Node development
+
+## Become a GBIF mentor
+
+1. [Volunteer](https://www.survey-xact.dk/LinkCollector?key=4JGPQUF1S635)
+2. Complete the mentor certification after your application has been reviewed.
+3. Join the [GBIF Community Forum](https://discourse.gbif.org/) and participate in the )[discussions](https://discourse.gbif.org/c/mentors with other mentors on the community forum.
+4. Answer occasional calls to mentors to participate in capacity support activities as project mentors and/or workshop mentors and trainers.
+
+
+![image](https://github.com/DimEvil/croment/assets/3965195/6ad69105-3446-411f-a0e5-d85d63ce33fe)
 
 
 

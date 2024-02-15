@@ -24,11 +24,18 @@ The national Node and the entire GBIF community will help you to succeed.
 If you wish to provide feedback please use [this post-workshop survey](https://forms.gle/B5SGBLDePFWfbVCj9){:target="_blank"}.
 
 ---
+## GBIF's Technical Support Hour
+The theme for March session of the Technical Support Hour for nodes is **GBIF’s data quality workflow**. We will go through how published data is processed in terms of quality checks, show how you can get an overview of the flags and issues of datasets, how users provide publically accessible feedback and how you can navigate the feedback yourself. 
+### [Registration](https://www.gbif.org/event/123JskXfrvbKFD9P9zmgCi/technical-support-hour-for-gbif-nodes-march-2024)
+
+The event will take place on the **6th of March 2024 at 4pm CET (UTC+1)**
+
+---
 ## Further readings
 This section cover some useful links grouped by topics.
 
 ## GBIF documentation
-### key documents
+### Key documents
 * [Memorandum of Understanding](https://www.gbif.org/document/80661/gbif-memorandum-of-understanding)
 * [Data Publisher agreement](https://www.gbif.org/terms/data-publisher)
 * [Quick guide to publishing data through GBIF.org](https://www.gbif.org/publishing-data)
@@ -36,7 +43,7 @@ This section cover some useful links grouped by topics.
 * [Citations guidelines](https://www.gbif.org/citation-guidelines)
 * [IPT: The Integrated Publishing Toolkit](https://www.gbif.org/ipt)
 
-### other useful resources
+### Other useful resources
 * [Data Use club](https://www.gbif.org/data-use-club)
 * [Training and learning resources](https://www.gbif.org/training)
 * [Tools Registry](https://www.gbif.org/resource/search?contentType=tool)
