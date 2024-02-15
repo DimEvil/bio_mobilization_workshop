@@ -41,6 +41,10 @@ To give yourself an introduction to how the IPT can be used to publish biodivers
 <img src="{{ '/assets/img/bbpf-ipt.png' | relative_url }}" alt="Alternate Text" />
 </a>
 
+![Announcement](https://github.com/DimEvil/croment/assets/3965195/7bcb145f-fcb9-4970-ba61-0bb49d8ec9e9){: .image-with-shadow }
+
+
+
 # Prerequisites
 
 You require an account on a GBIF Integrated Publishing Toolkit (IPT) to publish your data.
@@ -92,8 +96,8 @@ To publish your data, follow the 7 steps below.
 
 > ## Exercises 1: Publish this occurrence dataset (dwc-a) on the Croatian IPT [ipt.bioportal.hr](https://ipt.bioportal.hr)
 > 
-> Most of the work on the publication of the data lies in the data cleaning, mapping and the description of the dataset. Once a Darwin Core archive was generated, it is fairly simple to  publish it again, on another IPT for example.
-> Publish [this](https://doi.org/10.15468/5jkd4t) dataset, "already published by the Croatian Faculty of science (which is already a GBIF data publisher) on the GBIF ECA Cloud IPT" again on the Croatian IPT. Make sure you are logged in on the IPT instance.
+> Most of the work on the publication of the data lies in the data cleaning, mapping and the description of the dataset. Once a Darwin Core archive was generated, it is fairly simple to  publish it again, on another IPT for example. <br>
+> Publish [this](https://doi.org/10.15468/5jkd4t) dataset, "already published by the Croatian Faculty of science (which is already a GBIF data publisher) on the GBIF ECA Cloud IPT" again on the Croatian IPT. Make sure you are logged in on the IPT instance. <br>
 > You should have recieved a pswdr and a login to the Croatian IPT instance. 
 >
 > > ## Solution
@@ -111,10 +115,10 @@ To publish your data, follow the 7 steps below.
 
 > ## Exercises 2: Publish this occurrence dataset on the Croatian IPT [ipt.bioportal.hr](https://ipt.bioportal.hr)
 > 
-> Unfortunately, in most cases you will not have a DwC-a file availble, meaning, that you should, together with the data researcher or person who would like to publish his or her data to GBIF, create a dwc-a. The IPT is a good tool to create dwc-archives. (There are also other tools available [here for example](https://ipt.gbif.org/manual/en/ipt/latest/dwca-guide#publishing-dwc-a-manually) but we do not recommend this. For this exercise we prepared all the files needed to generate a dwc-a.
-> Make sure you are logged in on the IPT instance.
-> You should have recieved a pswdr and a login to the Croatian IPT instance. 
-> You can find an occurrence file [here]({{ page.root }}/data/occurrence_snals.csv) 
+> Unfortunately, in most cases you will not have a DwC-a file availble, meaning, that you should, together with the data researcher or person who would like to publish his or her data to GBIF, create a dwc-a. <br> The IPT is a good tool to create dwc-archives. (There are also other tools available [here for example](https://ipt.gbif.org/manual/en/ipt/latest/dwca-guide#publishing-dwc-a-manually) but we do not recommend this. <br> For this exercise we prepared all the files needed to generate a dwc-a.
+> Make sure you are logged in on the IPT instance. <br>
+> You should have recieved a pswdr and a login to the Croatian IPT instance. <br>
+> You can find an occurrence file [here]({{ page.root }}/data/occurrence_snails.csv) <br>
 > You can find the metadata [here](https://docs.google.com/document/d/1m5dgtcwsmPxdWpZbbgb9aa2ncWXhI197/edit?usp=sharing&ouid=106540432290122943029&rtpof=true&sd=true) **Copy paste only the minimal set of information on the right place in the IPT**
 >
 > > ## Solution
@@ -133,20 +137,54 @@ To publish your data, follow the 7 steps below.
 
 > ## Exercises 3: Publish this sample based dataset dataset on the Croatian IPT [ipt.bioportal.hr](https://ipt.bioportal.hr)
 > 
-> The [GBIF website](https://www.gbif.org/) has pages dedicated to countries/economies, including for countries/economies that do not yet participate in GBIF. You can use the search box on the homepage to look up a country/organization.
+> Unfortunately, in most cases you will not have a DwC-a file availble, meaning, that you should, together with the data researcher or person who would like to publish his or her data to GBIF, create a dwc-a. <br> The IPT is a good tool to create dwc-archives.  For this exercise we prepared all the files needed to generate a dwc-a.
+> Make sure you are logged in on the IPT instance. <br>
+> You should have recieved a pswdr and a login to the Croatian IPT instance. <br>
+> You can find an occurrence file here [occurrence]({{ page.root }}/data/occurrence_odonata.csv) <br>
+> You can find the event file here [event]({{ page.root }}/data/event_odonata.csv) <br>
+> You can find the metadata [here](https://docs.google.com/document/d/1rwI5zFHLyYv0tFx5dxaWrWEy6DFpcEB2nAeyVkzQPF4/edit?usp=sharing) **Copy paste only the minimal set of information on the right place in the IPT**
 >
 > > ## Solution
-> > 1. [Find Croatia on this map](https://www.gbif.org/the-gbif-network)
+> > 1. go to the tab `manage resources`
+> > 2. create a new dataset `Create new dataset`
+> > 3. provide a new shortname
+> > 4. select type `sampling event` and push `create`
+> > 5. deal with `source data` add both files to the IPT
+> > 6. deal with `darwin core mappings` for the occurrence file
+> > 7. deal with `darwin core mappings` for the event file
+> > 8. deal with  `metadata`  *also here, only copy paste the minimum needed*
+> > 9. publish your dataset
+> > 10. change visibility to `public`
+> > 11. register your dataset (not needed in this exercise)
+> > 12. Click `publish` to finish this exercise
 > {: .solution}
 {: .challenge}
 
 
 > ## Exercises 4: Publish this checklist dataset dataset on the Croatian IPT [ipt.bioportal.hr](https://ipt.bioportal.hr)
 > 
-> The [GBIF website](https://www.gbif.org/) has pages dedicated to countries/economies, including for countries/economies that do not yet participate in GBIF. You can use the search box on the homepage to look up a country/organization.
+> Now, we will publish a checklist data on on the IPT. A checklist is a 3rd type of dataset you can publish on Global Biodiversity Information Facility. A cheklist has no occurrences as the core file, but the species (the taxon) is at the centre of the star scheme.    For this exercise we prepared all the files needed to generate a dwc-a.
+> Make sure you are logged in on the IPT instance. <br>
+> You should have recieved a pswdr and a login to the Croatian IPT instance. <br>
+> You can find all the needed data here: [TrIAS](https://github.com/trias-project/ad-hoc-checklist/tree/master/data/processed) The TrIAS cheklist is a live 'cheklist' which is regurlaly updated through `Github actions` and an automatic update function in the IPT. <br>
+> You can donwload the needed files from Github. If you want to make sure your published datsets is always up to date, you can use the raw online files as a source file [raw Github content](https://raw.githubusercontent.com/trias-project/ad-hoc-checklist/master/data/processed/taxon.csv)
+> For this checklist, we have a taxon, description, distribution, speciesprofile and references file. Only use (download) the taxon, description and spieciesprofile file for this exercise.
+> You can find the metadata [here](https://www.gbif.org/dataset/1f3505cd-5d98-4e23-bd3b-ffe59d05d7c2) **Copy paste only the minimal set of information on the right place in the IPT**
 >
 > > ## Solution
-> > 1. [Find Croatia on this map](https://www.gbif.org/the-gbif-network)
+> > 1. go to the tab `manage resources`
+> > 2. create a new dataset `Create new dataset`
+> > 3. provide a new shortname
+> > 4. select type `checklist` and push `create`
+> > 5. deal with the `source data` import all files in the IPT. In the IPT, for taxon choose `source data is url` instead of file and use this url [raw Github content](https://raw.githubusercontent.com/trias-project/ad-hoc-checklist/master/data/processed/taxon.csv)
+> > 6. deal with `darwin core mappings` for the `distribution` file
+> > 7. deal with `darwin core mappings` for the `distribution` file
+> > 8. deal with `darwin core mappings` for the `profile` file
+> > 9. deal with  `metadata`  *also here, only copy paste the minimum needed*
+> > 10. publish your dataset
+> > 11. change visibility to `public`
+> > 12. register your dataset (not needed in this exercise)
+> > 13. Click `publish` to finish this exercise
 > {: .solution}
 {: .challenge}
 
