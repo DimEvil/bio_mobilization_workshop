@@ -1,0 +1,345 @@
+taxonID,identifier,bibliographicCitation
+ad-hoc-checklist:taxon:00173d67b213ebc5eb0c1a29b7e422dc,https://www.natuurhulpcentrum.be/wie-het-kleine-niet-eert-/,https://www.natuurhulpcentrum.be/wie-het-kleine-niet-eert-/
+ad-hoc-checklist:taxon:00173d67b213ebc5eb0c1a29b7e422dc,,Matthieu Bufkens
+ad-hoc-checklist:taxon:007b4b6cff9853744af4bac5faf03b72,,"Vanderweyen A & Fraiture A (2014) Catalogue des Ustilaginales sl de Belgique. Lejeunia, Revue de Botanique."
+ad-hoc-checklist:taxon:0338bf66bffd36ae51953987b1e327cd,,Stieperaere & Jacques 1995
+ad-hoc-checklist:taxon:0338bf66bffd36ae51953987b1e327cd,,"De Zuttere Ph. & Schumacker R., 1980. L'extension d'Orthodontium lineare Schw?gr. subsp. lineare en Belgique et au Grand-Duch? de Luxembourg. Dumortiera 14-15 :15-22."
+ad-hoc-checklist:taxon:04550900e0ce353b63b12f0efb7a5a0d,,"Swinnen et al., 1998"
+ad-hoc-checklist:taxon:04f0fa33aab56bd2c92b381eeda83b7b,,"Adriaens, T., E. Branquart, and D. Maes. 2003. The Multicoloured Asian Ladybird Harmonia axyridis Pallas (Coleoptera : Coccinellidae), a threat for native aphid predators in Belgium? Belgian Journal of Zoology 133:195-196."
+ad-hoc-checklist:taxon:04f0fa33aab56bd2c92b381eeda83b7b,https://doi.org/10.1007/s10526-007-9137-6,"Adriaens, T., G. M. Y. Gomez, and D. Maes. 2008. Invasion history, habitat preferences and phenology of the invasive ladybird Harmonia axyridis in Belgium. BioControl 53:69-88. https://doi.org/10.1007/s10526-007-9137-6"
+ad-hoc-checklist:taxon:05fac09d962d4db66a618110aab48f8e,https://www.natuurpunt.be/nieuws/favolaschia-calocera-een-nieuwkomer-uit-de-tropen-20191031,https://www.natuurpunt.be/nieuws/favolaschia-calocera-een-nieuwkomer-uit-de-tropen-20191031
+ad-hoc-checklist:taxon:0bcd26f38390fe99c643104b28217c02,,"Vanuytven, H. 2004. Achaearanea acoreensis (Berland, 1932), een zuiderse immigrant (Araneae, Theridiidae). Nieuwsbrief van de Belgische Arachnologische Vereniging, 19(3):85-86."
+ad-hoc-checklist:taxon:0bd36fa88a3080c7e98593020f71fb91,,"Dozieres, A., Pisanu, B., Gerriet, O., Lapeyre, C., Stuyck, J. & Cha- ` puis, J.-L. (2010) Macroparasites of Pallas’s squirrels, Callosciurus erythraeus, introduced into Europe. Veterinary Parasitology, 172, 172–176."
+ad-hoc-checklist:taxon:0c00a7f95bf886620aaf230ef19c4702,,"Dekoninck, W, Maelfait, J-P, Vankerkhoven, F, Baugnée, J-Y, and Grootaert, P, 2006. An update of the clecklist of the Belgian ant fauna with comments on new species for the country (Hymenoptera, Formicidae). Belgian Journal of Entomology 8, 27-41."
+ad-hoc-checklist:taxon:0c166dc873f97eab93817203eac24df6,https://www.natuurpunt.be/nieuws/tropische-beurszwam-voor-het-eerst-belgi%C3%AB-20181027,https://www.natuurpunt.be/nieuws/tropische-beurszwam-voor-het-eerst-belgi%C3%AB-20181027
+ad-hoc-checklist:taxon:0cf152a392bb98b8dca84f219e8099f5,,"Bosselaers, J., 2013. An alien in the grapes: a potentially agressive African spider imported into Belgium. Nieuwsbrief van de Belgische Arachnologische Vereniging, 28: 22-28."
+ad-hoc-checklist:taxon:0dd3e2449fdc2910d308e6f56e22a8f0,,"Lock, K. (2006) Belgian Thysanoptera in the collections of the royal belgian institute of natural sciences. Bulletin de la Société royale belge d’Entomologie/Bulletin van de Koninklijke Belgische Vereniging voor Entomologie 142: 34-37"
+ad-hoc-checklist:taxon:0e0462e484d3f0bbb46899c33a86728e,,Tom Van den Neucker
+ad-hoc-checklist:taxon:0fe00308f2274b539fd7ffc022fec1ed,,SOS reptiel
+ad-hoc-checklist:taxon:10b25b3a18eaac42cac983b0ad76cf5b,,"Adriaens, T., and G. De Knijf. 2015. A first report of introduced non-native damselfly species (Zygoptera, Coenagrionidae) for Belgium. Belg. J. Zool 145:76-80."
+ad-hoc-checklist:taxon:10eddc4a0f489767d644ad73a2551805,https://doi.org/10.1051/kmae/2016040,"Van den Neucker T, Schildermans T, Scheers K. 2017. The invasive Chinese mystery snail Bellamya chinensis (Gastropoda: Viviparidae) expands its European range to Belgium. Knowl. Manag. Aquat. Ecosyst., 418, 8. https://doi.org/10.1051/kmae/2016040"
+ad-hoc-checklist:taxon:10f2c21e38d910bcc489e526cb5706da,,"Swinnen et al., 1998"
+ad-hoc-checklist:taxon:11f754026fc161e815b828b2126129f7,,Anonymus 2008
+ad-hoc-checklist:taxon:12f3f7396362d8052953e9d2e6a8bd6e,https://www.rtlnieuws.nl/nieuws/buitenland/artikel/4874306/belgische-brandweer-vindt-slangen-van-het-meest-giftige-soort,https://www.rtlnieuws.nl/nieuws/buitenland/artikel/4874306/belgische-brandweer-vindt-slangen-van-het-meest-giftige-soort
+ad-hoc-checklist:taxon:13804ff422c60a29bcdec99bf90e6a6b,,"Dozieres, A., Pisanu, B., Gerriet, O., Lapeyre, C., Stuyck, J. & Cha- ` puis, J.-L. (2010) Macroparasites of Pallas’s squirrels, Callosciurus erythraeus, introduced into Europe. Veterinary Parasitology, 172, 172–176."
+ad-hoc-checklist:taxon:14a886aa3e70d20c19b95089e84cf719,https://www.gbif.org/occurrence/download/0055570-200613084148143,https://www.gbif.org/occurrence/download/0055570-200613084148143
+ad-hoc-checklist:taxon:14de6c057a4723e3fda744e7ac82e408,,Tom Van den Neucker
+ad-hoc-checklist:taxon:163341620b597b184210c02024ddb74e,,"Van Keer, K. 2010. An update on the verified reports of imported spiders (Araneae) from Belgium. Nieuwsbrief van de Belgische Arachnologische Vereniging, 25(3): 210-214."
+ad-hoc-checklist:taxon:164b5379d3a5474bbc46a2b412e7c4b8,,"Van Keer, K. 2007. Exotic spiders (Araneae): Verified reports from Belgium of imported species (1976-2006) and some notes on apparent neozoan invasive species. Nieuwsbrief van de Belgische Arachnologische Vereniging, 22(2):45-54."
+ad-hoc-checklist:taxon:173853858071ce0d5c9852c9199a45e0,,"Van Keer, K. 2007. Exotic spiders (Araneae): Verified reports from Belgium of imported species (1976-2006) and some notes on apparent neozoan invasive species. Nieuwsbrief van de Belgische Arachnologische Vereniging, 22(2):45-54."
+ad-hoc-checklist:taxon:1759b41fa48313553d1fbf670a8f5a07,https://www.gbif.org/occurrence/download/0055570-200613084148143,https://www.gbif.org/occurrence/download/0055570-200613084148143
+ad-hoc-checklist:taxon:17ac6361b3856c9e3969b996536956c0,,"Lays, P. Chrysolina americana a Mediterranean leaf-beetle species recorded for the first time in Belgium. Bulletin en Annalen van de Koninklijke Belgische Vereniging voor Entomologie (1988)."
+ad-hoc-checklist:taxon:17d369e9c1242ea84a1eb4619371f3f4,,"Van Keer, K. 2007. Exotic spiders (Araneae): Verified reports from Belgium of imported species (1976-2006) and some notes on apparent neozoan invasive species. Nieuwsbrief van de Belgische Arachnologische Vereniging, 22(2):45-54."
+ad-hoc-checklist:taxon:183a5311d01a271639b3f6951ddf9bcb,,"Lock, K. (2017) Bulletin de la Société royale belge d’Entomologie/Bulletin van de Koninklijke Belgische Vereniging voor Entomologie, 153 (2017): 21–22"
+ad-hoc-checklist:taxon:19bb4852670d1077cb54b1fabb7a46d8,,"Kekenbosch, R. 2008. Captures d'Hasarius adansoni (Audoin, 1826) et de Thanatus vulgaris (Simon, 1870). Nieuwsbrief van de Belgische Arachnologische Vereniging, 23(1):26-27."
+ad-hoc-checklist:taxon:1a01ace56d7703eac736da8647d74a4a,,"Dekoninck W, Pauly A., 2002, Camponotus vagus Scopoli, 1763 (Hymenoptera Formicidae) a new ant species for Belgium? Bulletin de la Société royale belge d'Entomologie; 138:29-30."
+ad-hoc-checklist:taxon:1a0dc59ccbd186216aade582fbb535cc,,"Vanderweyen A & Fraiture A (2014) Catalogue des Ustilaginales sl de Belgique. Lejeunia, Revue de Botanique."
+ad-hoc-checklist:taxon:1a241500ba58174cc3c9dddc61718d62,https://www.gbif.org/occurrence/download/0055570-200613084148143,https://www.gbif.org/occurrence/download/0055570-200613084148143
+ad-hoc-checklist:taxon:1ac9568bc799861c6e8be58c55f3db9c,,observation unpubl.
+ad-hoc-checklist:taxon:1b988f861a719376564d0cfd37c14c39,https://doi.org/10.3897/biorisk.4.49,Helen Roy & Alain Migeon (2018) BioRisk 4(1): 293–313. https://doi.org/10.3897/biorisk.4.49
+ad-hoc-checklist:taxon:1c60e51c85f9ab77fedde4e3e6141142,,"Lambrechts, J. & Janssen, M. 2001. De arachnofauna van het Vlaams natuurreservaat 'Houterenberg-Pinnekenswijer'. Nieuwsbrief van de Belgische Arachnologische Vereniging, 13(3):87-100."
+ad-hoc-checklist:taxon:1e37d2d11e5a99e56b782a719f85dbbb,,SOS reptiel
+ad-hoc-checklist:taxon:1e9f0f5e781d6e595e1b7bfae4d00b88,,in press Natuur.focus
+ad-hoc-checklist:taxon:1ec101c30e77e89cfd06a81f284b2e8d,,"Van Keer, K. & Van Keer, J. 2003. In België aangetroffen exoten (Araneae) uit de collectie J. Van Keer. Nieuwsbrief van de Belgische Arachnologische Vereniging, 18(2-3):78-83."
+ad-hoc-checklist:taxon:1ef46b04926b945e9a385a21f1e3c8ec,,"Alderweireldt, M. 1996. Evarcha jucunda (Lucas), nieuw voor de Belgische fauna (Araneae: Salticidae): introductie, zwerver of noordwaartse areaalsuitbreiding. Nieuwsbrief van de Belgische Arachnologische Vereniging, 11(3):79-80."
+ad-hoc-checklist:taxon:1f84bf295d56bbb2c32cfb0af34a1287,,ARABEL exotendatabank (2018-08-10)
+ad-hoc-checklist:taxon:21004d75bf5dc504406ab6d514d82757,,"Van Keer, K. & Van Keer, J. 2001. Ingeburgerde exotische trilspinnen (Araneae: Pholcidae) in Antwerpse haven en enkele algemene bedenkingen bij spinnenmigratie. Nieuwsbrief van de Belgische Arachnologische Vereniging, 16(3):81-86."
+ad-hoc-checklist:taxon:22ce15323197a68255c063f4b66c1d9f,,VLIZ list
+ad-hoc-checklist:taxon:232783d30768c372cce1c3e484411942,,"Sablon et al., 2010"
+ad-hoc-checklist:taxon:239656281010685895ee460bb2a5d3b8,https://www.hln.be/nieuws/binnenland/visser-vangt-uiterst-giftige-amerikaanse-ratelslang-in-minderhout~ad28a08e/,https://www.hln.be/nieuws/binnenland/visser-vangt-uiterst-giftige-amerikaanse-ratelslang-in-minderhout~ad28a08e/
+ad-hoc-checklist:taxon:23a192c63089427588695c2c52467910,,Steeman & Veraghtert 2011 Natuur.Focus
+ad-hoc-checklist:taxon:246d6fa8692126881dbd6aa3fcf5f0a1,https://www.natuurpunt.be/nieuws/vijgenskeletteermot-profiteert-van-vijgenbomen-tuinen-20170607,https://www.natuurpunt.be/nieuws/vijgenskeletteermot-profiteert-van-vijgenbomen-tuinen-20170607
+ad-hoc-checklist:taxon:249b676598228522cfbfc3292c772148,,"Polk PH, Van Oye P (1956) Studie der Landisopoden in België: systematisch-oecologisch. Licenciaatsverhandeling 1956. Universiteit Gent."
+ad-hoc-checklist:taxon:24d4a2b0a38490cb84695fc57036b473,https://www.natuurpunt.be/nieuws/spoorkrekel-duikt-voor-het-eerst-op-belgië-20180830,https://www.natuurpunt.be/nieuws/spoorkrekel-duikt-voor-het-eerst-op-belgië-20180830
+ad-hoc-checklist:taxon:26674daaa2dbc0076155a4c1bc9771a3,,"Casaer, J., Boone, N., Devisscher, S., Vercammen J., Adriaens T. (2015). Best practice voor beheer van Chinese muntjak Muntiacus reevesi in Vlaanderen. Rapporten van het Instituut voor Natuur- en Bosonderzoek 2015 (INBO.R.2015.7092003). Instituut voor Natuur- en Bosonderzoek, Brussel."
+ad-hoc-checklist:taxon:26b25c88b457341c87edb0dbca4bdcba,,Jooris & Lehouck 2007. De Muurhagedis in Vlaanderen.  Natuur.Focus 6(4): 123-129
+ad-hoc-checklist:taxon:26b25c88b457341c87edb0dbca4bdcba,,Jooris & Lehouck 2007. De Muurhagedis in Vlaandern. Natuur.Focus 6(4): 123-129
+ad-hoc-checklist:taxon:275025010e3bea243fa9ce9532ec6d72,http://www.zoogdierwinkel.nl/sites/default/files/imce/nieuwesite/Winkel/pdf%20download/Zoogdier_Jaargang_19_2_2008_JUN_0.pdf,Van den Berge Zoogdier http://www.zoogdierwinkel.nl/sites/default/files/imce/nieuwesite/Winkel/pdf%20download/Zoogdier_Jaargang_19_2_2008_JUN_0.pdf
+ad-hoc-checklist:taxon:2772197eb7786a8da331440c09e79155,,bopco
+ad-hoc-checklist:taxon:292a4951cbdd8cc0118e5d53af1ed84e,,unpubl. data
+ad-hoc-checklist:taxon:2a57b5e6ede563a0ccf6a9d83d599c2d,,"Dekoninck, W, Lock, K, and Janssens, F., 2007. Eur. J. Entomol. 104, 159-161."
+ad-hoc-checklist:taxon:2a57b5e6ede563a0ccf6a9d83d599c2d,,"Dekoninck W, De Baere C, Mertens J & Maelfait J-P, 2002. On the arrival of the Asian invader ant Lasius neglectus in Belgium (Hymenoptera: Formicidae). Bulletin S.R.B.E./K.B.V.E., 138: 45-48."
+ad-hoc-checklist:taxon:2afa7ada35e7ffa8f23de43c9ff60a06,,ARABEL exotendatabank (2018-08-10)
+ad-hoc-checklist:taxon:2b5333bc423aaa15491b8575fbffe5b8,https://www.natuurhulpcentrum.be/slang-gevangen-in-tongeren/,https://www.natuurhulpcentrum.be/slang-gevangen-in-tongeren/
+ad-hoc-checklist:taxon:2ed5a5031f8e2cafe5bc86220bd71ee3,,Van Loen et al. 2006 rode lijst
+ad-hoc-checklist:taxon:2f3dc8f283b4402335d1911a9d948ccf,,Anonymus 2008
+ad-hoc-checklist:taxon:30da151bf3ba5497c6b4d72f4b3bfdfd,,"Kekenbosch, J. Bosmans, R. & Baert, L. 1977. Soortenlijst der Belgische spinnen. Studiedocumenten van het Koninklijk Belgische Instituut voor Natuurwetenschappen, 11:1-36."
+ad-hoc-checklist:taxon:3112354302992e3b2942412f18824a57,,"Jooris 2001, 2005"
+ad-hoc-checklist:taxon:3112354302992e3b2942412f18824a57,,Eric Graitson
+ad-hoc-checklist:taxon:3112354302992e3b2942412f18824a57,,Adriaens et al. 2010
+ad-hoc-checklist:taxon:3112354302992e3b2942412f18824a57,,Sharifian-Fard 2011
+ad-hoc-checklist:taxon:314aeef7f38b0f092d5f40fbf139df9c,,"Dekoninck W, Hendrickx F, Dethier M, & Maelfait J-P, 2010. Spontaneous afforestation endangers the special ant fauna of abandoned quarries along the river Meuse (Wallonia, Belgium). Restoration Ecology, 18(5): 681-690."
+ad-hoc-checklist:taxon:32dc2e18733fffa92ba4e1b35d03c4e2,,"Van Goethem & Sablon, 1986"
+ad-hoc-checklist:taxon:335232c3b360c557a5986df287dab330,,"Jelinek J et al. (2016) Epuraea imperialis (Reitter, 1877). New invasive species of Nitidulidae (Coleoptera) in Europe, with a checklist of sap beetles introduced to Europe and Mediterranean areas. AAPP"
+ad-hoc-checklist:taxon:335232c3b360c557a5986df287dab330,https://doi.org/10.1478/AAPP.942A4,"Physical, Mathematical, and Natural Sciences, 94(2): 1-24. https://doi.org/10.1478/AAPP.942A4"
+ad-hoc-checklist:taxon:34578d09afa85247cfc1d1d993e85f23,,Anonymus 2008
+ad-hoc-checklist:taxon:36180715bd5c03110cb4a4c0f46af524,https://www.hln.be/in-de-buurt/gent/baby-van-gevaarlijke-afrikaanse-boscobra-gevangen-in-houtbedrijf-haven~a053b826/,https://www.hln.be/in-de-buurt/gent/baby-van-gevaarlijke-afrikaanse-boscobra-gevangen-in-houtbedrijf-haven~a053b826/
+ad-hoc-checklist:taxon:385364b6232734897633a95d3830a630,http://www.zoogdierwinkel.nl/sites/default/files/imce/nieuwesite/Winkel/pdf%20download/Zoogdier_Jaargang_19_2_2008_JUN_0.pdf,Van den Berge Zoogdier http://www.zoogdierwinkel.nl/sites/default/files/imce/nieuwesite/Winkel/pdf%20download/Zoogdier_Jaargang_19_2_2008_JUN_0.pdf
+ad-hoc-checklist:taxon:3915fd185e789f039c7d2f648d712dbb,,"Drumont et al. 2018 Note sur quelques espèces invasives d'Otiorhynchus Germar, 1822 en Belgique (Coleoptera: Curculionidae). Bulletin de la Société royale belge d’Entomologie/Bulletin van de Koninklijke Belgische vereniging voor entomologie 154 : 97–104"
+ad-hoc-checklist:taxon:399370545673ad8c53cd8841c66b567d,,"Lock K (2010) Updated checklist of the Belgian centipedes (Chilopoda). Entomologie faunistique-Faunistic Entomology. 62 (1), 35-39"
+ad-hoc-checklist:taxon:399370545673ad8c53cd8841c66b567d,,"Lock, K. (2009) Updated checklist of the Belgian centipedes (Chilopoda). Entomologie faunistique – Faunistic Entomology 2010 (2009) 62 (1), 35-39"
+ad-hoc-checklist:taxon:3a3104e2d80a0bedc6778c8595e9b3e3,,"Chérot, F., Aukema,B., Bruers,J.& Viskens,G. (2011) Exotic species of Aradidae nad Miridae recently found in Antwerp harbour, bull KBVE 147: 15-19"
+ad-hoc-checklist:taxon:3b00b08242070ade93b08f0874f23812,,"Van Keer, K. 2010. An update on the verified reports of imported spiders (Araneae) from Belgium. Nieuwsbrief van de Belgische Arachnologische Vereniging 25(3): 210-214."
+ad-hoc-checklist:taxon:3b23d597036f327aaeaa4a423de62cac,,"Vanderweyen A & Fraiture A (2014) Catalogue des Ustilaginales sl de Belgique. Lejeunia, Revue de Botanique."
+ad-hoc-checklist:taxon:3cb6206d76ff883611673bfb18d83553,,"Verween et al., 2006, P. Jacobs unpublished"
+ad-hoc-checklist:taxon:3ccc27578f179093c30542a99baca746,https://www.hln.be/in-de-buurt/dentergem/man-ontdekt-boa-constrictor-in-zijn-dakgoot-slang-blijkt-ontsnapt-bij-de-buren~a13151f6/,https://www.hln.be/in-de-buurt/dentergem/man-ontdekt-boa-constrictor-in-zijn-dakgoot-slang-blijkt-ontsnapt-bij-de-buren~a13151f6/
+ad-hoc-checklist:taxon:3ccc27578f179093c30542a99baca746,,Matthieu Bufkens
+ad-hoc-checklist:taxon:3e2f6f1a9a929a4661c726f0e0ba821f,,"Lambeets, K., Bosmans, R. & Bonte, D. 2007. Two exotic spider species (Araneae), Zoropsis spinimana (Zoropsidae) and Saitis barbipes (Salticidae), recently found in the inner city of Ghent (Belgium). Nieuwsbrief van de Belgische Arachnologische Vereniging, 22(2):55-60."
+ad-hoc-checklist:taxon:3e2f6f1a9a929a4661c726f0e0ba821f,,ARABEL exotendatabank (2018-08-10)
+ad-hoc-checklist:taxon:3f214edea69087bb1b9ea689b6fe91bc,https://www.gbif.org/occurrence/download/0055570-200613084148143,https://www.gbif.org/occurrence/download/0055570-200613084148143
+ad-hoc-checklist:taxon:402888218efece0fe4156dd6bab66d21,,Van Loen et al. 2006 rode lijst
+ad-hoc-checklist:taxon:4034d15d25704640fbd47e492335f4f1,,"Thomaes A. 2006 Anoplophora chinensis Förster voor het eerst gevonden in België (Coleoptera, Cerambycidae). Entomo-info"
+ad-hoc-checklist:taxon:4083a806b5a17baf5aa9c992bf9fbe1c,,"De Smedt P, Arijs G, Segers S, Boeraeve P (2017) Woodlice of the green houses at Ghent Botanical Garden and Botanic Garden Meise with two new exotic species for Belgium (Isopoda: Oniscidae). Bulletin de la Société royale belge d’Entomologie/Bulletin van de Koninklijke Belgische Vereniging voor Entomologie, 153: 109-112."
+ad-hoc-checklist:taxon:41c58b038b49ee40c38efb46e5624186,https://www.gbif.org/occurrence/download/0055570-200613084148143,https://www.gbif.org/occurrence/download/0055570-200613084148143
+ad-hoc-checklist:taxon:43bd6596833aafe9e43b7301eb64318d,https://www.gbif.org/occurrence/download/0055570-200613084148143,https://www.gbif.org/occurrence/download/0055570-200613084148143
+ad-hoc-checklist:taxon:43bd6596833aafe9e43b7301eb64318d,,Eric Graitson
+ad-hoc-checklist:taxon:4415043d96d97342c001e05db58323cd,,Verreycken pers comm
+ad-hoc-checklist:taxon:468abc4fa7be8283dfdabafc557755f4,,Anonymus 2008
+ad-hoc-checklist:taxon:468abc4fa7be8283dfdabafc557755f4,https://www.gbif.org/occurrence/download/0055570-200613084148143,https://www.gbif.org/occurrence/download/0055570-200613084148143
+ad-hoc-checklist:taxon:468abc4fa7be8283dfdabafc557755f4,,Eric Graitson
+ad-hoc-checklist:taxon:46f75db2bfca28104a610984172f1d16,,"Dekoninck W. & Brouckaert D., 2011. Paratrechina longicornis an introduced ant in a subtropicaswimming pool infrastructure in Belgium. Bulletin S.R.B.E./K.B.V.E., 147: 99-101."
+ad-hoc-checklist:taxon:48855c1bd5918162569e441183521871,,"De Smedt P, Arijs G, Segers S, Boeraeve P (2017) Woodlice of the green houses at Ghent Botanical Garden and Botanic Garden Meise with two new exotic species for Belgium (Isopoda: Oniscidae). Bulletin de la Société royale belge d’Entomologie/Bulletin van de Koninklijke Belgische Vereniging voor Entomologie, 153: 109-112."
+ad-hoc-checklist:taxon:49813a076dc711cfc7346904890e425f,,"Verbeylen, G. (2003) in Verkem, S., De Maeseneer, J., Vandendriessche, B., Verbeylen, G. & Yskout, S. Zoogdieren in Vlaanderen. Ecologie en verspreiding van 1987 tot 2002. Natuurpunt Studie en JNM-Zoogdierenwerkgroep, Mechelen en Gent, België."
+ad-hoc-checklist:taxon:4a32eb37dd44f83925f95e39ee2da0a0,,Eigen waarneming
+ad-hoc-checklist:taxon:4a32eb37dd44f83925f95e39ee2da0a0,,SOS reptiel
+ad-hoc-checklist:taxon:4a32eb37dd44f83925f95e39ee2da0a0,,Matthieu Bufkens
+ad-hoc-checklist:taxon:4b23e4280a7112e321b5036cef1abbf9,https://www.hylawerkgroep.be/static/files/0048/hyla_flits_011.pdf,https://www.hylawerkgroep.be/static/files/0048/hyla_flits_011.pdf
+ad-hoc-checklist:taxon:4b5e8c4fe00adae4e59033c31cad9612,,"Merlin, J., M. Dolmans, D. Gérard, and M. Pasteels. 1992. Analyse des potentialités des coccinelles Exochomus quadripustulatus L. et Cryptolaemus montrouzieri Mulsant et tant qu'auxilliaires dans la lutte contre la cochenille Eupulvinaria hydrangea (Stenw.). Mém.Soc.R.belge Ent. 35:541-547."
+ad-hoc-checklist:taxon:4bac617a7274fd47658738252f1ba1dc,,"Van den Heuvel, R. 1988. Rhyzobius lophantae (Blaisdell), een nieuwe soort voor de Belgische fauna of een toevallig ingevoerd exemplaar ? (Coleoptera: Coccinellidae). Phegea 16:102."
+ad-hoc-checklist:taxon:4bdd5c000296901bd78781f759635b16,,"Van Keer, K. 2007. Exotic spiders (Araneae): Verified reports from Belgium of imported species (1976-2006) and some notes on apparent neozoan invasive species. Nieuwsbrief van de Belgische Arachnologische Verereniging,. 22(2):45-54."
+ad-hoc-checklist:taxon:4d096393b182afbaaf5a78eb88da67a0,,SOS reptiel
+ad-hoc-checklist:taxon:4e2541dec2336eeec3a282c9334ee949,,"Lock, K. (2006) Belgian Thysanoptera in the collections of the royal belgian institute of natural sciences. Bulletin de la Société royale belge d’Entomologie/Bulletin van de Koninklijke Belgische Vereniging voor Entomologie 142: 34-37"
+ad-hoc-checklist:taxon:4e77e6119bb0e41685890f71f924c11c,,"Lock, K. (2006) Belgian Thysanoptera in the collections of the royal belgian institute of natural sciences. Bulletin de la Société royale belge d’Entomologie/Bulletin van de Koninklijke Belgische Vereniging voor Entomologie 142: 34-37"
+ad-hoc-checklist:taxon:4ecaec0a097b02c5768d571227e9f48f,,SOS reptiel
+ad-hoc-checklist:taxon:4edb32d40c8a14a2e86435dbc9a756e0,,Versteirt et al. (2009) Introduction and Establishment of the Exotic Mosquito Species Aedes japonicus japonicus (Diptera: Culicidae) in Belgium. J. Med. Entomol. 46(6): 1464-1467 (2009)
+ad-hoc-checklist:taxon:4f2d6245c6b2a3ef82b1c29080ac3902,,"Dekoninck W, Wegnez P, Espadaler X & Grootaert P, 2006. First record of infestation of the ghost ant Tapinoma melanocephalum (Fabricius, 1793) in Belgium (Hymenoptera, Formicidae) – a new indoor pest problem for the country? Bulletin S.R.B.E./K.B.V.E., 142: 25-28."
+ad-hoc-checklist:taxon:508326799a9dbe6daceb5003f1ccc8b3,,"paper Tim De Floris; Troukens W 1991. Cacyreus marshalli Butler, 1898 aangetroffen in België (Lepidoptera: Lycaenidae). — Phegea 19: 129–131."
+ad-hoc-checklist:taxon:508326799a9dbe6daceb5003f1ccc8b3,,paper Tim De Floris
+ad-hoc-checklist:taxon:5083ba47ebf4a2aeb5fbebd0f816b379,http://uahost.uantwerpen.be/vve/Phegea/2012/Phegea40-3_62.pdf,Troukens W 2012. Een tropische verstekeling uit Mallorca: de palmmot Paysandisia archon (Lepidoptera: Castniidae). — Phegea 40(3): 62. http://uahost.uantwerpen.be/vve/Phegea/2012/Phegea40-3_62.pdf
+ad-hoc-checklist:taxon:51c001f265c9a71e54b3560f72b04361,,Jooris & Lehouck 2007. De Muurhagedis in Vlaanderen.  Natuur.Focus 6(4): 123-129
+ad-hoc-checklist:taxon:51c001f265c9a71e54b3560f72b04361,,SOS reptiel
+ad-hoc-checklist:taxon:524c058deae407e21758048d3d4149fa,,"Ronsmans, J. & Van den Neucker T. (2016) A persistent population of the chocolate-band snail Eobania vermiculata (Gastropoda: Helicidae) in Belgium. Belg. J. Zool., 146 (1): 66-68"
+ad-hoc-checklist:taxon:5479610d1ff3a0ebc7691ff3f817062b,https://www.bruzz.be/videoreeks/dinsdag-6-augustus-2019/video-exotische-hagedis-uit-josaphatpark-krijgt-opvang,https://www.bruzz.be/videoreeks/dinsdag-6-augustus-2019/video-exotische-hagedis-uit-josaphatpark-krijgt-opvang
+ad-hoc-checklist:taxon:5479610d1ff3a0ebc7691ff3f817062b,https://www.gbif.org/occurrence/download/0055570-200613084148143,https://www.gbif.org/occurrence/download/0055570-200613084148143
+ad-hoc-checklist:taxon:5514e5142190e82ca5a79eeec8b18442,,SOS reptiel
+ad-hoc-checklist:taxon:57d6dec70a1a1b277dd49d9da6b669aa,,unpubl. observation
+ad-hoc-checklist:taxon:58e54c752ab1a10d28157e225f283408,https://www.gbif.org/occurrence/download/0055570-200613084148143,https://www.gbif.org/occurrence/download/0055570-200613084148143
+ad-hoc-checklist:taxon:59464973fe73bb7ce6c6f41b8db2c469,,Anonymus 2008
+ad-hoc-checklist:taxon:59464973fe73bb7ce6c6f41b8db2c469,https://www.gbif.org/occurrence/download/0055570-200613084148143,https://www.gbif.org/occurrence/download/0055570-200613084148143
+ad-hoc-checklist:taxon:59464973fe73bb7ce6c6f41b8db2c469,,Eric Graitson
+ad-hoc-checklist:taxon:5af88cdec41200398f311e61bb98a333,,"Dozieres, A., Pisanu, B., Gerriet, O., Lapeyre, C., Stuyck, J. & Cha- ` puis, J.-L. (2010) Macroparasites of Pallas’s squirrels, Callosciurus erythraeus, introduced into Europe. Veterinary Parasitology, 172, 172–176."
+ad-hoc-checklist:taxon:5bc276d3137bc16f629b43e251aa6675,https://www.gbif.org/occurrence/download/0055570-200613084148143,https://www.gbif.org/occurrence/download/0055570-200613084148143
+ad-hoc-checklist:taxon:5d5814ec63be19cb1459889d555f1f01,,Van Loen et al. 2006 rode lijst
+ad-hoc-checklist:taxon:5e110f7f024e5d2f10cb3fd231765bb1,https://doi.org/10.1007/s10530-015-0898-z,Adriaens et al. (2015) https://doi.org/10.1007/s10530-015-0898-z
+ad-hoc-checklist:taxon:5e30dba61a767805af5a5cfca4609e3c,,SOS reptiel
+ad-hoc-checklist:taxon:5f4c8aad83dea48eb1aadf0ac0b2bd08,https://www.gbif.org/occurrence/download/0055570-200613084148143,https://www.gbif.org/occurrence/download/0055570-200613084148143
+ad-hoc-checklist:taxon:615867d3e0f187d9543e375733aa2483,,SOS reptiel
+ad-hoc-checklist:taxon:619409b42139334b2517e7b7f3024b48,,Hyla database 2015; 2019 intercepted in company importing wood products from Portugal
+ad-hoc-checklist:taxon:6216e4d9dc3ae7a225e69e9d93d7984d,,"Van Keer, K. 2007. Exotic spiders (Araneae): Verified reports from Belgium of imported species (1976-2006) and some notes on apparent neozoan invasive species. Nieuwsbrief van de Belgische Arachnologische Vereniging, 22(2):45-54."
+ad-hoc-checklist:taxon:62436bf1183beb101a2dfd7437c71783,,"Lock, K. (2006) Belgian Thysanoptera in the collections of the royal belgian institute of natural sciences. Bulletin de la Société royale belge d’Entomologie/Bulletin van de Koninklijke Belgische Vereniging voor Entomologie 142: 34-37"
+ad-hoc-checklist:taxon:62d1568b524d9f9cb99dfcecf9bf2b15,,"Dekoninck, W, Maelfait, J-P, Vankerkhoven, F, Baugnée, J-Y, and Grootaert, P, 2006. An update of the clecklist of the Belgian ant fauna with comments on new species for the country (Hymenoptera, Formicidae). Belgian Journal of Entomology 8, 27-41."
+ad-hoc-checklist:taxon:64432319aeb1c56c7f337e0985555fbc,https://doi.org/10.7872/crym.v34.iss2.2013.211,"Fraiture A, Di Giangregorio M (2013) Amanita inopinata, its ecology and expansion in Europe. Cryptogamie, Mycology 34: 211-222. https://doi.org/10.7872/crym.v34.iss2.2013.211"
+ad-hoc-checklist:taxon:67330018311a9fdc2075b24c4fde541f,,"Lock, K. (2009) Symphyla of Belgium. Entomologie faunistique – Faunistic Entomology 2010 (2009) 62 (1), 25-27"
+ad-hoc-checklist:taxon:688173963b84810187d7b83e39b2eaf4,https://www.gbif.org/occurrence/download/0055570-200613084148143,https://www.gbif.org/occurrence/download/0055570-200613084148143
+ad-hoc-checklist:taxon:69026a56e42fa41725789b1f832d09ed,,"Lock, K. (2016) Bulletin de la Société royale belge d’Entomologie/Bulletin van de Koninklijke Belgische Vereniging voor Entomologie, 152 (2016): 22-24"
+ad-hoc-checklist:taxon:69c04e84e8c6abc981ad1c57068556cb,,Hyla database
+ad-hoc-checklist:taxon:69e7b4c6116f93ea9122a68edc53bc4e,,Tom Van den Neucker
+ad-hoc-checklist:taxon:6ace4f4bb6441dcd4d979df6325d1892,http://www.formicidae-atlas.be,http://www.formicidae-atlas.be
+ad-hoc-checklist:taxon:6ace4f4bb6441dcd4d979df6325d1892,,Dekoninck et al 2012 ATLAS België
+ad-hoc-checklist:taxon:6ace4f4bb6441dcd4d979df6325d1892,,"Boer P, Blommaart J, Huijbregts H, van Nunen F, and Vorst O, 2006. De compostmier Hypoponera punctatissima in het vrije veld. Entomologische Berichten Amsterdam 66(2), 56-57."
+ad-hoc-checklist:taxon:6b55ee7cd04dbbc71b04f89d78270b35,,"Van Keer, K. 2007. Exotic spiders (Araneae): Verified reports from Belgium of imported species (1976-2006) and some notes on apparent neozoan invasive species. Nieuwsbrief van de Belgische Arachnologische Vereniging, 22(2):45-54."
+ad-hoc-checklist:taxon:6c1816c0602c00c997f8a5c2e122f794,,Aukema et al. 2007 Bull Soc Roy Ent
+ad-hoc-checklist:taxon:6c4815cf6cffb1dc157c0eff5c4b4bb4,https://www.natuurhulpcentrum.be/giftige-aspisadder-reist-mee-naar-belgie-/,https://www.natuurhulpcentrum.be/giftige-aspisadder-reist-mee-naar-belgie-/
+ad-hoc-checklist:taxon:6cdf6abf6caf98b7f2d8228cc3ad99f7,,"Sablon et al., 2010"
+ad-hoc-checklist:taxon:6d9eac590ac3de9e2e6ef6c11a8a5c7e,https://doi.org/10.1094/PDIS-08-12-0720-PDN,"Vandamme N, Waeyenberge L, Viaene N (2013) First report of the root-knot nematode Meloidogyne artiellia in Belgium. Plant Disease 97: 152. https://doi.org/10.1094/PDIS-08-12-0720-PDN"
+ad-hoc-checklist:taxon:6d9eac590ac3de9e2e6ef6c11a8a5c7e,https://doi.org/10.1094/PDIS-08-12-0720-PDN,https://doi.org/10.1094/PDIS-08-12-0720-PDN
+ad-hoc-checklist:taxon:6e03c46a977ea6811bbca90d01a92bb6,,pers. comm. Floris Verhaeghe
+ad-hoc-checklist:taxon:6e410f3380f2cfc7068101333e9b5d00,,Kerckhof_2002_BulletinKBIN
+ad-hoc-checklist:taxon:707a067a21bc7b940940d58534893425,,"Benoit, P.L.G. 1968. La présence en Belgique d'araignées vénimeuses du genre Latrodectus Walck. Africa Tervuren XIV."
+ad-hoc-checklist:taxon:707a067a21bc7b940940d58534893425,,"Van Keer, K. 2007. Exotic spiders (Araneae): Verified reports from Belgium of imported species (1976-2006) and some notes on apparent neozoan invasive species. Nieuwsbrief van de Belgische Arachnologische Vereniging, 22(2):45-54."
+ad-hoc-checklist:taxon:718ac229a5940fb707b108c5e188dfcb,,"Breine J.J., Van den Bergh E., Terrie T., Lambeens I., Maes Y., Galle L., Verreycken H. (2019). First record of the target fish, Terapon jarbua (Forsskål, 1775) in the Zeeschelde, Belgium. Estuarine, Coastal and Shelf Science 222:151-153."
+ad-hoc-checklist:taxon:719161a196f8f1ebf2d83912e20d210d,,"Bosmans, R. & Vanuytven, H. 1998. Eperigone eschatologica een Amerikaanse immigrant in West-Europa (Araneae, Erigonidae). Nieuwsbrief van de Belgische Arachnologische Vereniging, 13(1):15-16."
+ad-hoc-checklist:taxon:71f36fb35748959ca2792f88bed8f23c,,Own observation
+ad-hoc-checklist:taxon:73b5add7de9b055b15905ae42e47637a,,ARABEL exotendatabank (2018-08-10)
+ad-hoc-checklist:taxon:7436a78b866499d58324df221e4ec344,,"Van Keer, K., De Koninck, H., Vanuytven, H. & Van Keer, J. 2006. Some -mostly southern European- spider species (Araneae), new or rare to the Belgian fauna, found in the city of Antwerp. Nieuwsbrief van de Belgische Arachnologische Vereniging, 21(2):33-40."
+ad-hoc-checklist:taxon:74b25254434e727a0212512792e97d52,https://www.gbif.org/occurrence/download/0055570-200613084148143,https://www.gbif.org/occurrence/download/0055570-200613084148143
+ad-hoc-checklist:taxon:7502c17e7ce37cd4edd8a62b7ff6b723,,"DELBOL, M. (2013). Catalogue des Curculionoidea de Belgique (Coleoptera: Polyphaga). Belgian journal of entomology, 13, 1-95."
+ad-hoc-checklist:taxon:75989a27ab8b5bb055f8eaa4bddbc6bd,,Stieperaere & Jacques 1995
+ad-hoc-checklist:taxon:766bd661f426861a72e3bcf41913cdbb,,"Vanderweyen A & Fraiture A (2014) Catalogue des Ustilaginales sl de Belgique. Lejeunia, Revue de Botanique."
+ad-hoc-checklist:taxon:7755fc64fafe2f680dc851e927acec8e,,Jooris & Lehouck 2007. De Muurhagedis in Vlaanderen.  Natuur.Focus 6(4): 123-129
+ad-hoc-checklist:taxon:7755fc64fafe2f680dc851e927acec8e,,Matthieu Bufkens
+ad-hoc-checklist:taxon:77ccd0407b41a5dde7f2a574433a2d4b,,"Drumont et al. 2018 Note sur quelques espèces invasives d'Otiorhynchus Germar, 1822 en Belgique (Coleoptera: Curculionidae). Bulletin de la Société royale belge d’Entomologie/Bulletin van de Koninklijke Belgische vereniging voor entomologie 154 : 97–104"
+ad-hoc-checklist:taxon:78721c109a08e351615b414e81c8ba33,,"De Smedt P, Arijs G, Segers S, Boeraeve P (2017) Woodlice of the green houses at Ghent Botanical Garden and Botanic Garden Meise with two new exotic species for Belgium (Isopoda: Oniscidae). Bulletin de la Société royale belge d’Entomologie/Bulletin van de Koninklijke Belgische Vereniging voor Entomologie, 153: 109-112."
+ad-hoc-checklist:taxon:797b7793e700846ab8f407d68e6ea06a,,"Vanuytven, H. 2000. Spermophora senoculata (Dugés, 1836), alweer een in België ingevoerde soort (Araneae: Pholcidae). Nieuwsbrief van de Belgische Arachnologische Vereniging, 15(1):1-2."
+ad-hoc-checklist:taxon:7adb36eb57a395c0809e0b8c554c5186,,VOC Malderen
+ad-hoc-checklist:taxon:7aea5e381c2a5a9594c555f1a1c5cd31,,"Alderweireldt, M. 2002. Reizende Salticidae: Pellenes geniculatus (Simon, 1868) nieuw voor de Belgische fauna (Araneae, Salticidae). Nieuwsbrief van de Belgische Arachnologische Vereniging, 17(3):65-66."
+ad-hoc-checklist:taxon:7bf757351f427338df3940f9aab34a25,,Van Loen et al. 2006 rode lijst
+ad-hoc-checklist:taxon:7c135fd9079e223ad0ca34d4a62d80ec,,Thonissen_Jagen
+ad-hoc-checklist:taxon:7c135fd9079e223ad0ca34d4a62d80ec,,SOS reptiel
+ad-hoc-checklist:taxon:7c9104fee9ebf9aec00717959e423e75,https://www.natuurpunt.be/nieuws/taiwanese-rattenslang-plant-zich-voort-dankzij-microklimaat-20160707;,https://www.natuurpunt.be/nieuws/taiwanese-rattenslang-plant-zich-voort-dankzij-microklimaat-20160707; https://www.natuurpunt.be/nieuws/een-beetje-china-hasselt-20181025
+ad-hoc-checklist:taxon:7dc4109a8263eea9de33e54c3a7af33e,,"Adam, 1947"
+ad-hoc-checklist:taxon:7e36f4d687be5db219fbfe1840caabad,https://www.gbif.org/occurrence/download/0055570-200613084148143,https://www.gbif.org/occurrence/download/0055570-200613084148143
+ad-hoc-checklist:taxon:7e36f4d687be5db219fbfe1840caabad,,Matthieu Bufkens
+ad-hoc-checklist:taxon:7ec84fdc7a5052ad2f87d9e86518e6dd,,"Kekenbosch, R. & Baert, L. 2013. Découverte d’Erigone dentosa (O.P.- Cambridge, 1894) (Araneae: Linyphiidae, Erigoninae) en Belgique. Nieuwsbrief van de Belgische Arachnologische Vereniging, 28(1,2): 32-34."
+ad-hoc-checklist:taxon:7f4506f8410b902e2a8717c152437b4a,,Vandewoestijne (1907). La découverte en Belgique de Placocephalus kewensis. Société Royale zoologique et malacologique de Belgique.
+ad-hoc-checklist:taxon:7f4506f8410b902e2a8717c152437b4a,,Tom Van den Neucker
+ad-hoc-checklist:taxon:7fb8eb61b344870fd5c213fb758ced9f,https://www.hln.be/wetenschap-planeet/dieren/brussel-zit-vol-verboden-schildpadden~a117b570/,https://www.hln.be/wetenschap-planeet/dieren/brussel-zit-vol-verboden-schildpadden~a117b570/
+ad-hoc-checklist:taxon:7fb8eb61b344870fd5c213fb758ced9f,https://www.gbif.org/occurrence/download/0055570-200613084148143,https://www.gbif.org/occurrence/download/0055570-200613084148143
+ad-hoc-checklist:taxon:8237b409cab033b4e94b86cc7b488bdd,https://www.nieuwsblad.be/cnt/nbra07062003_005,https://www.nieuwsblad.be/cnt/nbra07062003_005
+ad-hoc-checklist:taxon:824311a99094a22ffbfd288d1b664042,,"Aukema, B., Bruers, J., & Viskens, G. (2007). Nieuwe en zeldzame Belgische wantsen II (Hemiptera: Heteroptera). Bulletin de la Société Royale Belge d'Entomologie= Bulletin van de Koninklijke Belgische Vereniging voor Entomologie, 143, 83-91."
+ad-hoc-checklist:taxon:843f33e3e64980d12946fe852b4e0e1e,,"Verbeylen, G. (2003) in Verkem, S., De Maeseneer, J., Vandendriessche, B., Verbeylen, G. & Yskout, S. Zoogdieren in Vlaanderen. Ecologie en verspreiding van 1987 tot 2002. Natuurpunt Studie en JNM-Zoogdierenwerkgroep, Mechelen en Gent, België."
+ad-hoc-checklist:taxon:846732b11003be3bd59d2a562e474115,,"Lock, K. (2006) Belgian Thysanoptera in the collections of the royal belgian institute of natural sciences. Bulletin de la Société royale belge d’Entomologie/Bulletin van de Koninklijke Belgische Vereniging voor Entomologie 142: 34-37"
+ad-hoc-checklist:taxon:86691b2598f39264e9a3bd47e03a6c3b,http://www.zoogdierwinkel.nl/sites/default/files/imce/nieuwesite/Winkel/pdf%20download/Zoogdier_Jaargang_19_2_2008_JUN_0.pdf,Van den Berge Zoogdier http://www.zoogdierwinkel.nl/sites/default/files/imce/nieuwesite/Winkel/pdf%20download/Zoogdier_Jaargang_19_2_2008_JUN_0.pdf
+ad-hoc-checklist:taxon:86bd48e529effdadb17ae22c627a2cfc,,"Lock, K. (2006) Belgian Thysanoptera in the collections of the royal belgian institute of natural sciences. Bulletin de la Société royale belge d’Entomologie/Bulletin van de Koninklijke Belgische Vereniging voor Entomologie 142: 34-37"
+ad-hoc-checklist:taxon:88478f40930aef17317c6fd3da72d85d,,"Drumont, A., Smets, K., Scheers, K., Thomaes, A., Vandenhoudt, R. & Lodewijckx, M. (2014). Callidiellum rufipenne (Motschulsky, 1861) en Belgique: bilan de sa présence et de son installation sur notre territoire (Coleoptera, Cerambycidae, Cerambycinae). Bulletin van de Koninklijke Belgische Vereniging voor Entomologie 150 (3): 239-249."
+ad-hoc-checklist:taxon:88627d76bc3654a2ed35457cf7523ca5,,"Adam, 1947"
+ad-hoc-checklist:taxon:8873880655c02fba04991792070af84b,,ARABEL exotendatabank (2018-08-10)
+ad-hoc-checklist:taxon:8950c3e5fce034aa855b8e304d8e9ba0,,"Chérot, F., Aukema,B., Bruers,J.& Viskens,G. (2011) Exotic species of Aradidae nad Miridae recently found in Antwerp harbour, bull KBVE 147: 15-19"
+ad-hoc-checklist:taxon:8af8066994b713cf090e576eb71c0ec8,https://www.natuurpunt.be/nieuws/taiwanese-rattenslang-plant-zich-voort-dankzij-microklimaat-20160707;,https://www.natuurpunt.be/nieuws/taiwanese-rattenslang-plant-zich-voort-dankzij-microklimaat-20160707; https://www.natuurpunt.be/nieuws/een-beetje-china-hasselt-20181025
+ad-hoc-checklist:taxon:8be906708dd3ac00b6f4e2a51c98d60e,,VLIZ list
+ad-hoc-checklist:taxon:8c25f1e6e28f072b9a462cdd61e1fa7e,,"Van Keer, J. 1992. Achaearanea veruculata (Urquhart, 1885): nieuw voor België of toevallige gast? Nieuwsbrief van de Belgische Arachnologische Vereniging, 8(1):21."
+ad-hoc-checklist:taxon:8da36a54202d74f1e3ff0f2e53d280ed,,"Jacques & Lambinon 1968, Stieperaere & Jacques 1995"
+ad-hoc-checklist:taxon:8da36a54202d74f1e3ff0f2e53d280ed,,Stieperaere & Jacques 1995
+ad-hoc-checklist:taxon:8dba1db798ac82fd23df611226c00e36,,"Lock, K. (2006) Belgian Thysanoptera in the collections of the royal belgian institute of natural sciences. Bulletin de la Société royale belge d’Entomologie/Bulletin van de Koninklijke Belgische Vereniging voor Entomologie 142: 34-37"
+ad-hoc-checklist:taxon:8e6f5e68b5029ead23e06386a2ffe6a8,https://www.hylawerkgroep.be/static/files/0206/Groene%20kikkers%20in%20Vlaanderen%20en%20BHG%2015_07_2010.pdf,"Holsbeek et al. 2008, 2009, 2010; https://www.hylawerkgroep.be/static/files/0206/Groene%20kikkers%20in%20Vlaanderen%20en%20BHG%2015_07_2010.pdf"
+ad-hoc-checklist:taxon:8e6f5e68b5029ead23e06386a2ffe6a8,,Eric Graitson
+ad-hoc-checklist:taxon:9103d24bd38c199b9bfb760a140d9c22,https://www.gbif.org/occurrence/download/0055570-200613084148143,https://www.gbif.org/occurrence/download/0055570-200613084148143
+ad-hoc-checklist:taxon:9103d24bd38c199b9bfb760a140d9c22,https://namur.lameuse.be/429768/article/2019-08-28/beaumont-les-pompiers-ont-capture-un-serpent,https://namur.lameuse.be/429768/article/2019-08-28/beaumont-les-pompiers-ont-capture-un-serpent
+ad-hoc-checklist:taxon:9156bb39d7c48d6c00015f10356c378a,,"Compère, P., 1992. Charophytes. Flora pratique des algues d’eau douce de Belgique, 4. Jardin botanique nationale de Belgique, B-1860 Meise."
+ad-hoc-checklist:taxon:91d26c444cd8116edde2f0a64f553d5f,,"Van Keer K. & Van Keer, J., 2001. Ingeburgerde exotische trilspinnen (Araneae: Pholcidae) in de Antwerpse haven en enkele algemene bedenkingen bij spinnenmigratie. Nieuwsbrief van de Belgische Arachnologische Vereniging, 16: 81-86."
+ad-hoc-checklist:taxon:91ee6ec970ae60ec93cf6fe6ce65b594,,Bondroit 1911
+ad-hoc-checklist:taxon:93b6e751b04f63ec59eb0b55743724c1,,Van Loen et al. 2006 rode lijst
+ad-hoc-checklist:taxon:93e8daa0c142afee8b7c23beaf6fd881,,"Aukema B, Bruers JM, Viskens G (2005b) A New Zealand endemic Nysius established in the NL and BE (Heteroptera: Lygaeidae). Belgian Journal of Entomology 7: 37–43."
+ad-hoc-checklist:taxon:93f032ef550764f09f06b824bfe26168,https://www.natuurpunt.be/nieuws/spaanse-ribbensalamanders-weggevangen-neeroeteren-20120710,https://www.natuurpunt.be/nieuws/spaanse-ribbensalamanders-weggevangen-neeroeteren-20120710
+ad-hoc-checklist:taxon:942b9af8aae3ca69d2016d7960dc6956,,SOS reptiel
+ad-hoc-checklist:taxon:94cdbbb3e684874566729d8941de618b,,"Falkl, S. Veldgids bijen voor Nederland en Vlaanderen. EIS Naturalis & Natuurpunt."
+ad-hoc-checklist:taxon:96d88ef770349c9178c4740fa6238967,,"Drumont et al. 2018 Note sur quelques espèces invasives d'Otiorhynchus Germar, 1822 en Belgique (Coleoptera: Curculionidae). Bulletin de la Société royale belge d’Entomologie/Bulletin van de Koninklijke Belgische vereniging voor entomologie 154 : 97–104"
+ad-hoc-checklist:taxon:9acf4ea73c290cdcdf5226cb0867d4b3,,"Segers, H. 1986. Uloborus plumipes Lucas, nieuw voor de Belgische fauna. Nieuwsbrief van de Belgische Arachnologische Vereniging, 1(1):18-19."
+ad-hoc-checklist:taxon:9d7592ff737bd1147e1ddad053f61f1e,,Jan Soors
+ad-hoc-checklist:taxon:9d7592ff737bd1147e1ddad053f61f1e,https://waarnemingen.be/species/806336/observations/?after_date=2009-08-11&before_date=2019-09-10&province=&search=&user=&location=&sex=&life_stage=&activity=&method=,wnm.be; https://waarnemingen.be/species/806336/observations/?after_date=2009-08-11&before_date=2019-09-10&province=&search=&user=&location=&sex=&life_stage=&activity=&method=
+ad-hoc-checklist:taxon:9db3ec2b2970a36239e47538fc1c1257,,"Van Keer, K. 2007. Exotic spiders (Araneae): Verified reports from Belgium of imported species (1976-2006) and some notes on apparent neozoan invasive species. Nieuwsbrief van de Belgische Arachnologische Vereniging, 22(2):45-54."
+ad-hoc-checklist:taxon:9e314e6a42d182ccfbd8c2d58095f852,,"Belpaire, C.; De Charleroy, D. (Ed.) (1985). Onderzoek naar de gezondheidstoestand van vissen bestemd voor uitzetting. Laboratorium voor Ekologie en Faunabeheer: Leuven. 32 pp."
+ad-hoc-checklist:taxon:9eac89b53b072c9d7774bf9a9c5aeb7b,,"Aukema, B., Libeer, R. (2007): Eerste waarneming van Leptoglossus occidentalis in België (Heteroptera: Coreidae). [First record of Leptoglossus occidentalis in Belgium (Heteroptera: Coreidae)]. Bulletin de la Société Royale Belge d’Entomologie / Bulletin van de Koninklijke Belgische Vereniging voor Entomologie 143: 92– 93. [in Dutch, French and English summaries without titles]."
+ad-hoc-checklist:taxon:9eac89b53b072c9d7774bf9a9c5aeb7b,https://pureportal.inbo.be/portal/files/2237142/INBO.A.2013.138.pdf,https://pureportal.inbo.be/portal/files/2237142/INBO.A.2013.138.pdf
+ad-hoc-checklist:taxon:9ff05227e4481f8f997eab5ab232e364,,"Verkem et al., 2003"
+ad-hoc-checklist:taxon:9ff05227e4481f8f997eab5ab232e364,,"Libois, R.M. (1987). Atlas des mammifères sauvages de Wallonie: le raton laveur, Procyon lotor (L., 1758). Cahiers Ethol. appl., 7 (2): 140-142."
+ad-hoc-checklist:taxon:a014122f89fe277d61cc4da345908816,,"Van Keer, K. & Van Keer, J. 2003. In België aangetroffen exoten (Araneae) uit de collectie J. Van Keer. Nieuwsbrief van de Belgische Arachnologische Vereniging, 18(2-3):78-83."
+ad-hoc-checklist:taxon:a0b463a183554c862740d146a60baa60,,"Coulon, G. (1994). Sur la decouverte en Belgique du Stelidota geminata (Say, 1825)(Coleoptera, Nitidulidae). In Bulletin et Annales de la Société Royal Belge d’Entomologie (Vol. 130, pp. 114-115)."
+ad-hoc-checklist:taxon:a1190a1b9d26fcf997617cb27b571be0,http://www.bladmineerders.be/nl/content/macrosaccus-robiniella-clemens-1859,http://www.bladmineerders.be/nl/content/macrosaccus-robiniella-clemens-1859
+ad-hoc-checklist:taxon:a2f6659d4f35ebf54be57458b7ff1e3a,https://www.gbif.org/occurrence/download/0055570-200613084148143,https://www.gbif.org/occurrence/download/0055570-200613084148143
+ad-hoc-checklist:taxon:a3bfde56eee7e6b09c5248291b4951d4,https://www.gbif.org/occurrence/download/0055570-200613084148143,https://www.gbif.org/occurrence/download/0055570-200613084148143
+ad-hoc-checklist:taxon:a3d968104cbecfd22770eef8399063a1,https://waarnemingen.be/waarneming/view/121300320,https://waarnemingen.be/waarneming/view/121300320
+ad-hoc-checklist:taxon:a4c9bbe8492ef7ef785100821f0c72ec,https://nnieuws.be/artikel/tapijtpython-zorgt-voor-paniek-pulle-vrijdagmorgen-gevonden,https://nnieuws.be/artikel/tapijtpython-zorgt-voor-paniek-pulle-vrijdagmorgen-gevonden
+ad-hoc-checklist:taxon:a7a02eb563154058a27537a52f4ede7d,,"Lambeets, K., Bosmans, R. & Bonte, D. 2007. Two exotic spider species (Araneae), Zoropsis spinimana (Zoropsidae) and Saitis barbipes (Salticidae), recently found in the inner city of Ghent (Belgium). Nieuwsbrief van de Belgische Arachnologische Vereniging, 22(2):55-60."
+ad-hoc-checklist:taxon:a9f23462ed9b096a1d5f29fdca8d089c,,Van Goethem & Backeljau 2002
+ad-hoc-checklist:taxon:aa90d71599ed98710da1e2c4a133e5d2,https://doi.org/10.1603/ME11170,"Versteirt et al. (2012) Bionomics of the Established Exotic Mosquito Species Aedes koreicus in Belgium, Europe. J. Med. Entomol. 49(6): 1226-1232. https://doi.org/10.1603/ME11170"
+ad-hoc-checklist:taxon:aad6c377da61735b1c5461e877edf03f,,Hyla databank
+ad-hoc-checklist:taxon:aca12e90b486c7ac8d79b0f1fb7eea15,,ARABEL exotendatabank (2018-08-10)
+ad-hoc-checklist:taxon:ae2435f0cb469c0b102b15f171865e23,,"Vanherke, L. Hooiwagens in België – een overzicht. Nieuwsbr. Belg. Arachnol. Ver. (2010),25(2): 138"
+ad-hoc-checklist:taxon:ae2435f0cb469c0b102b15f171865e23,,"Wijnhoven, H., Schönhofer, A.L. & Martens, J., 2007. An unidentified harvestman Leiobunum sp. alarmingly invading Europe (Opiliones). Arachnologische Mitteilungen, 34: 27-38."
+ad-hoc-checklist:taxon:ae7eec3cf884d2e57367ee05dcba4684,http://www.zoogdierwinkel.nl/sites/default/files/imce/nieuwesite/Winkel/pdf%20download/Zoogdier_Jaargang_19_2_2008_JUN_0.pdf,Van den Berge Zoogdier http://www.zoogdierwinkel.nl/sites/default/files/imce/nieuwesite/Winkel/pdf%20download/Zoogdier_Jaargang_19_2_2008_JUN_0.pdf
+ad-hoc-checklist:taxon:ae80a81ee4f076c202e981afd3d91ce4,http://www.hylawerkgroep.be/files/0048/hyla_flits_017_censuur.pdf,http://www.hylawerkgroep.be/files/0048/hyla_flits_017_censuur.pdf
+ad-hoc-checklist:taxon:ae80a81ee4f076c202e981afd3d91ce4,https://www.lacerta.de/AF/Bibliografie/BIB_8294.pdf,https://www.lacerta.de/AF/Bibliografie/BIB_8294.pdf
+ad-hoc-checklist:taxon:af4279693fdd1add7a08a04dc97d7848,,Jan Soors pers comm
+ad-hoc-checklist:taxon:af6359f8bf50c30567340c337618be96,,"Janssen, M. 1999. De ""redback"" (Latrodectus hasselti) in Limburg: verslag van een mogelijke kolonisatie. Nieuwsbrief van de Belgische Arachnologische Vereniging, 14(2-3):83-85."
+ad-hoc-checklist:taxon:afbd9b90e11231cfc51a472afec2e3bb,,"Lock, K. (2006) Belgian Thysanoptera in the collections of the royal belgian institute of natural sciences. Bulletin de la Société royale belge d’Entomologie/Bulletin van de Koninklijke Belgische Vereniging voor Entomologie 142: 34-37"
+ad-hoc-checklist:taxon:aff6ade6b4337dc7d013ff4a68cc6844,https://www.gbif.org/occurrence/download/0055570-200613084148143,https://www.gbif.org/occurrence/download/0055570-200613084148143
+ad-hoc-checklist:taxon:b1dc326d2ca46f89ddf3f841a1c4a108,,"Dekoninck, W, Maelfait, J-P, Vankerkhoven, F, Baugnée, J-Y, and Grootaert, P, 2006. An update of the clecklist of the Belgian ant fauna with comments on new species for the country (Hymenoptera, Formicidae). Belgian Journal of Entomology 8, 27-41."
+ad-hoc-checklist:taxon:b303ff59fd9219ebb30b25b2be2f5c7f,,"Dekoninck W, Ignace D & Wegnez P, 2010. Records of a new pest ant species in Belgium, Technomyrmex vitiensis Mann, 1921. Bulletin S.R.B.E./K.B.V.E., 146: 83-90."
+ad-hoc-checklist:taxon:b3937580b3480bf2a7fb31d1264dd868,,SOS reptiel
+ad-hoc-checklist:taxon:b4cf0aba64bc041909012c9a9f30af50,,"Van Keer, K., De Koninck, H., Vanuytven, H. & Van Keer, J. 2006. Some -mostly southern European- spider species (Araneae), new or rare to the Belgian fauna, found in the city of Antwerp. Nieuwsbrief van de Belgische Arachnologische Vereniging, 21(2):33-40."
+ad-hoc-checklist:taxon:b50dcf05fae1d77c615d4e36b48d4c3d,,VLIZ list
+ad-hoc-checklist:taxon:b5cde970ffbbfe292192d929676defcb,,"Adam, 1960 Adam, 1947"
+ad-hoc-checklist:taxon:b6bf32ff95c447d093d9eb83b35e9698,,SOS reptiel
+ad-hoc-checklist:taxon:b8eafdd47eb96660ec502f97130150c7,,Tom Van den Neucker
+ad-hoc-checklist:taxon:b9d94142fc7c7d6afec33a094c166798,https://waarnemingen.be/waarneming/view/149645919,https://waarnemingen.be/waarneming/view/149645919
+ad-hoc-checklist:taxon:b9d94142fc7c7d6afec33a094c166798,,"Bogaert, J. 2008. Australisch lieveheersbeestje Rhyzobius forestieri gevonden te Brussel. Coccinula 15:6-8."
+ad-hoc-checklist:taxon:ba1598720717ed0f2c48f4c5cd4ae03e,,Van Loen et al. 2006 rode lijst
+ad-hoc-checklist:taxon:ba1a355a9291fa639987093f37a520dc,,"Henrard, A., Van Keer, J. & Jocqué, R. (2014). On the spider species Oecobius amboseli Shear & Benoit, 1974 (Araneae; Oecobiidae) newly found in Belgium and Rwanda. Nieuwsbrief van de Belgische Arachnologische Vereniging, 29(1,2): 1-8."
+ad-hoc-checklist:taxon:ba1a6ff5168cf2fd8377f78c2bc0bba7,,"Drumont et al. 2018 Note sur quelques espèces invasives d'Otiorhynchus Germar, 1822 en Belgique (Coleoptera: Curculionidae). Bulletin de la Société royale belge d’Entomologie/Bulletin van de Koninklijke Belgische vereniging voor entomologie 154 : 97–104"
+ad-hoc-checklist:taxon:baa07d3d85472a0bd2764ace88c43d82,,SOS reptiel
+ad-hoc-checklist:taxon:bb4d2c2b43952801e5ee4aa52fdef223,https://www.hylawerkgroep.be/static/files/0048/hyla_flits_011.pdf,https://www.hylawerkgroep.be/static/files/0048/hyla_flits_011.pdf
+ad-hoc-checklist:taxon:bd2aa8e750928f3328aadc139fd9468c,,"Janssen, M. 1996. Merkwaardige spinnenfauna op de mijnterril te Waterschei (Limburg, België). Likona Jaarboek, 1996:37-44."
+ad-hoc-checklist:taxon:be96cf04947663eb0bf8776e9773b75a,,ARABEL exotendatabank (2018-08-10)
+ad-hoc-checklist:taxon:bf5830921f091ece6e0bddf486329fe1,,"De Blauwe, H., Faasse, M. (2001). Extension of the range of the Bryozoans Tricellaria inopinata and Bugula simplex in the north-east Atlantic ocean (Bryozoa: Cheilostomatida) Ned. Faunist. Meded. 14: 103-112"
+ad-hoc-checklist:taxon:bfcc3b0818bbb98a7b2ee4e54116386c,https://www.gbif.org/occurrence/download/0055570-200613084148143,https://www.gbif.org/occurrence/download/0055570-200613084148143
+ad-hoc-checklist:taxon:bfcc3b0818bbb98a7b2ee4e54116386c,,Eric Graitson
+ad-hoc-checklist:taxon:c0c9cd1c21da4c817adb6003f8bb5bd7,https://waarnemingen.be/waarneming/view/150305908,https://waarnemingen.be/waarneming/view/150305908
+ad-hoc-checklist:taxon:c2752e3916719b68c39881698c8dd712,,"Schaffner F, Van Bortel W, Coosemans M. First record of Aedes (Stegomyia) albopictusin Belgium. J Am Mosq Control Assoc. 2004 Jun;20(2):201-3"
+ad-hoc-checklist:taxon:c53ba30dc2319c9f31d074420251f777,https://www.gbif.org/occurrence/download/0055570-200613084148143,https://www.gbif.org/occurrence/download/0055570-200613084148143
+ad-hoc-checklist:taxon:c5cfa3fad2fb039f7dd06671f467b053,,"Van Keer, K. & Van Keer, J. 2003. In België aangetroffen exoten (Araneae) uit de collectie J. Van Keer. Nieuwsbrief van de Belgische Arachnologische Vereniging, 18(2-3):78-83."
+ad-hoc-checklist:taxon:c5da5ae346baceea796d914fbf8779b4,,"Ravoet J, Barbier Y, Klein W (2017) First observation of another invasive mud dauber wasp in Belgium: Sceliphron caementarium (Drury, 1773)(Hymenoptera: Sphecidae). Bulletin de la Société royale belge d’Entomologie, 153: 40-42."
+ad-hoc-checklist:taxon:c853660656a6faf1dbf25b120a37fb69,,SOS reptiel
+ad-hoc-checklist:taxon:c9e194d58f903091146e1893275a333c,,ARABEL exotendatabank (2018-08-10)
+ad-hoc-checklist:taxon:cad983be370e624195cba2275c0af12e,https://doi.org/10.1007/s00436-015-4544-6,"Huyse T, Vanhove MPM, Mombaerts M, Volckaert FAM, Verreycken H (2015) Parasite introduction with an invasive goby in Belgium: double trouble? Parasitology Research 114: 2789-2793. https://doi.org/10.1007/s00436-015-4544-6"
+ad-hoc-checklist:taxon:cbdc614106cabf7593745bf917c76fb4,,ARABEL exotendatabank (2018-08-10)
+ad-hoc-checklist:taxon:cbec69ccf8c8a22c49424028e1249d46,,"Verween et al., 2005, Adam, 1947"
+ad-hoc-checklist:taxon:cd1691e4cb907d5a0ac6486f23a6917f,,"Van Keer, K. 2010. An update on the verified reports of imported spiders (Araneae) from Belgium. Nieuwsbrief Belgische Arachnologische Vereniging 25(3): 210-214."
+ad-hoc-checklist:taxon:cd1691e4cb907d5a0ac6486f23a6917f,,ARABEL exotendatabank (2018-08-10)
+ad-hoc-checklist:taxon:cdfc7a143e4d978cd4ca0c83d60fc43d,,"Van Keer, K. 2011 Exotische spinnen in België. Een stand van zaken en recente trends. Natuur.focus, 10(3): 96-103."
+ad-hoc-checklist:taxon:cfc9218998f1ad6c9c12da96b6629754,,"Van Keer, K. 2010. An update on the verified reports of imported spiders (Araneae) from Belgium. Nieuwsbrief van de Belgische Arachnologische Vereniging 25(3): 210-214."
+ad-hoc-checklist:taxon:d07c09e8931cd123bb0d8dc463d13e9e,,SOS reptiel
+ad-hoc-checklist:taxon:d22fb25d305ce32b0672c8212c8d9244,,"Kekenbosch, R. 2008. Captures d'Hasarius adansoni (Audoin, 1826) et de Thanatus vulgaris (Simon, 1870). Nieuwsbrief van de Belgische Arachnologische Vereniging, 23(1):26-27."
+ad-hoc-checklist:taxon:d306ddeb22ed4a8e41b1afebc6c31b59,,"Chérot, F., Aukema,B., Bruers,J.& Viskens,G. (2011) Exotic species of Aradidae nad Miridae recently found in Antwerp harbour, bull KBVE 147: 15-19"
+ad-hoc-checklist:taxon:d40e2dd76238baec6aed6ea56d9a534b,,"Verbeylen, G. (2003) in Verkem, S., De Maeseneer, J., Vandendriessche, B., Verbeylen, G. & Yskout, S. Zoogdieren in Vlaanderen. Ecologie en verspreiding van 1987 tot 2002. Natuurpunt Studie en JNM-Zoogdierenwerkgroep, Mechelen en Gent, België."
+ad-hoc-checklist:taxon:d4a2b11e33a989be8eced3ee308a43ba,,SOS reptiel
+ad-hoc-checklist:taxon:d4a776a214729a3f11591a68aa900f87,,"Lock, K. (2006) Belgian Thysanoptera in the collections of the royal belgian institute of natural sciences. Bulletin de la Société royale belge d’Entomologie/Bulletin van de Koninklijke Belgische Vereniging voor Entomologie 142: 34-37"
+ad-hoc-checklist:taxon:d4b7adfe4d5857a15e3a05b676398888,https://www.hbvl.be/cnt/dmf20200724_95741235/zwarte-rattenslang-gevonden-langs-huis-in-zolder,https://www.hbvl.be/cnt/dmf20200724_95741235/zwarte-rattenslang-gevonden-langs-huis-in-zolder
+ad-hoc-checklist:taxon:d4b7adfe4d5857a15e3a05b676398888,,Matthieu Bufkens
+ad-hoc-checklist:taxon:d4e4618bd9c2f81c096cb372dd78b33d,,Anonymus 2008
+ad-hoc-checklist:taxon:d5d3f80372100602964cd1f8fa6265af,,Saltabel
+ad-hoc-checklist:taxon:d5fbeba170ae71d15efd3e15288de2c0,,"Van Keer, K. & Van Keer, J. 2001. Ingeburgerde exotische trilspinnen (Araneae: Pholcidae) in Antwerpse haven en enkele algemene bedenkingen bij spinnenmigratie. Nieuwsbrief van de Belgische Arachnologische Vereniging, 16(3):81-86."
+ad-hoc-checklist:taxon:d72168ac44c60424d6781eb17fff357e,,SOS reptiel
+ad-hoc-checklist:taxon:d72168ac44c60424d6781eb17fff357e,,Matthieu Bufkens
+ad-hoc-checklist:taxon:d91a8abaf72f10b60ce4099bd58542ce,,"Baert, L. 1987. Ctenidae met bananen ingevoerd in België. Nieuwsbrief van de Belgische Arachnologische Vereniging, 2(1):34."
+ad-hoc-checklist:taxon:d98583b9eb43e884fdb10e6db7cf0d50,https://www.gbif.org/occurrence/download/0055570-200613084148143,https://www.gbif.org/occurrence/download/0055570-200613084148143
+ad-hoc-checklist:taxon:dedfc4db712063102f022beb7a51eb6e,,"Adam, 1947 Adam, 1960"
+ad-hoc-checklist:taxon:def51f65f012deff94348ca9896a2dfc,,"Vanderweyen A & Fraiture A (2014) Catalogue des Ustilaginales sl de Belgique. Lejeunia, Revue de Botanique."
+ad-hoc-checklist:taxon:e17f60003207e5d8d1330373d72b4dac,,Van Loen et al. 2006 rode lijst
+ad-hoc-checklist:taxon:e2ebcc22f42f1657be8bd16ffcf20406,,SOS reptiel
+ad-hoc-checklist:taxon:e3183249eb168863b68db6b070f2b724,https://www.natuurhulpcentrum.be/4-luipaardgekko-s-gedumpt-/,https://www.natuurhulpcentrum.be/4-luipaardgekko-s-gedumpt-/
+ad-hoc-checklist:taxon:e34a17cad92dd24c7760578f629aba91,,"Kekenbosch, J. & Baert, L. 1978. Araignées nouvelles pour la faune de Belgique. Bulletin et Annales de la Société Royal Belge d’ Entomologie, 114 : 59-61."
+ad-hoc-checklist:taxon:e4e0c83e09cbcdffaea058abdfcfb10d,https://www.gbif.org/occurrence/download/0055570-200613084148143,https://www.gbif.org/occurrence/download/0055570-200613084148143
+ad-hoc-checklist:taxon:e509231e1de49b07403711a33f421387,,"Van Keer, K. & Van Keer, J. 2003. In België aangetroffen exoten (Araneae) uit de collectie J. Van Keer. Nieuwsbrief van de Belgische Arachnologische Vereniging, 18(2-3):78-83."
+ad-hoc-checklist:taxon:e53dcce2aa6c770d10b926c592279921,,ARABEL exotendatabank (2018-08-10)
+ad-hoc-checklist:taxon:e55c33cbf6cfb03b0fe0e4232fdbf68f,,caught by Hugo Verreycken
+ad-hoc-checklist:taxon:e6e31feacb743f390ac01dbf7d9d4070,,"De Smedt P, Arijs G, Segers S, Boeraeve P (2017) Woodlice of the green houses at Ghent Botanical Garden and Botanic Garden Meise with two new exotic species for Belgium (Isopoda: Oniscidae). Bulletin de la Société royale belge d’Entomologie/Bulletin van de Koninklijke Belgische Vereniging voor Entomologie, 153: 109-112."
+ad-hoc-checklist:taxon:e718a5157d8df94fca60e574b75e76af,,SOS reptiel
+ad-hoc-checklist:taxon:e7b1ab902d0c460759a7aaeaa4ef3c12,,"Vanderweyen A & Fraiture A (2014) Catalogue des Ustilaginales sl de Belgique. Lejeunia, Revue de Botanique."
+ad-hoc-checklist:taxon:e7ce7d0acb022af236a990ebfa507507,,"Dekoninck W, Parmentier T & Seifert B, 2016. First records of a supercolonial species of theTapinoma nigerrimumcomplex in Belgium (Hymenoptera : Formicidae).Bulletin S.R.B.E./K.B.V.E, 151: 206-209."
+ad-hoc-checklist:taxon:e8c73cf9bebea458fb2cab945c4ea440,https://waarnemingen.be/waarneming/view/80562225,https://waarnemingen.be/waarneming/view/80562225
+ad-hoc-checklist:taxon:e8f79cad319e753e337228a7c8305dea,https://www.naturetoday.com/intl/nl/nature-reports/message/?msg=24929,https://www.naturetoday.com/intl/nl/nature-reports/message/?msg=24929
+ad-hoc-checklist:taxon:e90ab1c2346eb4d804222a191bbd39c9,,"Adriaens, T., and G. De Knijf. 2015. A first report of introduced non-native damselfly species (Zygoptera, Coenagrionidae) for Belgium. Belg. J. Zool 145:76-80."
+ad-hoc-checklist:taxon:e91e6ad3c7d8fc6a7ad46cf5e2920fc0,,Steeman & Veraghtert 2011 Natuur.Focus
+ad-hoc-checklist:taxon:e9e2c06c197255f5b143056274086f56,,"Van Keer, K. 2010. An update on the verified reports of imported spiders (Araneae) from Belgium. Nieuwsbrief van de Belgische Arachnologische Vereniging 25(3): 210-214."
+ad-hoc-checklist:taxon:ea75f869bf4fef4a9b278a4cca5b17ca,,unpubl. observation
+ad-hoc-checklist:taxon:ea9ce2308eceec4408dc779b2c41e1b5,https://www.hylawerkgroep.be/static/files/0206/Groene%20kikkers%20in%20Vlaanderen%20en%20BHG%2015_07_2010.pdf,"Holsbeek et al. 2008, 2009, 2010; https://www.hylawerkgroep.be/static/files/0206/Groene%20kikkers%20in%20Vlaanderen%20en%20BHG%2015_07_2010.pdf"
+ad-hoc-checklist:taxon:eb7400f37768e5a38463282a1acfa295,,"Van den Neucker T & Scheers K (2014). The recent colonisation and rapid spread in Belgium of the alien girdled snail Hygromia cinctella (Gastropoda: Hygromiidae). Journal of Conchology, 41(6): 1-2."
+ad-hoc-checklist:taxon:ec229aaed3b70bcd59d7f94760622f76,,"Van Keer, K. 2007. Exotic spiders (Araneae): Verified reports from Belgium of imported species (1976-2006) and some notes on apparent neozoan invasive species. Nieuwsbrief van de Belgische Arachnologische Vereniging, 22(2):45-54."
+ad-hoc-checklist:taxon:eca3f594f039612365bc9f2759252af7,,"Vanderweyen A & Fraiture A (2014) Catalogue des Ustilaginales sl de Belgique. Lejeunia, Revue de Botanique."
+ad-hoc-checklist:taxon:ee8cf5de4b7621cecee5bbf07496278a,,"Van Keer, K. & Van Keer, J. 2001. Ingeburgerde exotische trilspinnen (Araneae: Pholcidae) in Antwerpse haven en enkele algemene bedenkingen bij spinnenmigratie. Nieuwsbrief van de Belgische Arachnologische Vereniging, 16(3):81-86."
+ad-hoc-checklist:taxon:ef3160b26c1f70d22f528507d9946a05,http://www.hylawerkgroep.be/files/0048/hyla_flits_017_censuur.pdf,http://www.hylawerkgroep.be/files/0048/hyla_flits_017_censuur.pdf
+ad-hoc-checklist:taxon:ef3160b26c1f70d22f528507d9946a05,https://www.lacerta.de/AF/Bibliografie/BIB_8294.pdf,https://www.lacerta.de/AF/Bibliografie/BIB_8294.pdf
+ad-hoc-checklist:taxon:efa6a6192af8fd2b5b8d4a1ea1b5f0e0,https://www.gbif.org/occurrence/download/0055570-200613084148143,https://www.gbif.org/occurrence/download/0055570-200613084148143
+ad-hoc-checklist:taxon:efa6a6192af8fd2b5b8d4a1ea1b5f0e0,,Eric Graitson
+ad-hoc-checklist:taxon:f071e3c4f985f734e14d7e4b72e971b9,https://www.gbif.org/occurrence/download/0055570-200613084148143,https://www.gbif.org/occurrence/download/0055570-200613084148143
+ad-hoc-checklist:taxon:f09c56016ccab28e3f0602b0eac0b4da,,"Lock, K. (2006) Belgian Thysanoptera in the collections of the royal belgian institute of natural sciences. Bulletin de la Société royale belge d’Entomologie/Bulletin van de Koninklijke Belgische Vereniging voor Entomologie 142: 34-37"
+ad-hoc-checklist:taxon:f18f9214b2bf772321015ba378f1394e,http://www.zoogdierwinkel.nl/sites/default/files/imce/nieuwesite/Winkel/pdf%20download/Zoogdier_Jaargang_19_2_2008_JUN_0.pdf,Van den Berge Zoogdier http://www.zoogdierwinkel.nl/sites/default/files/imce/nieuwesite/Winkel/pdf%20download/Zoogdier_Jaargang_19_2_2008_JUN_0.pdf
+ad-hoc-checklist:taxon:f3ce196a13f1fce9d15cc2db9d440787,,"Van Keer, K. 2007. Exotic spiders (Araneae): Verified reports from Belgium of imported species (1976-2006) and some notes on apparent neozoan invasive species. Nieuwsbrief van de Belgische Arachnologische Vereniging, 22(2):45-54."
+ad-hoc-checklist:taxon:f3d0959a8575a4a52c8a211e5cc47340,,Burny & Parent 1985
+ad-hoc-checklist:taxon:f3d0959a8575a4a52c8a211e5cc47340,,Eric Graitson
+ad-hoc-checklist:taxon:f3d0959a8575a4a52c8a211e5cc47340,,Jooris 2002
+ad-hoc-checklist:taxon:f3d0959a8575a4a52c8a211e5cc47340,,Anonymus 2008
+ad-hoc-checklist:taxon:f43bb2ef0ffab0a3694bd861aadfa309,https://www.gbif.org/occurrence/download/0055570-200613084148143,https://www.gbif.org/occurrence/download/0055570-200613084148143
+ad-hoc-checklist:taxon:f503e5bee64ceed3cfc06ee0d74d9155,,Verbeelen F (2008) Entomologische bijdragen. III. 1 bijdrage tot de keverfauna (Coleoptera) van Belgie. Exoten. Entomo-Info 19(4): 75.
+ad-hoc-checklist:taxon:f7c7818bf27d9ec26a84c9961e80239e,,"Proesmans, W., & De Smedt, P. (2015). The millipede Cylindroiulus britannicus (Verhoeff, 1891) new for the Belgian fauna (Diplopoda: Julidae). Bulletin de la Société royale belge d’Entomologie, 151, 239-242."
+ad-hoc-checklist:taxon:f83687040e9fd51e6c9f36e397a917d7,,ARABEL exotendatabank (2018-08-10)
+ad-hoc-checklist:taxon:f91b4c42b31377b277a8eb1aeef594b5,,unpubl. observation
+ad-hoc-checklist:taxon:f9c3ffbeb12488f4e53fd03493d4a64e,https://doi.org/10.3897/JHR.41.8681,"Blank SM et al. (2014) Zig-zagging across Central Europe: recent range extension, dispersal speed and larval host of Aproceros leucopoda (Hymenoptera, Argidae) in Germany. Journal of Hymenoptera Research 41: 57-74. https://doi.org/10.3897/JHR.41.8681"
+ad-hoc-checklist:taxon:f9c3ffbeb12488f4e53fd03493d4a64e,,Boevé J-L (2014) 7. Bulletin de la Société Royale Belge d’Entomologie 149: 217–221.
+ad-hoc-checklist:taxon:fad46cc07ab3741607e5becc86770619,,"Mortelmans J, Casteels H, Beliën T (2012) Drosophila suzukii (Diptera: Drosophilidae): A pest species new to Belgium. Belg J Zool 142:143-6"
+ad-hoc-checklist:taxon:fb8de3044136ba88f5a33338f458935c,,"Sablon et al., 2010, Vandenneuker, Packet et al. Science facing aliens"
+ad-hoc-checklist:taxon:fc0756ca816f9a52f7a98d5c26dc9b1f,,"Kekenbosch, R. 2008. Un cas de morsure de Selenops radiatus Latreille, 1819 (Araneae: Selenopidae). Nieuwsbrief van de Belgische Arachnologische Vereniging, 23(1):28-29."
+ad-hoc-checklist:taxon:fc3cffd91760b4eb06bc486d02912bf4,,"Van Keer, K. 2010. An update on the verified reports of imported spiders (Araneae) from Belgium. Nieuwsbrief van de Belgische Arachnologische Vereniging 25(3): 210-214."
+ad-hoc-checklist:taxon:fd373fcdb559cd7b0c5c6099a703533f,http://www.formicidae-atlas.be,http://www.formicidae-atlas.be
+ad-hoc-checklist:taxon:fec1c23f4c58eef8b3fe828ed2b762a5,,"Lock, K. (2006) Belgian Thysanoptera in the collections of the royal belgian institute of natural sciences. Bulletin de la Société royale belge d’Entomologie/Bulletin van de Koninklijke Belgische Vereniging voor Entomologie 142: 34-37"

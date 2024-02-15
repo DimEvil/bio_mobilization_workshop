@@ -4,13 +4,9 @@ start: true
 teaching: 30
 exercises: 30
 questions:
-- "What is IPT?"
-- "How is IPT organized"
-- "The GBIF portal"
+- "How is IPT organized and managed"
 objectives:
-- "Understand how IPT works."
-- "Understand how GBIF is organized."
-- "Basic understanding of the GBIF portal"
+- "Understand how IPT can be managed"
 keypoints:
 - "The GBIF portal is the place to find biodiversity data"
 ---
@@ -20,7 +16,22 @@ keypoints:
     <img src="{{ '/assets/img/iptadmin.PNG' | relative_url }}">
   </a>
 
+> ## Exercises 1: Get familiar with the Croatian IPT 
+>
+> You should be already a little bit familiar with the Croatian IPT. Now Login as an admin and use the force
+>
+> 1. Add a logo to your IPT installation
+> 2. Change the IPT colors to the colors you want
+> 3. Add a user account ~role Manager with registration rights (You can delete this user af needed)
+> 4. Any organisations we would like to add?
+> 5. Make sure all the Core types and extensions are available
+> 
+> > ## Solution
+> > 1. You are familiarized with your IPT instance
+> {: .solution}
+{: .challenge}
 
-# presentation IPT resource management
+
+
 
 
