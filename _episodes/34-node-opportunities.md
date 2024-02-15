@@ -89,6 +89,23 @@ For questions regarding the Data Use Club, please contact [datause@gbif.org](mai
     <img src="{{ 'assets/img/ambassadors.PNG' | relative_url }}" alt="ambassadors" width="600">
 </a>
 
+The success of GBIF depends in part on establishing a good understanding within research and policy communities of the benefits and opportunities provided by free and open access to biodiversity data, as well as the importance of responsible use of such data through proper citation and attribution.
+
+The GBIF Secretariat and GBIF participant nodes work to promote this understanding through their communication platforms, at meetings and across networks around of the world. However, this relatively small group can never hope to reach all relevant communities without assistance.
+
+Biodiversity Open Data Ambassadors can fill that gap. If you are a biodiversity professional who promotes the principles and best practices of open data sharing and use, we can equip you with information resources, networking opportunities and recognition to make you an even more effective advocate in your own professional communities.
+
+## How to become a GBIF data ambassador
+
+Are you a potential Biodiversity Open Data Ambassador? We ask for some minimum qualifications and a basic level of commitment, namely that:
+
+* You can provide at least one example in which *you have shared biodiversity data through GBIF, used GBIF-mediated data, and/or advocated open data in your professional capacity*
+* You agree with the ICSU-World Data System Data Sharing Principles: in short, that data should be shared openly in a timely manner, with the fewest restrictions possible and used with proper citation.
+* You consent to have your *contact details openly available on GBIF.org*, and possibly on websites run by GBIF nodes and partners
+* You consent to be contacted by GBIF Secretariat and GBIF nodes with requests to promote open biodiversity data at particular events
+* You undertake to provide details of at least one example each year of an event, publication or process in which you have advocated for open biodiversity data
+
+  If you fit the description above, it's simple—just fill out [this](https://docs.google.com/forms/d/e/1FAIpQLSeIdy8-t98F3ZcXGJv5B6cqx_9mh_XknlCFpywkWe-ehTOZ_g/viewform) form.
 
 # GBIF translators
 
@@ -96,7 +113,13 @@ For questions regarding the Data Use Club, please contact [datause@gbif.org](mai
     <img src="{{ 'assets/img/translators.PNG' | relative_url }}" alt="translators" width="600">
 </a>
 
-https://www.gbif.org/translators
+## Can I join the GBIF translator community?
+The work of translation is never done: we are always creating new content, and we introduce small but incremental additions and adjustments to the user interface on an almost weekly basis. We often have other publications and documentation in need of translations (or updated translations), so we welcome the involvement of newcomers who can help us maintain progress in making free and open data even more widely accessible around the world.
+
+If you are interested in joining our volunteer community, please feel free to email us at communication@gbif.org. We'll discuss current priorities and arrange a time to orient you to the key tools and the most pressing tasks.
+
+If you already have experience with CrowdIn (which our community first started using in 2014 to translate the interface for the GBIF IPT), you can simply request to join the CrowdIn project for your preferred language.
+
 
 
 # Ebbe Nielsen Challenge
@@ -104,6 +127,21 @@ https://www.gbif.org/translators
 <a href="https://www.gbif.org/ebbe">
     <img src="{{ 'assets/img/ebbe.PNG' | relative_url }}" alt="ebbe" width="600">
 </a>
+
+The **GBIF Ebbe Nielsen Challenge** is an annual incentive prize that seeks to inspire innovative applications of open-access biodiversity data by scientists, informaticians, data modelers, cartographers and other experts.
+
+The call for entries for the 2024 Ebbe Nielsen Challenge is now open! DEADLINE: 24 August 2024
+
+Like the Ebbe Nielsen Prize it replaced, the Challenge honours the memory of Dr Ebbe Schmidt Nielsen, an inspirational leader in the fields of biosystematics and biodiversity informatics and one of the principal founders of GBIF, who died unexpectedly just before it came into being.
+
+While the focus of the competition has evolved from year to year, Challenge entries manifest a variety of forms and approaches—new analytical research, richer policy-relevant visualizations, web and mobile applications, or improvements to processes around data digitization, quality and access.
+Allocations from the annual prize pool of €20,000 will award the first-place team with €8,000, €6,000 for second place, and €3,000 each for the third-place winners.
+
+
+<a href="https://gbif-alert-demo.thebinaryforest.net/">
+    <img src="{{ 'assets/img/ebbewinner.PNG' | relative_url }}" alt="ebbewinner" width="600">
+</a>
+
 
 # The Graduate Researchers Award
 
