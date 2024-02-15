@@ -18,13 +18,13 @@ keypoints:
 # Living atlasses community
 
 <a href="https://living-atlases.gbif.org/">
-    <img src="{{ 'assets/img/livingatlas.PNG' | relative_url }}" alt="LA" width="600">
+    <img src="{{ 'assets/img/livingatlas.PNG' | relative_url }}" alt="LA" width="550">
 </a>
 
 # CESP: Capacity Enhancement Support Programme
 
 <a href="https://www.gbif.org/programme/82219/capacity-enhancement-support-programme">
-    <img src="{{ 'assets/img/cesp.PNG' | relative_url }}" alt="cesp" width="600">
+    <img src="{{ 'assets/img/cesp.PNG' | relative_url }}" alt="cesp" width="550">
 </a>
 
 https://www.gbif.org/programme/82219/capacity-enhancement-support-programme
