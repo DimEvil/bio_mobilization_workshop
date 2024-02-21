@@ -26,7 +26,7 @@ The [Integrated Publishing Toolkit (IPT)](https://www.gbif.org/ipt) is an open-s
 - general metadata about data sources
 - taxon checklists
 
-GBIF maintains a very detailed [IPT manual](https://ipt.gbif.org/manual/en/ipt/latest/) The Croatian IPT is available [here](ipt.bioportal.hr). 
+GBIF maintains a very detailed [IPT manual](https://ipt.gbif.org/manual/en/ipt/latest/) The Croatian IPT is available [here](https://ipt.livingatlas-demo.verox.hr/). 
 
 The requirements for publishing data through your node IPT are that:
 
