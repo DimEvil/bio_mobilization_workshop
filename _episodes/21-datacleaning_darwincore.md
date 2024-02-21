@@ -8,7 +8,7 @@ questions:
 - "How to convert latitudes and longitudes to decimal degrees?"
 objectives:
 - "Aligning dates to the ISO 8601 standard."
-- "Matching scientific names to WoRMS."
+- "Matching scientific names"
 - "Converting latitude and longitude variations to decimal degrees North and East."
 keypoints:
 - "When doing conversions it's best to break out your data into it's component pieces."
