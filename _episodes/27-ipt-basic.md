@@ -178,6 +178,7 @@ To publish your data, follow the 7 steps below.
 > > 3. provide a new shortname
 > > 4. select type `checklist` and push `create`
 > > 5. deal with the `source data` import all files in the IPT. In the IPT, for taxon choose `source data is url` instead of file and use this url [raw Github content](https://raw.githubusercontent.com/trias-project/ad-hoc-checklist/master/data/processed/taxon.csv)
+> >    <img src="{{ 'assets/img/extra/iptsourceurl.PNG' | relative_url }}" alt="import" width="400">{: .image-with-shadow }
 > > 6. deal with `darwin core mappings` for the `distribution` file
 > > 7. deal with `darwin core mappings` for the `distribution` file
 > > 8. deal with `darwin core mappings` for the `profile` file

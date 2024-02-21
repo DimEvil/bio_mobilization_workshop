@@ -18,5 +18,5 @@ Načelnica Sektora za prirodu / Head of the Nature sector <br>
 Zavod za zaštitu okoliša i prirode / Institute for Environment and Nature
 
 
-# Feedback and expectations on the survey
-
+# [Pre-workshop survey](https://docs.google.com/presentation/d/1TADkB7NcHOmR5NfGkUv7Wxh956rfIVg0YvitzkCleS4/edit?usp=sharing)
+![Preparatory Survey](../assets/img/PreparatorySurvey.png)
