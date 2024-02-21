@@ -553,5 +553,7 @@ Helpful packages for managing CRS and geodetic datum:
 >   ```
 {: .solution}
 
+You can find some more tutorials on data transformation and publication on the INBO tutorial page: [https://inbo.github.io/tutorials/](https://inbo.github.io/tutorials/)
+
 {% include links.md %}
   
