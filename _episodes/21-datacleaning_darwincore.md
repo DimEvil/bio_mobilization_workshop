@@ -16,6 +16,13 @@ keypoints:
 - "Latitude and longitudes are like dates, they can be messy to deal with. Take a similar approach."
 ---
 
+Some usefull links:
+
+* [INBO/tutorials/](https://inbo.github.io/tutorials/tutorials/)
+* [INBO/coding-club/](https://inbo.github.io/coding-club/)
+* [/trias-project/checklist-recipe/wiki](https://github.com/trias-project/checklist-recipe/wiki)
+* [data publication scripts](https://github.com/inbo/mica-occurrences/tree/master)
+
 Now that you know what the mapping is between your raw data and the Darwin Core standard, it's time to start cleaning up 
 the data to align with the conventions described in the standard. The following activities are the three most common 
 conversions a dataset will undergo to align to the Darwin Core standard:
@@ -552,6 +559,8 @@ Helpful packages for managing CRS and geodetic datum:
 >    [1] -117.5887
 >   ```
 {: .solution}
+
+You can find some more tutorials on data transformation and publication on the INBO tutorial page: [https://inbo.github.io/tutorials/](https://inbo.github.io/tutorials/)
 
 {% include links.md %}
   

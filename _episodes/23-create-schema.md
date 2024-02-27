@@ -2,7 +2,7 @@
 title: "Darwin Core+Extensions archive"
 start: true
 teaching: 20
-exercises: 70
+exercises: 60
 questions:
 - "What is a core and what are the extensions in Darwin Core?"
 - "How to organize my data and metadata?"

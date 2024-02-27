@@ -170,7 +170,7 @@ Based on their scientific impact, relevance and uniqueness as well as diversity 
 
 The applicability of free and open biodiversity data spans beyond academia, as GBIF-mediated data is also used to inform decision-making and policy—ranging from documents produced by local and national agencies—to extinction risk assessments for thousands of species on the IUCN Red List of Threatened Species— and comprehensive reports by large-scale intergovernmental and convention-based bodies—such as the Intergovernmental Panel on Climate Change **(IPCC)** and the the Intergovernmental Science-Policy Platform on Biodiversity and Ecosystem Services **(IPBES)**.
 
-# GBIF mentors and trianers
+# GBIF mentors and trainers
 
 <a href="https://www.gbif.org/mentors">
     <img src="{{ 'assets/img/mentors.PNG' | relative_url }}" alt="Mentors" width="600">{: .image-with-shadow }
