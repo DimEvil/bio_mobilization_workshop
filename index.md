@@ -172,7 +172,25 @@ What the technical workshop will cover
 * GRSCiColl (Global Registry of Scientific Collections)
 * GBIF Registry
 
+## Some pictures
 
+<p class="d-flex justify-content-around align-items-center">
+  <a href="https://mingor.gov.hr/">
+    <img src="{{ '/fig/workshop1.jpg' | relative_url }}" alt="Croatia" width="300">
+  </a>
+  <a href="https://mingor.gov.hr/">
+    <img src="{{ '/fig/workshop2.jpg' | relative_url }}" alt="Belgian GBIF node" width="300">
+  </a>
+  <a href="https://mingor.gov.hr/">
+    <img src="{{ '/fig/workshop3.jpg' | relative_url }}" alt="CESP" width="300">
+  </a>
+  <a href="https://mingor.gov.hr/">
+    <img src="{{ '/fig/workshop4.jpg' | relative_url }}" alt="Croatia" width="300">
+  </a>
+  <a href="https://mingor.gov.hr/">
+    <img src="{{ '/fig/workshop5.jpg' | relative_url }}" alt="Belgian GBIF node" width="300">
+  </a>
+</p>
 
 ## Audience
 

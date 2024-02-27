@@ -17,7 +17,7 @@ keypoints:
 
 
 <a href="https://docs.google.com/presentation/d/1A56JdP0Bu2aD94ixwHYuyHwWwAJmIf4xIYQRlK-CRAQ/edit?usp=sharing">
-    <img src="{{ '/assets/img/croatia_atlas.PNG' | relative_url }}">
+    <img src="{{ '/assets/img/croatia_atlas.png' | relative_url }}">
   </a>
 
 
