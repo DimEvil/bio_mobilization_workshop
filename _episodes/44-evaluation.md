@@ -5,7 +5,9 @@ break: 60
 ---
 
 <p class="d-flex justify-content-around align-items-center">
+  <a>
   <img src="{{ '/assets/img/evaluation/eval1.png' | relative_url }}" alt="evaluation" width="250">
+  <\a>
 </p>
 
 <p class="d-flex justify-content-around align-items-center">
