@@ -4,6 +4,9 @@ title: "evaluation"
 break: 60
 ---
 
+<p class="d-flex justify-content-around align-items-center">
+  <img src="{{ '/assets/img/evaluation/eval1.png' | relative_url }}" alt="evaluation" width="250">
+</p>
 
 <p class="d-flex justify-content-around align-items-center">
   <img src="{{ '/assets/img/croatia.png' | relative_url }}" alt="evaluation" width="250">
