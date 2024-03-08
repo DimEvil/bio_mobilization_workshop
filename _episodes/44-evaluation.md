@@ -4,6 +4,7 @@ title: "evaluation"
 break: 60
 ---
 
+ <img src="{{ '/assets/img/openscience.PNG' | relative_url }}">
 
 <p class="d-flex justify-content-around align-items-center">
   <img src="{{ '/assets/img/.png' | relative_url }}" alt="evaluation">
