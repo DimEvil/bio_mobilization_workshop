@@ -96,8 +96,6 @@ Edit the general explanatory paragraph below if you want to change
 the pitch.
 {% endcomment %}
 
-
-
 In February, a full week of GBIF immersion will be organized in Croatia. Next to a GBIF community workshop, where we will learn on how GBIF works, we will also organize 2 full days on data cleaning and publication.
 These 2 days (February 21 and 22th) are intended to be a hands-on workshop focused on mobilizing biological observation datasets to the <a href="https://gbif.org/">Global Biodiversity Information Facility (GBIF)</a> by helping data providers standardize their data using Darwin Core including species observations from any type of sampling methodologies (e.g. visual surveys, microscopy, imaging, telemetry). The other 3 days are dedicated to setting op the GBIF node in Croatia in the framework of the GBIF CESP CROMENT (Mentoring Croatia) project. This workshop is organized by a The Belgian Biodiversity Platform & the Croatian Institute for Environment and Nature & The Habitat Foundation. For more information on the Croment procject, [visit](https://www.gbif.org/project/CESP2023-006/croment) this website
 
@@ -134,6 +132,30 @@ What the data workshop will cover:
 * Tools that will help in all of the above processes.
 
 The goal is that by the end of the workshop you will have a dataset in a final standardized state and shared to GBIF. We are hoping to address some of the identified blockers, including: lack of time, training, and specific formatting questions.
+
+#### *some pictures*
+
+<p class="d-flex justify-content-around align-items-center">
+  <a href="https://mingor.gov.hr/">
+    <img src="{{ '/fig/img6.png' | relative_url }}" alt="Hands on" width="200">
+  </a>
+  <a href="https://biodiversity.be/">
+    <img src="{{ '/fig/img7.png' | relative_url }}" alt="Group picture" width="400">
+  </a>
+  <a href="https://mingor.gov.hr/">
+    <img src="{{ '/fig/img8.png' | relative_url }}" alt="Hands on" width="200">
+  </a>
+  <a href="https://mingor.gov.hr/">
+    <img src="{{ '/fig/img9.png' | relative_url }}" alt="Stakeholder exercise" width="200">
+  </a>
+  <a href="https://mingor.gov.hr/">
+    <img src="{{ '/fig/img10.png' | relative_url }}" alt="Nodes meeting" width="200">
+  </a>
+  <a href="https://mingor.gov.hr/">
+    <img src="{{ '/fig/img11.png' | relative_url }}" alt="Hands on" width="200">
+  </a>
+</p>
+
 
 We have a short time together therefore our focus will be hands-on work in breakout rooms using the dataset you bring to the workshop. We will not have many presentations and they will be relatively short. Instead we will have large portions of time for you to work on your data and ask questions when you hit a stumbling block. Therefore, if you do not have a dataset to work on you may not find this workshop a good use of your time.
 
