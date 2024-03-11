@@ -137,22 +137,22 @@ The goal is that by the end of the workshop you will have a dataset in a final s
 
 <p class="d-flex justify-content-around align-items-center">
   <a href="https://mingor.gov.hr/">
-    <img src="{{ '/fig/img6.png' | relative_url }}" alt="Hands on" width="200">
+    <img src="{{ '/fig/img6.jng' | relative_url }}" alt="Hands on" width="200">
   </a>
   <a href="https://biodiversity.be/">
-    <img src="{{ '/fig/img7.png' | relative_url }}" alt="Group picture" width="400">
+    <img src="{{ '/fig/img7.jng' | relative_url }}" alt="Group picture" width="400">
   </a>
   <a href="https://mingor.gov.hr/">
-    <img src="{{ '/fig/img8.png' | relative_url }}" alt="Hands on" width="200">
+    <img src="{{ '/fig/img8.jng' | relative_url }}" alt="Hands on" width="200">
   </a>
   <a href="https://mingor.gov.hr/">
-    <img src="{{ '/fig/img9.png' | relative_url }}" alt="Stakeholder exercise" width="200">
+    <img src="{{ '/fig/img9.jng' | relative_url }}" alt="Stakeholder exercise" width="200">
   </a>
   <a href="https://mingor.gov.hr/">
-    <img src="{{ '/fig/img10.png' | relative_url }}" alt="Nodes meeting" width="200">
+    <img src="{{ '/fig/img10.jng' | relative_url }}" alt="Nodes meeting" width="200">
   </a>
   <a href="https://mingor.gov.hr/">
-    <img src="{{ '/fig/img11.png' | relative_url }}" alt="Hands on" width="200">
+    <img src="{{ '/fig/img11.jng' | relative_url }}" alt="Hands on" width="200">
   </a>
 </p>
 
@@ -194,7 +194,7 @@ What the technical workshop will cover
 * GRSCiColl (Global Registry of Scientific Collections)
 * GBIF Registry
 
-## Some pictures
+#### Some more pictures
 
 <p class="d-flex justify-content-around align-items-center">
   <a href="https://mingor.gov.hr/">
