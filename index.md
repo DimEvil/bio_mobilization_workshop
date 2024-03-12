@@ -135,12 +135,13 @@ The goal is that by the end of the workshop you will have a dataset in a final s
 
 #### *some pictures*
 
+<a href="https://www.biodiversity.be/">
+    <img src="{{ '/fig/img7.JPG' | relative_url }}" alt="Group picture" width="800">
+  </a>
+
 <p class="d-flex justify-content-around align-items-center">
   <a href="https://mingor.gov.hr/">
     <img src="{{ '/fig/img6.jpg' | relative_url }}" alt="Hands on" width="200">
-  </a>
-  <a href="https://biodiversity.be/">
-    <img src="{{ '/fig/img7.JPG' | relative_url }}" alt="Group picture" width="400">
   </a>
   <a href="https://mingor.gov.hr/">
     <img src="{{ '/fig/img8.jpg' | relative_url }}" alt="Hands on" width="200">
