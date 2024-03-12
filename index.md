@@ -220,7 +220,7 @@ What the technical workshop will cover
 The hands-on workshop is open for researchers, data curaters, data managers who have an interest in the publication of data on <a href="https://gbif.org/"> the Global Biodiversity Information Facility (GBIF)</a> 
 The GBIF community workshop is on invitation only. However the material available on this website could be of interest for anyone who is developping a GBIF Node and community.
 
-The workshop is organized in the CESP project CROMET, a GBIF funded project on capacity building.
+The workshop is organized in the CESP project CROMENT, a GBIF funded project on capacity building.
 
 {% if site.carpentry == "swc" %}
 {% include swc/who.html %}
